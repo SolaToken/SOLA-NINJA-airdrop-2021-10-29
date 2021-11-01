@@ -1,0 +1,6759 @@
+{
+  "holders": [
+    {
+      "address": "FtUQ7PdGLAECFzqzWZj45b9ehnz6oMEAtyjC6sdnU6y4",
+      "ticket": 538,
+      "sola": 538000
+    },
+    {
+      "address": "GSGkfxrfRz1cyWidFs2nNvx6ntyYaTGcXBppZNFVJZxY",
+      "ticket": 520.0,
+      "sola": 520291.941791751
+    },
+    {
+      "address": "FD6nCYy9FKKoQTRskuipDV2fosnMC6ykFQYi8LhEjZPu",
+      "ticket": 412.0,
+      "sola": 412872.215057294
+    },
+    {
+      "address": "CYNMRHRnM7bNaguqwd4r8UdhDgWWxeUWTRmrDfb5oGDp",
+      "ticket": 401.0,
+      "sola": 401603.464258745
+    },
+    {
+      "address": "AxVjrzgkjMfvox2J9W9rCiNo3qznajHVbiB6LpXHy4bB",
+      "ticket": 359.0,
+      "sola": 359000.222982718
+    },
+    {
+      "address": "EbmJAiWmHE8xYrfwDzYhBbNBHeqqu7bcivtYMUmDFNg",
+      "ticket": 355.0,
+      "sola": 355184.52292579
+    },
+    {
+      "address": "DkLLFdBQmUcLuJTgVEeqnTfjWEaFdjCDN6vibdGEixJT",
+      "ticket": 320,
+      "sola": 320110
+    },
+    {
+      "address": "BS5YQGr2J45Qcr4hqd6HrKWsK9aVY3fTrFh4aBZp1tdH",
+      "ticket": 308,
+      "sola": 308262
+    },
+    {
+      "address": "7xNoDJJn7RoWZkwX3AYf3MDJFwStSN8ZiWHtqBu7N29W",
+      "ticket": 306.0,
+      "sola": 306782.905636607
+    },
+    {
+      "address": "6T3fTy8NZeLHyvM4ySWbMtmFWYMYNUYDktm7kvXZRB7o",
+      "ticket": 288.0,
+      "sola": 288091.999999999
+    },
+    {
+      "address": "2SPFywSTB6reyWgHdhvNJAE9Sms6KBxt62DeJzxEUKFH",
+      "ticket": 265.0,
+      "sola": 265255.286480292
+    },
+    {
+      "address": "DUnmotVPhDmw2uDQ4Mt11yWHRZjmt87PUx87PndtLFni",
+      "ticket": 251.0,
+      "sola": 251222.255684462
+    },
+    {
+      "address": "2Fr8Zwd9DLncNghANYf7y1pNJGh7aY3bmuQGnD1RX34H",
+      "ticket": 235.0,
+      "sola": 235120.676031725
+    },
+    {
+      "address": "278uCmxQ4b9dqBiuZrDSpEvvCihHjsJ6GmS1VDi38C82",
+      "ticket": 203,
+      "sola": 203000
+    },
+    {
+      "address": "2P62FG7oEWFGhZbgyDvUAUQ7WzTq4s94wjYqxf8EVRwj",
+      "ticket": 198.0,
+      "sola": 198572.646861034
+    },
+    {
+      "address": "EKpNcNR53aS4LmuHmbqULqGuLhrdqbE3KU3ahVtTFPCW",
+      "ticket": 193.0,
+      "sola": 193257.756637824
+    },
+    {
+      "address": "Efn5AUJKc2GWjCkXNNztaZmYN6vtE8RxzSUmRwHsC73S",
+      "ticket": 185.0,
+      "sola": 185331.6737034
+    },
+    {
+      "address": "J7xwPbBWCtjoqz14SJ1WL9xJLMiFGSAquQ7YSz6Cm9By",
+      "ticket": 182.0,
+      "sola": 182964.870430448
+    },
+    {
+      "address": "3SMGExCfmhvTHbD4WdJsXUMNP3oLFEduQBvKs7qH5Yih",
+      "ticket": 180,
+      "sola": 180820
+    },
+    {
+      "address": "37UStdGBgjiEexPvigH28djsu6HqTrSbEZBbrYGGXmNU",
+      "ticket": 178.0,
+      "sola": 178520.48696039
+    },
+    {
+      "address": "Aufwy84uwDSvwaiNbLbf32nAW46vLP34hxBjC5wNzvjP",
+      "ticket": 165.0,
+      "sola": 165866.723057033
+    },
+    {
+      "address": "8wAcjR9ikvDujTv5ayvmvXChqrUJ7ScyWxs6HZRXEWA8",
+      "ticket": 161.0,
+      "sola": 161000.009323108
+    },
+    {
+      "address": "44CmHUwbJCRwcxGDkNkSFtcpkWUmUY2AzruNahDDFmUx",
+      "ticket": 160.0,
+      "sola": 160021.106495371
+    },
+    {
+      "address": "FRaya74c7SvwvcjbEEBMzgWvsfdq8PQKgSvvvxpLrZwA",
+      "ticket": 145.0,
+      "sola": 145761.285352867
+    },
+    {
+      "address": "ACCW7qrYqBccekaZVGtaDsrSGwYZK1NMGvmxABKSoQ3u",
+      "ticket": 139.0,
+      "sola": 139458.613496149
+    },
+    {
+      "address": "HWEUxxngoj9hJQtrWF1a35p9DqKM9JYy7eaZ7mqYWGXY",
+      "ticket": 131.0,
+      "sola": 131925.391749277
+    },
+    {
+      "address": "9z195KDeHczXusmiw2WDchynYQVQTFiymrL8MHtaTvuJ",
+      "ticket": 129.0,
+      "sola": 129699.364903377
+    },
+    {
+      "address": "4ecDJ2vFmhxMZo8pLDAHJNqBfPRWYNNSqfuHTTKFVUgF",
+      "ticket": 128,
+      "sola": 128144
+    },
+    {
+      "address": "2P3oWzG81ECjf7p3wJPrmF3D6sYzHgr3AtrcV4qgGQaE",
+      "ticket": 127,
+      "sola": 127629
+    },
+    {
+      "address": "6WDkA6EKmpAdG8wopBrSqsDJp48awrnygPfeBmQHnQuw",
+      "ticket": 120.0,
+      "sola": 120291.524914698
+    },
+    {
+      "address": "DKi6QYc26L8RxszkNEwkueHdVcsFmTnNgPqGWgFAZuc",
+      "ticket": 118.0,
+      "sola": 118675.391029867
+    },
+    {
+      "address": "6zhF4XajrgNjEYvMRxoSSafcK6VJdW6AfhykKBMa1Zbc",
+      "ticket": 117,
+      "sola": 117381
+    },
+    {
+      "address": "Fy6A6mrMMtbwQzm92aWW2PDLFZn6QWd3VKXhPRCD6wg1",
+      "ticket": 113.0,
+      "sola": 113503.481897283
+    },
+    {
+      "address": "Cfoxuop8j59pYUs1G8qrMm3pNaWwzD4SEczxcbdWQ734",
+      "ticket": 109.0,
+      "sola": 109520.239427404
+    },
+    {
+      "address": "J7MP2Bx6H781jNyngZSuM9HhmLeRTezN4TguEGhecHk8",
+      "ticket": 105.0,
+      "sola": 105675.86526518
+    },
+    {
+      "address": "FbKXgFQ3TFCo1cLvHP6G4DX3vBiTGr9Nzzhkpb8dywdM",
+      "ticket": 103,
+      "sola": 103901
+    },
+    {
+      "address": "GajthqKKHai3SzCL5Baqonv2Ub5iTEQcL7KoJhrKithN",
+      "ticket": 102,
+      "sola": 102844
+    },
+    {
+      "address": "AUNwN9KcGinRR3TdtP4389xq3wZDSiVDaJ7ujGp6xp93",
+      "ticket": 101.0,
+      "sola": 101038.997410396
+    },
+    {
+      "address": "9A3tMXT45Y19V1gj458JYZH4WZyUbaKT7XX5HCpXfw5G",
+      "ticket": 100.0,
+      "sola": 100000.414060984
+    },
+    {
+      "address": "A8r5s99CeZbFtHXamrDovzvYVRq6tgpihp9DhZjYkVnu",
+      "ticket": 100.0,
+      "sola": 100000.299827576
+    },
+    {
+      "address": "GmgTqUSTRgiQsRb3LTmc1yjV6UCtfCDr1ujSQHoQ1mC2",
+      "ticket": 100,
+      "sola": 100000
+    },
+    {
+      "address": "AACx2BvdgZUC8CgbsXggWfX5csbAQhHkNVdexJFCP9Ut",
+      "ticket": 100,
+      "sola": 100000
+    },
+    {
+      "address": "Gba1ac6F7LBT1ZHVZfY7BvVmfDyv8R3i4YTWFQYToMJY",
+      "ticket": 97.0,
+      "sola": 97622.339102786
+    },
+    {
+      "address": "5mp9coDyESs9pPj7aCrremHiFYQa4uAJyRghL2gVEa1f",
+      "ticket": 91,
+      "sola": 91731
+    },
+    {
+      "address": "BCfRgpERHGbmg5J4NBBN6f2ykBkakERqSGfYrSGzxay1",
+      "ticket": 91.0,
+      "sola": 91016.050367242
+    },
+    {
+      "address": "3G1vowQDRxhmXmj4tJsCvrgRqRjKVXb1ww1YW13Rv2Zj",
+      "ticket": 90.0,
+      "sola": 90634.900328893
+    },
+    {
+      "address": "5mvFEoLQroFoWRrSpNt9PRLrE1oLLYUh2PUszmbXZW73",
+      "ticket": 90.0,
+      "sola": 90228.813297411
+    },
+    {
+      "address": "Er9SYFPXdVLGzGTxuhsgN6sxTB79xkKDgruad7hRkvi5",
+      "ticket": 90,
+      "sola": 90000
+    },
+    {
+      "address": "13Zh3UFuuGhA3RHYAzrXmwEuSceesauPdUFLJpPzK53w",
+      "ticket": 87.0,
+      "sola": 87439.159428811
+    },
+    {
+      "address": "9fQksqgzg697fRDMAubaUiZT1FjUKAM5XL2rsHuwq7Uh",
+      "ticket": 80,
+      "sola": 80393
+    },
+    {
+      "address": "6hkavP7CMbSbhyW47LP8WGU8XLzZpReV96qJRH7ZE1id",
+      "ticket": 79.0,
+      "sola": 79776.634174653
+    },
+    {
+      "address": "4zyUQWaZMxat5Qx8yLjgwkEaWeC3BocB8sFy1JDajEpR",
+      "ticket": 79.0,
+      "sola": 79754.99998308
+    },
+    {
+      "address": "4nknjZq3JkC93kk35vFi7UEhEjeHd1NR6MmVSp5wU8BF",
+      "ticket": 77.0,
+      "sola": 77113.044816621
+    },
+    {
+      "address": "ETRaEXJtZbGG4fLZuxpYm7czqtJ68MCdXeJyr5kp5mRi",
+      "ticket": 75,
+      "sola": 75318
+    },
+    {
+      "address": "8Jn8Rr5y15hrBaY4yZqk6BfCN692byfuJ2CMBaKxRqby",
+      "ticket": 75,
+      "sola": 75172
+    },
+    {
+      "address": "CAexTryNisaChM46GCm6xJRfcopjEQjq21QiD73FzfWW",
+      "ticket": 74,
+      "sola": 74408
+    },
+    {
+      "address": "AXrm1GJveRvC7vYWdqbBWEQH52Z67fLdGgbZtSzppRAt",
+      "ticket": 74.0,
+      "sola": 74104.241591725
+    },
+    {
+      "address": "H6Qtw5FHx3ktPXDm64DqgjvWTuGDMREnrSjckeRYZJ9V",
+      "ticket": 72,
+      "sola": 72129
+    },
+    {
+      "address": "6JpTw2iBEJGhme56ffqxobtdxsKYo8hEvwori9uaonvL",
+      "ticket": 68,
+      "sola": 68453
+    },
+    {
+      "address": "BaBermJba5zqRQ3NqQwfGJzDnhV1JNg98xXh4ThXtgQo",
+      "ticket": 65,
+      "sola": 65587
+    },
+    {
+      "address": "32ZRSQF38ZvT6avjoREUarreYGtayDRWq4chxgL2pbrs",
+      "ticket": 64.0,
+      "sola": 64660.631818244
+    },
+    {
+      "address": "87WZZYnNMSjAroDCAFCnXJ2YN1pyXirqHa3b9Bj4JCBe",
+      "ticket": 63.0,
+      "sola": 63747.042801329
+    },
+    {
+      "address": "HL9WLQtG3zJVDSRyXzisKSZwhtXgCVQ7ZhsysUrjfaE6",
+      "ticket": 63,
+      "sola": 63121
+    },
+    {
+      "address": "9oWxdsyRTmd76Cke94S8EGfXGmY8Y3Vkvn3WQc6w2Kqt",
+      "ticket": 63,
+      "sola": 63094
+    },
+    {
+      "address": "GS6Mcfrd3yc5jkfk5ifqZ7rFdD6NAs2z8tpyML2H1Nze",
+      "ticket": 61.0,
+      "sola": 61981.787301604
+    },
+    {
+      "address": "3uhZdFBLm8c7BqsQZ9ZktgKLw7YcJPxyCVxm9ETmz7aw",
+      "ticket": 61.0,
+      "sola": 61688.888785449
+    },
+    {
+      "address": "ELivfcF3bK1NkEwwLc1ooErRYhJWHSFUxaM8Tos9BMm4",
+      "ticket": 60.0,
+      "sola": 60580.863013022
+    },
+    {
+      "address": "EDmCVRSP7gNu18vs9cmXnJ8nwieVJDczRNUd6mnpaPhX",
+      "ticket": 60.0,
+      "sola": 60013.533162457
+    },
+    {
+      "address": "D5kELETYXFxq9dtK5CSLkDCJ83PwzXHg41y27BogqWJ2",
+      "ticket": 59.0,
+      "sola": 59724.810358007
+    },
+    {
+      "address": "J2H7n8Fpnx6V4jyyoKHxEZbHk8kjxpDyfyJqvRpqT52N",
+      "ticket": 58.0,
+      "sola": 58800.505383089
+    },
+    {
+      "address": "7oV7ekdsxDKQCwcR272kPYNdp6FvV5WCG6myUtNrTndP",
+      "ticket": 58,
+      "sola": 58283
+    },
+    {
+      "address": "G3rAxcZUfqYCjczSpgd4in3riP64wtYu3C4zqueyP7kc",
+      "ticket": 57.0,
+      "sola": 57514.798131571
+    },
+    {
+      "address": "BaMJZKKfSHxJXxYCfJ6Rq2YBC17YyyLMznQ18DcDEQnq",
+      "ticket": 55,
+      "sola": 55647
+    },
+    {
+      "address": "83VxWqJD635LHqn5eR7vuMuZ1dFGBWcQNR1LxD6q65op",
+      "ticket": 54.0,
+      "sola": 54912.045393208
+    },
+    {
+      "address": "AwGWs3ZzEo9T1Nvs8fp3TW1PnSARuXu1TjFMno5Lpr4j",
+      "ticket": 53.0,
+      "sola": 53394.691893772
+    },
+    {
+      "address": "4EgGP8Rf4jnk3SWfNb8XDUAKm36Ww8buostRjcV65wZG",
+      "ticket": 53.0,
+      "sola": 53194.475365503
+    },
+    {
+      "address": "65rCUQTaGpvj9bg83w9cgeX2uYoj9rZENABp1xsjNznM",
+      "ticket": 52.0,
+      "sola": 52249.573272682
+    },
+    {
+      "address": "4DGJuAJ7F79MRR3q5o1U1TvR44E4z7aneLEcC4eqrbiA",
+      "ticket": 52,
+      "sola": 52095
+    },
+    {
+      "address": "5rD1aESvj5TLt7sLPYgYimkoLDWbcEpVY5dxMgfFEedj",
+      "ticket": 51,
+      "sola": 51468
+    },
+    {
+      "address": "5ztdCiXtyvJ268nVaYzH8wi7VTBhoDpNkb5F8hFq3YtR",
+      "ticket": 51,
+      "sola": 51455
+    },
+    {
+      "address": "5sydPoemyACfSDCtsqeKRMBe8yUSiUjFMmo6omwpHodv",
+      "ticket": 50.0,
+      "sola": 50768.024232694
+    },
+    {
+      "address": "Ddz3xvQ157WjyxoAQoEizxRFzdgZqjKhNxPBgPqGGaCR",
+      "ticket": 50,
+      "sola": 50000
+    },
+    {
+      "address": "EDj9YtNYEujk2W9pzXAWfVpfdMXwjz3EWLiudXXWKWaf",
+      "ticket": 49.0,
+      "sola": 49034.62613334
+    },
+    {
+      "address": "CJ5dWb4mV2LmnL5mJTG7JTxxdGnSVYyYrQqqaZqVAxUs",
+      "ticket": 49.0,
+      "sola": 49001.239492042
+    },
+    {
+      "address": "7Fi4PgsDkmCp3ZE1Tg6SQ14Fpw3Zcp1PTvFdvhqW5eWs",
+      "ticket": 48,
+      "sola": 48497
+    },
+    {
+      "address": "4joM7dLxYALEEBdRwdJ5TQvp816d71vYSZffccLVakeH",
+      "ticket": 46,
+      "sola": 46906
+    },
+    {
+      "address": "DXwW9xfZ8RYBJuoHZQckQ9LoBWgXpByfdMTTw839eEDZ",
+      "ticket": 45.0,
+      "sola": 45936.720604931
+    },
+    {
+      "address": "7LVbYYQmSbsg8f61MSBxUriFbCcUfxjuFLj8qLSnWLi",
+      "ticket": 45.0,
+      "sola": 45932.735079572
+    },
+    {
+      "address": "2gpQfpZPZE4UAaHrUnRRoPczXFWTTJU5gWRKG5T78WAV",
+      "ticket": 45,
+      "sola": 45503
+    },
+    {
+      "address": "714XGMwVizZsqWtFXGip3ikVgmqMjpqxRxwvVcVNu3M7",
+      "ticket": 45.0,
+      "sola": 45149.549411217
+    },
+    {
+      "address": "G6qZhfp2PQnvg6PPwggWEjvUcK336SXJQRxCum2hKHmE",
+      "ticket": 45,
+      "sola": 45086
+    },
+    {
+      "address": "HQJjtBoNrXR7PWqKWK7K5QWmMwwodEPvizoXvvwwVVcp",
+      "ticket": 44.0,
+      "sola": 44088.620807687
+    },
+    {
+      "address": "qiRSCnDpVUYehJU4cVBf8totGLbnkF3mY3q9SqALAmk",
+      "ticket": 44.0,
+      "sola": 44050.430049421
+    },
+    {
+      "address": "95vd3D4rLUr7uYxVxE14QYq6Jc7Xsm9xergHo1xUvuaQ",
+      "ticket": 43,
+      "sola": 43360
+    },
+    {
+      "address": "Fx9EHPcgjUdTLDrjxzGdeHfkrUbnF4DMfU9TCVmbo3gt",
+      "ticket": 43,
+      "sola": 43131
+    },
+    {
+      "address": "3aLP34twioJWB4GrkmL4vZtbk4EEzwyLedj5MZERYiZF",
+      "ticket": 42,
+      "sola": 42842
+    },
+    {
+      "address": "HpFMEkKd8GvxEcc5D3k7vRLdo1WPe9vmm34FRi9pAbbT",
+      "ticket": 42,
+      "sola": 42786
+    },
+    {
+      "address": "C17pLg7Peb33PEyH4Uvia6r2fK5pp11w8Eu7k3yrqYKa",
+      "ticket": 42.0,
+      "sola": 42537.981995718
+    },
+    {
+      "address": "EK6Af12R9YZpfGYrkCL75zwPZ1p41j1KmsMksDuVLUJh",
+      "ticket": 42,
+      "sola": 42000
+    },
+    {
+      "address": "5mN2yp5JFbS976jxXF5888oD3EgRh57fJ1o9bugu7MKb",
+      "ticket": 41.0,
+      "sola": 41430.326563096
+    },
+    {
+      "address": "6oSngV2VxpCB9xFUF9DZyPmschFKCWXikPXu4HVDkr13",
+      "ticket": 40.0,
+      "sola": 40506.11186198
+    },
+    {
+      "address": "DPp5vcaMLjSBwu1XsYgMsacf7rZ7HXPZ6WBZSHoLArmd",
+      "ticket": 40,
+      "sola": 40455
+    },
+    {
+      "address": "8r6kYkKofAY6YDu7Hbj2NcC2oKYz1m24ax4PedoWHGFF",
+      "ticket": 40.0,
+      "sola": 40364.434929147
+    },
+    {
+      "address": "CeQYC6vsUQ3H4iphiaVbbEB8yJawW99qDxW196kePQps",
+      "ticket": 40,
+      "sola": 40000
+    },
+    {
+      "address": "bF22sW2unzNN56A5uroMEzdYYKw1Q1bRuESRqcNrput",
+      "ticket": 39.0,
+      "sola": 39745.168053573
+    },
+    {
+      "address": "2zvq34Sb3N17e4inPyFhPMuzCpHcK7m9dRKfgyRZvzjc",
+      "ticket": 39.0,
+      "sola": 39574.270528389
+    },
+    {
+      "address": "E6r3j7Jn8GnJiSD8VDwX7siBAShK1b9TDhkrwn1LemTg",
+      "ticket": 39.0,
+      "sola": 39466.501429072
+    },
+    {
+      "address": "5yFGYXgFBJRLLmCNH6Y1wYujzL5xokGqmXc87JNacGyY",
+      "ticket": 39.0,
+      "sola": 39451.384156182
+    },
+    {
+      "address": "8ndtZUuSG2LPXGcCabkT6g96iLDofY72dJZ9iphxAG7R",
+      "ticket": 39,
+      "sola": 39261
+    },
+    {
+      "address": "B188sMtaHhdR6zrZ36rZXQa9JxHrHhogf5PQDJD6V8du",
+      "ticket": 39,
+      "sola": 39186
+    },
+    {
+      "address": "GuAvTf9EmzBjPVx7ERE6eKs1NCvFkqDTrTVXtVPLmVfM",
+      "ticket": 39.0,
+      "sola": 39063.861129712
+    },
+    {
+      "address": "8z5UFSzu552RVYEsRFgunjGLkPPeVgk5WXL1Pt5aJc9F",
+      "ticket": 39.0,
+      "sola": 39000.936383764
+    },
+    {
+      "address": "7tLEHe8KmysS5FqR13DXdzZjr8ZpZ4kA5dVGLrGjaqke",
+      "ticket": 38.0,
+      "sola": 38773.291893245
+    },
+    {
+      "address": "46VATHNfuMYecMyxH5T11kMfYZk3w8NQFMzwUZHmqres",
+      "ticket": 38.0,
+      "sola": 38727.513326589
+    },
+    {
+      "address": "2SYhfX5akMZAkYF6NYsfH4dUNAkQMBvJj8FvDMKuMAFS",
+      "ticket": 38.0,
+      "sola": 38416.697412711
+    },
+    {
+      "address": "4cvGc1nRfSLJD6HjcWjAJ3qGbMQsGjBDxDsttAyDNuBH",
+      "ticket": 38.0,
+      "sola": 38254.973734135
+    },
+    {
+      "address": "7WVQGGYgX2GLu96qcfbnVVxz1sxoBTGwxAMRQBez4XS5",
+      "ticket": 38.0,
+      "sola": 38000.200129555
+    },
+    {
+      "address": "BYaNNwX1ANapwuZ85egPJLBWXHPpHo6Jfs9rbiaQPAvu",
+      "ticket": 37.0,
+      "sola": 37777.160437868
+    },
+    {
+      "address": "BMhFcMfcU3HBwmBnHbXXjd6eruUQEp3KzFTUTkz3hNm9",
+      "ticket": 37,
+      "sola": 37635
+    },
+    {
+      "address": "92TAmRDwCq5EJdfr7pXUnQA3SaVgVHJUGTsXq73LkrWx",
+      "ticket": 36.0,
+      "sola": 36162.849780577
+    },
+    {
+      "address": "FowA28zzqVLzrKBdP2puxtps5C33wRm2LuB4FVYnKzAh",
+      "ticket": 36,
+      "sola": 36138
+    },
+    {
+      "address": "DEqdxH9hejfqVuEHpZCbKzwKnpWQEuDniiu2FrRu9ERX",
+      "ticket": 35.0,
+      "sola": 35978.572866066
+    },
+    {
+      "address": "Geq8CQknZGaZaTJyhoiVE3EykBnzCGKiBSAR5HCuEG6k",
+      "ticket": 35.0,
+      "sola": 35502.029593953
+    },
+    {
+      "address": "CNdxUDUY2eMK46pBvHJeuqRg9EDsxP9Nk8kv63uT9CwZ",
+      "ticket": 35.0,
+      "sola": 35149.476448787
+    },
+    {
+      "address": "2fahrXXpFw8F8S7uq2fPd2sZvVKEkQnQgW9KQgEdhqBB",
+      "ticket": 34.0,
+      "sola": 34727.773236771
+    },
+    {
+      "address": "HTzup2p8uyaX9NJMgvqLrRtDxcL1BNupBkZyAaPtrD2Y",
+      "ticket": 34.0,
+      "sola": 34543.585204386
+    },
+    {
+      "address": "HuUUQHbsiaLFLgwPRX7xxFcnhb7RqFmgJnBdAD4UXBAX",
+      "ticket": 33,
+      "sola": 33402
+    },
+    {
+      "address": "6QFmaEwGTawCMfSEDUHSqDK6uh3xNdaNFVPQRdzBhpUq",
+      "ticket": 33.0,
+      "sola": 33394.390117902
+    },
+    {
+      "address": "DbREa1xMERkhhbVhrKncmYkVoozHjKwZpRUor7NmAUnM",
+      "ticket": 32.0,
+      "sola": 32615.807844339
+    },
+    {
+      "address": "Bo9zpQ9uT58qffJyD6WkrjxnG1pW1SMLraiG5d4cHSHV",
+      "ticket": 32.0,
+      "sola": 32461.782248735
+    },
+    {
+      "address": "E537ctFBasPS2oPkXSFJfn7VUZXAK8xVxX6FkrGnTFPW",
+      "ticket": 32,
+      "sola": 32306
+    },
+    {
+      "address": "BrpeeuF5K2edpHrQmd8rgyW7scaXMPphNwVzSkZg7NLQ",
+      "ticket": 32.0,
+      "sola": 32263.033345678
+    },
+    {
+      "address": "5AiqG2vAUTALBhPFAgBoN1YnJ2618SQqJaFCw8SZj2Qy",
+      "ticket": 32,
+      "sola": 32000
+    },
+    {
+      "address": "DTa9982uz1BLUfcKU51YKsHrcTWdg7qxtwupJew2djTF",
+      "ticket": 31.0,
+      "sola": 31481.65453954
+    },
+    {
+      "address": "3UBrojPtPrzhE3YZUe6bH49TqbtQvJhsAFSRsYUPvjhs",
+      "ticket": 31.0,
+      "sola": 31185.90652588
+    },
+    {
+      "address": "HjDjBXVCNvx1k3fNcdyypRHjiob4P5QZqRhbNXLYGKG6",
+      "ticket": 31.0,
+      "sola": 31132.013935916
+    },
+    {
+      "address": "DD7ibNbdhJX1PcB2i3yJhSv7nqucEGgLSUBiWUJxPKSU",
+      "ticket": 30.0,
+      "sola": 30938.599619564
+    },
+    {
+      "address": "9jJFG81wPvq7hE3aQmuRqRGhR5F12TPZtoZTu5fZjpzS",
+      "ticket": 30,
+      "sola": 30698
+    },
+    {
+      "address": "5JXbmSKbNeqzQFvM2RaPBjV7rnni51geS8U7Cge1aH3n",
+      "ticket": 30.0,
+      "sola": 30672.265434802
+    },
+    {
+      "address": "3gMtABvDni8isNmnTEu2G4bP8SY3YbXCQefJwwJV1YeB",
+      "ticket": 30.0,
+      "sola": 30494.696396224
+    },
+    {
+      "address": "G3xSXdb3PQ2mh8G7Gif3PyLEoT3RdspZ4E3U53ev5ATs",
+      "ticket": 30.0,
+      "sola": 30466.201205748
+    },
+    {
+      "address": "B4XR3QtDLAqgtwb2nYcEeyu89NeQjwVcCWBboaufRRVp",
+      "ticket": 30.0,
+      "sola": 30461.841881026
+    },
+    {
+      "address": "7VwSWAuJWuknFASKAGceJg9mGqzNquGmSV7D9yg9Fduf",
+      "ticket": 30.0,
+      "sola": 30081.530734635
+    },
+    {
+      "address": "8av8hDPiQWAwfCv32qY1gHPmPRoaxLQZp8zbw322jcNP",
+      "ticket": 30.0,
+      "sola": 30068.126712127
+    },
+    {
+      "address": "HUUMheLyWUskHwphfaXvUbtYaro8hC8ND6XbNvXaE7nG",
+      "ticket": 30,
+      "sola": 30032
+    },
+    {
+      "address": "53U3bkVpzHfhZmYBSzhc9RJ6hyUycuR6GE6cMQ2zipr2",
+      "ticket": 29,
+      "sola": 29978
+    },
+    {
+      "address": "Fc7J1h4C9qUkkhNvJhbB5LQCrUuX9hDQHBropHEzerhf",
+      "ticket": 29.0,
+      "sola": 29754.398915711
+    },
+    {
+      "address": "Gp7fS79Acq4Gq5T4v2EY4gPaiTy15sweNkAbCFTrVWj9",
+      "ticket": 29.0,
+      "sola": 29658.738697954
+    },
+    {
+      "address": "FJPKLnUEdomZzp2wHKKJzhrqrGz2ywbhruQaeD5YKtqK",
+      "ticket": 29.0,
+      "sola": 29584.231537219
+    },
+    {
+      "address": "CoF6etG94oKAmfBoXnrrn5zCjSjDJ5S2ZG9xfdKbWqHg",
+      "ticket": 29,
+      "sola": 29579
+    },
+    {
+      "address": "9WS8t4X9s8WLPbKzyR5uXRKepxLJCbSNNJTkjPDbYVUL",
+      "ticket": 29.0,
+      "sola": 29461.243023551
+    },
+    {
+      "address": "FstknSMQdnNReVdm2iVejH7jsGr8hn68FswuPVmiq26u",
+      "ticket": 28.0,
+      "sola": 28894.238588213
+    },
+    {
+      "address": "Cv8CLg2keDP6zdApNoQJ7CGeeTw44XcAzS7uH54kCJu2",
+      "ticket": 28.0,
+      "sola": 28710.594635224
+    },
+    {
+      "address": "HXDVEcNpBfYEXjBDHxG5uXfFUFSGtQEFC8c3NY6gipL7",
+      "ticket": 28.0,
+      "sola": 28267.079442565
+    },
+    {
+      "address": "DVYn5zY1ww5MqVSLfA4GGSrbPXz4dKYW2S1EnhnifbwY",
+      "ticket": 28.0,
+      "sola": 28099.110143908
+    },
+    {
+      "address": "B6tkJi65i1pWoonwdc1khhn5nJiFgNXrGhG3w5AfuMGh",
+      "ticket": 28.0,
+      "sola": 28085.161645239
+    },
+    {
+      "address": "2phbCrMSVZw4ajo9HyPXVkaehPqyYpXGQLcEgnE3CvTh",
+      "ticket": 27.0,
+      "sola": 27844.693205277
+    },
+    {
+      "address": "3Gm3d1xPs3er2mE4JS4mhSEHddiJBCzK2NehSf3Zv57e",
+      "ticket": 27.0,
+      "sola": 27843.181414143
+    },
+    {
+      "address": "82ugCsm72SJYFSoTUcQxkL54jSESimTJXFFDUoG8mv5h",
+      "ticket": 27.0,
+      "sola": 27302.934925786
+    },
+    {
+      "address": "5VV6oBjqwbN5PJvk7Q2ZEKqjXAvYoYpra7tYCqTd8hJh",
+      "ticket": 27.0,
+      "sola": 27029.720856025
+    },
+    {
+      "address": "Ya1LxQP8W26AxmYuxFL5UfAgcLT9VrJUYjMXUsrKq5b",
+      "ticket": 26,
+      "sola": 26317
+    },
+    {
+      "address": "BLTiaSyAL3hLVmadsrp4tq7G2McnoFpHJWed7qmEBMX6",
+      "ticket": 26,
+      "sola": 26254
+    },
+    {
+      "address": "9JQQYkLxuFVJdic76sitQQJjZwS5YSrbRuWkJFirtNCW",
+      "ticket": 26.0,
+      "sola": 26248.64785903
+    },
+    {
+      "address": "Ed1TP8ajQ2uDf7bU2oBvDrMP3wXEzEwnTayN4F8vokHr",
+      "ticket": 26.0,
+      "sola": 26233.773708827
+    },
+    {
+      "address": "2GhS9QCH7PFzngjmtR35vSTU9ae42csWmEmZjy9WYNee",
+      "ticket": 25.0,
+      "sola": 25971.30473612
+    },
+    {
+      "address": "461SQbjtpXfwmNJ8LAK9Jy6dWkkZd4m72iwQGQfukC4q",
+      "ticket": 25.0,
+      "sola": 25678.412138046
+    },
+    {
+      "address": "Hwp7PjddGH2a9GxD95wbHq9zUDcxLD1Ra2koZugCF5W7",
+      "ticket": 25.0,
+      "sola": 25666.060186698
+    },
+    {
+      "address": "BkaS9cb7WJKhq1q8wuajPfMvNcbPxdyNEjB1yGyd3iDD",
+      "ticket": 25,
+      "sola": 25284
+    },
+    {
+      "address": "DXFLJE9WrFBXhDFdRhkPuU9J58n5ZdmW3VbEWywJE6eY",
+      "ticket": 25,
+      "sola": 25100
+    },
+    {
+      "address": "24o5JsAZ9LMTvpUao9GhRHqmx3f2PopTNozASJFoeae5",
+      "ticket": 25,
+      "sola": 25000
+    },
+    {
+      "address": "HSu9gMxHX45jRVFrPn4MpvN4n6cX3GEjmrSxySoRYhbB",
+      "ticket": 25,
+      "sola": 25000
+    },
+    {
+      "address": "GGM2VFJnJxySJJAfsn6Xuyh7rDxKR68zoDsGtdTL8UAG",
+      "ticket": 25,
+      "sola": 25000
+    },
+    {
+      "address": "CYCJuwimFE9QYgTSysLMdm5mMUX6omi2tVP8AJomeBET",
+      "ticket": 24.0,
+      "sola": 24704.707089032
+    },
+    {
+      "address": "Ad2omPcfJ5jNHJepPq47egtqA46ZkZC576M6ALmYnxc2",
+      "ticket": 24,
+      "sola": 24647
+    },
+    {
+      "address": "4uxsD3Y48EQkiJxH2oL3e3fQrUxnxN25HzXKJVnYKdNf",
+      "ticket": 24.0,
+      "sola": 24494.24473418
+    },
+    {
+      "address": "C8HUFcFH7BB7dnZ1CYdxDAZU3cnm7ZeQMNL8xDRJPABu",
+      "ticket": 24.0,
+      "sola": 24476.854851276
+    },
+    {
+      "address": "BDN1XV1gL1Kx4a2fxvZyDDw5Cx6UttcZneRB42qAGBWF",
+      "ticket": 23,
+      "sola": 23820
+    },
+    {
+      "address": "ANBj1ZiC8ze2WjBVWSRaRbN3cP66zpKgSYsoPy6U2Sjh",
+      "ticket": 23.0,
+      "sola": 23472.984670133
+    },
+    {
+      "address": "9LHSR1tK2c9eR5JrdgpZ4nCJuQFiW5pzvbkTxzVThvty",
+      "ticket": 23.0,
+      "sola": 23325.564205068
+    },
+    {
+      "address": "EbzRqnDRPxUgBz5w2coFGFRYdRMXdEFUhQM6ryResre9",
+      "ticket": 23.0,
+      "sola": 23301.60666972
+    },
+    {
+      "address": "2uwM63cSPPrxsGukX84qaq1Q3vnWwMNnj2nDtvQiU4fG",
+      "ticket": 23.0,
+      "sola": 23105.000342867
+    },
+    {
+      "address": "5Z8UzkFoMHHHukfW6C4fX3SzFNAZ9AiuCr5ysn4fohU2",
+      "ticket": 22,
+      "sola": 22931
+    },
+    {
+      "address": "7MFH7BnxpUwvXNvXR5e5yX5yHJdkSRsARmcHpPg7DiKm",
+      "ticket": 22.0,
+      "sola": 22129.211607791
+    },
+    {
+      "address": "5xuBaYQtiSNXCPUvGocxzzKBe6uuSV6N88jYya4YH1yj",
+      "ticket": 21.0,
+      "sola": 21917.277851897
+    },
+    {
+      "address": "BRHXBBeejwiouHAGgQXjSanC9SYvzQz11uDhx747VucL",
+      "ticket": 21.0,
+      "sola": 21847.681392382
+    },
+    {
+      "address": "68HSQpYNcL32SmajieRBq1YzoWwLxRMXTZgJofhnuYYd",
+      "ticket": 21,
+      "sola": 21764
+    },
+    {
+      "address": "9bDYCHTpK6cyHtGTp22bG6GZ5hmAMjV8UU33En8ZsggU",
+      "ticket": 21.0,
+      "sola": 21252.21817857
+    },
+    {
+      "address": "6VQ9xg9EgKH97MwGJubJvvxoHmTnnt8SHhSoHxhd36CS",
+      "ticket": 21.0,
+      "sola": 21231.548674762
+    },
+    {
+      "address": "EWiH8LZDNfV2QujonPPgn3U4m6j8CLU9PbswkFjXWkzB",
+      "ticket": 21.0,
+      "sola": 21169.433090961
+    },
+    {
+      "address": "DdJpJ6ZcxAAmx6fxpN5uE1FDi14YvgWeXjtN97MZgc5N",
+      "ticket": 21,
+      "sola": 21162
+    },
+    {
+      "address": "8zD2oipAdam9tuH2gsboxTGkWbzbKgA2MPfguEDKGREZ",
+      "ticket": 20.0,
+      "sola": 20730.013192213
+    },
+    {
+      "address": "9KPG3MZGxzjeXXhCANXGpEUHXHYBWwT463RqBLjQk4yA",
+      "ticket": 20,
+      "sola": 20591
+    },
+    {
+      "address": "5SjAXe5UWGmuC4JwnzddDreP1B7Y61AHFjgqvjD7c8Bk",
+      "ticket": 20.0,
+      "sola": 20533.801445255
+    },
+    {
+      "address": "3tr3VDAToNNnZbYFubap4aDeD1Nrie7wfXe8dnxjLtc1",
+      "ticket": 20.0,
+      "sola": 20455.761419564
+    },
+    {
+      "address": "2EcwnBAinu1oAWkVwEFqvUPLzKhQmPbiX2ZhNpoy2vrL",
+      "ticket": 20.0,
+      "sola": 20426.921691004
+    },
+    {
+      "address": "H43ouoiZ9HvxFv7G7r8foyB4SdynGAw4unDHkyGXEwEb",
+      "ticket": 20.0,
+      "sola": 20167.161392451
+    },
+    {
+      "address": "8Sn836tBSvgnYEda5UH9dSiKKffj9j8iZgRV4imdG9yx",
+      "ticket": 20.0,
+      "sola": 20126.125976404
+    },
+    {
+      "address": "6oaRz3HWr1tcrcoZqtYcJ3WtpDPTPgKQpXnt2q55ZfMG",
+      "ticket": 20.0,
+      "sola": 20052.667737037
+    },
+    {
+      "address": "4CR7qtnhnujDxff9EiUtM5RjmCo5e4joYYG4Kp2bKCJ5",
+      "ticket": 20.0,
+      "sola": 20000.432339906
+    },
+    {
+      "address": "EnnbMycREnxqPKBv8RKEUJgUCZtZrpV3zLYe6umFdij1",
+      "ticket": 20.0,
+      "sola": 20000.115974098
+    },
+    {
+      "address": "53YKUhFdByMFpvwkyuxzhtavLKgKx9xr4TEwzdV45QoL",
+      "ticket": 20,
+      "sola": 20000
+    },
+    {
+      "address": "FV56z6e5QchBzBeoM1nmrYHdAPmRm2QfFu2yFZD2F2vz",
+      "ticket": 20,
+      "sola": 20000
+    },
+    {
+      "address": "2QYgHJP1wnGaQT7UFZbQXXwwcfbMjjEAtuQLh9mVHoV1",
+      "ticket": 19.0,
+      "sola": 19971.789289024
+    },
+    {
+      "address": "D9vvVw21RDxa35Y7mCqM9Vx4SXPoXhV7DZ9vyGHogRew",
+      "ticket": 19.0,
+      "sola": 19850.495427492
+    },
+    {
+      "address": "DA66LW1JsJXfjc2CLaqVpJTUzH17Ybf9xaBtaCZWE63J",
+      "ticket": 19.0,
+      "sola": 19765.934453169
+    },
+    {
+      "address": "BoTmHPU5PVAfZarqnkj3UyxTc6HgwpNWWoijggLyQXS5",
+      "ticket": 19.0,
+      "sola": 19534.479855583
+    },
+    {
+      "address": "E19CfkKD24StLieAwpass8HUQ2KSAWUGDgcKTLHr4ExD",
+      "ticket": 19.0,
+      "sola": 19363.719716736
+    },
+    {
+      "address": "GPhEJN2L7rH797rEC6PL7Kczdg1rNvopUzXpoCByFAmd",
+      "ticket": 18.0,
+      "sola": 18970.857307354
+    },
+    {
+      "address": "65vf3PDy2GHdntHoYZk7V7cb6twUUsxgsuqnM9hw7DdP",
+      "ticket": 18.0,
+      "sola": 18678.893402376
+    },
+    {
+      "address": "AeLpM3z2WvYPmXHM1a8FdX1ZWVWwTRjW5xpvHqyrwWch",
+      "ticket": 18,
+      "sola": 18655
+    },
+    {
+      "address": "CAXz5Zqkhh538uFZLUkNUWtmJv3aQfAPv6mYFrdKhWWj",
+      "ticket": 18.0,
+      "sola": 18610.87468973
+    },
+    {
+      "address": "3KE8gMNnEYHyhboZcEoRUXRe1B6RqgfsLov2CNTdyEhX",
+      "ticket": 18.0,
+      "sola": 18396.364507758
+    },
+    {
+      "address": "DQ7TreGSgUYP2yw8EVfZRFnp4bBGXrNsxMC9qradT2qY",
+      "ticket": 18.0,
+      "sola": 18307.521693425
+    },
+    {
+      "address": "C889BYegRQc6QQhuqzscS4arxVakQKp2fTokHQSS83YH",
+      "ticket": 18.0,
+      "sola": 18187.282346008
+    },
+    {
+      "address": "CW8EuYvkw2KokMkDc6d2VHsXE79SyeNDqF6ht3aqKoJz",
+      "ticket": 18,
+      "sola": 18187
+    },
+    {
+      "address": "HkptQgMKubW1rHwUwmiWtEnRnTgiN2Hcrk9WNhndUzub",
+      "ticket": 18.0,
+      "sola": 18038.835549242
+    },
+    {
+      "address": "2x5FLVf4z6ND59xaME6ZazSrDnTcz6CxqT76h7e3H42g",
+      "ticket": 17.0,
+      "sola": 17934.943035806
+    },
+    {
+      "address": "Hikp5Dg2iLPiq7qhGobh4agD7kJtpmDi9kEnm7mexzpP",
+      "ticket": 17.0,
+      "sola": 17882.94603793
+    },
+    {
+      "address": "73TbnHcatHcj1HTV1PbZd6mWKHbyWwJwYEJiE6cdBNSC",
+      "ticket": 17.0,
+      "sola": 17750.490328844
+    },
+    {
+      "address": "7u8z1CQfXWqXvoZhRt8MNYuJhJoTFf8Nfj5EZpsfKPgR",
+      "ticket": 17.0,
+      "sola": 17679.556155008
+    },
+    {
+      "address": "7SrqTSr7a2RLGpo781x1KztojKC3bgse5pNRHHd2ZpYg",
+      "ticket": 17.0,
+      "sola": 17650.12452023
+    },
+    {
+      "address": "6w2vBKPJk7oSTUXDmAhM77rFWXBoBi6b24Ebcv9ELVKh",
+      "ticket": 17.0,
+      "sola": 17513.431596646
+    },
+    {
+      "address": "E4VJExDy6TVs8FTX9wZa7orNxiUVKhb2W8TeU9Qt8bwb",
+      "ticket": 17,
+      "sola": 17459
+    },
+    {
+      "address": "ESCdjWjHfHzfLjupsZf1kFCWnxWA6pLLSw2xGGHSJfiq",
+      "ticket": 17.0,
+      "sola": 17396.798627056
+    },
+    {
+      "address": "8eUfcmcTrYoaKjVYoGY2p2Bf2m2HBCnEoDA4P7RYHzj4",
+      "ticket": 17.0,
+      "sola": 17279.442752546
+    },
+    {
+      "address": "EwAk7jcjgkLaMYuhFT6p3S6tKvZEMgzo3HFURqr39m4m",
+      "ticket": 17.0,
+      "sola": 17218.130645557
+    },
+    {
+      "address": "WHCVJEwujDHhhjEshFfKK8SvoGbrA5kCj8Ain1S4iyA",
+      "ticket": 17,
+      "sola": 17100
+    },
+    {
+      "address": "8yFDVQBQdU8NqAWcMm1WY7hAmmgQQquzPpQN1NVKi3v6",
+      "ticket": 17,
+      "sola": 17000
+    },
+    {
+      "address": "AJR6jxTmj9Fas9t8mr8Jip4AmewNpFPrJrdnzvjhXEb1",
+      "ticket": 16,
+      "sola": 16804
+    },
+    {
+      "address": "5W1DyG2dMDQwUuXBPBXLh2jhryDBrdfJPj9mCt3j2viU",
+      "ticket": 16,
+      "sola": 16749
+    },
+    {
+      "address": "5uyr7suoZKnRQGVWnuBQCUgomcj2BRYRV7YMcqh4w1WJ",
+      "ticket": 16.0,
+      "sola": 16726.813420191
+    },
+    {
+      "address": "BjwdcbKBUfZoJ2hYtdWwrVU6EuLnbiYfUZfqH8qTT98D",
+      "ticket": 16.0,
+      "sola": 16391.789800902
+    },
+    {
+      "address": "GUeRF1okHyYypnSzJ24jTdYAUNUkLMsVNwuw3yYUyVfY",
+      "ticket": 16.0,
+      "sola": 16245.757359304
+    },
+    {
+      "address": "FwNbgQRKAUFKCwzXTN4PL8KRDyHYZubiZ4zLXq7hin6b",
+      "ticket": 16.0,
+      "sola": 16239.767694917
+    },
+    {
+      "address": "ADkszJvMm5DxNDFkMNZ4i4SUE6YNo7briqpku6unNsER",
+      "ticket": 16,
+      "sola": 16100
+    },
+    {
+      "address": "2eHkhncqhsuro2xDynTFDg2vCcn3YFKgzmxPr3Rd6jVX",
+      "ticket": 16.0,
+      "sola": 16000.066644936
+    },
+    {
+      "address": "5nX227e4UftcfcTQKxPVKLn1hVPiyZ7iUMXWWzd5KQJk",
+      "ticket": 16.0,
+      "sola": 16000.033976235
+    },
+    {
+      "address": "GVNCEEmzzQ5wH77x9iapJ1xJJYrYvLUtBSEM8Ckiesny",
+      "ticket": 15.0,
+      "sola": 15927.274010195
+    },
+    {
+      "address": "6gr7BCuyaSUBKPkpxiReKDZrQ9u8M7n6EibdMVjyw3hV",
+      "ticket": 15,
+      "sola": 15772
+    },
+    {
+      "address": "GaMBaF4d5Wv4RkHtVEx7KyH5xZUjmWTa2MGkVtKDDfHY",
+      "ticket": 15,
+      "sola": 15756
+    },
+    {
+      "address": "3rewogRP43GEANABcye3QV4nFEgWnAZ2XxByUXBpY2jS",
+      "ticket": 15.0,
+      "sola": 15739.197469395
+    },
+    {
+      "address": "FRo4BWVz9oEibe7tDTBWgg6wrZX9kcUkjoH8nYPGg3yH",
+      "ticket": 15.0,
+      "sola": 15728.460829352
+    },
+    {
+      "address": "9z8c5tKyR1mKTdnnCgJKJJ1GhC2q5BmLSV1x18RXULTG",
+      "ticket": 15,
+      "sola": 15650
+    },
+    {
+      "address": "EadoP3jxUbzuQYe63xH1TRiZkaQJ6yxDw67N65j9USZH",
+      "ticket": 15,
+      "sola": 15581
+    },
+    {
+      "address": "6YMFgUeMpwGGwyKb4zYCajwgGBoJHV3sCQpN4uAZtjQ4",
+      "ticket": 15,
+      "sola": 15500
+    },
+    {
+      "address": "AXr9PhhbPQvV7vBNv7ec4d1mVYMqWWAZae465hMhvXnA",
+      "ticket": 15.0,
+      "sola": 15401.350421341
+    },
+    {
+      "address": "J4HD6FSUB5kyDUj4yeacYw6XqdgV8csUf8VAx98DLyDX",
+      "ticket": 15.0,
+      "sola": 15382.206537503
+    },
+    {
+      "address": "diwU4M4WaDgU6JRMiq8Jg478okg5xfvSQ67dC3BNesG",
+      "ticket": 15,
+      "sola": 15351
+    },
+    {
+      "address": "5LgfopMhKABn7Bma9fgJU5Tn6nHCacUaQNXmxdSXMi5W",
+      "ticket": 15.0,
+      "sola": 15304.581330606
+    },
+    {
+      "address": "G2ozu2rEFbNhpQfEDznSGuG9MkuQ4fkFpHE7cn6kHYrE",
+      "ticket": 15.0,
+      "sola": 15276.486850843
+    },
+    {
+      "address": "7KcswqZaLK4Stp6Nqo68GLeEgdsBJ5adEsoa28CgoZCb",
+      "ticket": 15.0,
+      "sola": 15258.645855609
+    },
+    {
+      "address": "3VPwmT6jHnCft1ZnC6Pea8vZG69hnMasjdj5RtkhyvWw",
+      "ticket": 15.0,
+      "sola": 15218.10205387
+    },
+    {
+      "address": "HQ5aKCA5vxv9pBQSuoQZburugE9GwUm2AW2HA4aFq2Rj",
+      "ticket": 15.0,
+      "sola": 15204.837430112
+    },
+    {
+      "address": "EeGrSYMoxWG9yLA9vp3tKVZJgDKpYcfdifzqjDt5JWGy",
+      "ticket": 15,
+      "sola": 15052
+    },
+    {
+      "address": "71ekLev1mi7po5W1xfrNh8HskpCmtKtuGHD2ofZtg7S7",
+      "ticket": 15,
+      "sola": 15000
+    },
+    {
+      "address": "Fxgq8xxqNh1ZB8Yzek5aktFTFe4est6LQ3oUNQqHvunY",
+      "ticket": 15,
+      "sola": 15000
+    },
+    {
+      "address": "9gug5HTGuEJ6Nxonw86NDsmVZm9ts3KPBRXbbxT5vN1d",
+      "ticket": 14,
+      "sola": 14939
+    },
+    {
+      "address": "HfHfPZsGz2JQs2dkWNvcLeP43bmqEJBghKVKd4k4rRwk",
+      "ticket": 14,
+      "sola": 14852
+    },
+    {
+      "address": "8wjQs6AFAZB7LB4RAQi638mSH7oBCob95upgCHLDpfcm",
+      "ticket": 14.0,
+      "sola": 14828.083818727
+    },
+    {
+      "address": "HJhnUzHyL4tBs3ub6gD9KvDxTFtEU6jC6hPmBqv58CwN",
+      "ticket": 14,
+      "sola": 14771
+    },
+    {
+      "address": "6jBZSnoWuhbhEyYy5Dxwrf5tu71B8CUK88mNUhnivyNn",
+      "ticket": 14.0,
+      "sola": 14757.774838868
+    },
+    {
+      "address": "CTRX7VUGyAi3x2iSgDDFLMrNRUrh13oSvnrmVZBRMPiC",
+      "ticket": 14.0,
+      "sola": 14745.577139031
+    },
+    {
+      "address": "26Nv9nsHytrqXPrFiivTMLKfG2M3gypvoDJiTaf3UMcn",
+      "ticket": 14.0,
+      "sola": 14710.835518715
+    },
+    {
+      "address": "8Kdc6kiwWYjVL1mEUUgpKj23uHhJy5jRRxDU5wJtFFtt",
+      "ticket": 14.0,
+      "sola": 14530.631380813
+    },
+    {
+      "address": "EX9wZFYkWQf5yxvv619NHKWd9nPnQjav6PsN2H6gKW3C",
+      "ticket": 14,
+      "sola": 14449
+    },
+    {
+      "address": "zsR9tksvA4SLkwLTPC2NQxnDZroijoQYGDEzBEwb4jn",
+      "ticket": 14.0,
+      "sola": 14351.520155961
+    },
+    {
+      "address": "DrojQBdxKXqXMs2J8pspx9iYVgY69By3NSW6ajSnx8Az",
+      "ticket": 14,
+      "sola": 14253
+    },
+    {
+      "address": "5x2XYzRRWKBs7JYxUKXS5nYAEkVofbsWYar3MTxvsSjz",
+      "ticket": 14.0,
+      "sola": 14223.601006808
+    },
+    {
+      "address": "JG2VGjsRxGoGPKFJbW65WNjBnRmexAgi9q1gBKKcyPU",
+      "ticket": 14.0,
+      "sola": 14159.368294232
+    },
+    {
+      "address": "HfiNxtdo4Yi1Y7AYZnfjDwb4VXjc7bLFJAR68eUEGV1z",
+      "ticket": 14.0,
+      "sola": 14011.429000228
+    },
+    {
+      "address": "HfFSFkiqjddH6WWErH3UjgYr59JdgddQ4EFCQxzjcVsy",
+      "ticket": 13.0,
+      "sola": 13889.625097628
+    },
+    {
+      "address": "E8wpsDdB6oeA7CbRcMeimnMcHmmYFK6QA1duWjXp1QPZ",
+      "ticket": 13.0,
+      "sola": 13875.409350321
+    },
+    {
+      "address": "AHS7NGu8qcQTMmu5aDYG2RttvRuXWiLopaT2FWKQC7Jt",
+      "ticket": 13,
+      "sola": 13751
+    },
+    {
+      "address": "9Hc9JWxBc7BdKdYE6tJy96kQn2v8XDYfKEFoAjET7fn3",
+      "ticket": 13.0,
+      "sola": 13553.801786642
+    },
+    {
+      "address": "AemC5QjYVaT8eyxQ9pQHgD5WiRKckXr7cBRrwPDKcriZ",
+      "ticket": 13.0,
+      "sola": 13278.996720967
+    },
+    {
+      "address": "6Etuddu2ucMYvYockYQdhpXExvLtMjF6jRhd8HPBoU1s",
+      "ticket": 13.0,
+      "sola": 13206.030816132
+    },
+    {
+      "address": "7ifeay58YmR9U32mb8UDCAWMTKE7pmzA8KVH33ByD4Kq",
+      "ticket": 13,
+      "sola": 13127
+    },
+    {
+      "address": "ERc1jHJ1F8nQoshFC81NiCj1WLQ7jC9JpNt7DVMSipqj",
+      "ticket": 13,
+      "sola": 13093
+    },
+    {
+      "address": "3BdxYhFSMm5qPzqafXHYrbQujYy8qY56Fv1JBX7ujLU1",
+      "ticket": 13.0,
+      "sola": 13063.465439251
+    },
+    {
+      "address": "7NPwueborx9zhkeSbaCNUCwJNiwLeoUfRvsqUeN7RDpF",
+      "ticket": 13.0,
+      "sola": 13000.405174997
+    },
+    {
+      "address": "DagB8JLE6xitzrCaMUYAZr69rkRdWuwBUXQR5zqwyghW",
+      "ticket": 13,
+      "sola": 13000
+    },
+    {
+      "address": "6qTud7b6ahLzX3W8SNAr9ySyqiv7CN83emk6SiQwMWKw",
+      "ticket": 12,
+      "sola": 12811
+    },
+    {
+      "address": "C4xBDtPocFYAykvQbCh6vyx3ZRJ1aUigdyKFg6fx14Zg",
+      "ticket": 12,
+      "sola": 12655
+    },
+    {
+      "address": "5h634F3Rmig9vPV54xZekZKyTck1Q5i4zWkAgokZn2Mq",
+      "ticket": 12.0,
+      "sola": 12598.475999202
+    },
+    {
+      "address": "GggVQVjMNSu5aCQ2DCJpKnffaw3oZzJJ1XvhroitKxZT",
+      "ticket": 12,
+      "sola": 12524
+    },
+    {
+      "address": "C8Vn7NPDrMbLNXP1GLdVUg5SmoxaC265s9WvqGpEzQKo",
+      "ticket": 12.0,
+      "sola": 12523.408288439
+    },
+    {
+      "address": "FqNE1aeNgzJ5uGW8fZx6rWK2D1ePAqpgvt4zcFVsJtNc",
+      "ticket": 12,
+      "sola": 12483
+    },
+    {
+      "address": "54EYEXihCKKvwDuLrkoN6nLp5R7yr5JPSsCN5fJJRFBo",
+      "ticket": 12.0,
+      "sola": 12438.260138117
+    },
+    {
+      "address": "NmoHYrkijun3MeEXmhHu3P9EuTjCQNAFnw3sp1aQbLD",
+      "ticket": 12.0,
+      "sola": 12431.719700851
+    },
+    {
+      "address": "2mk92RjPzDY8iwxmBnqSwtETVq5cpCCJFQALyHWeDiAm",
+      "ticket": 12.0,
+      "sola": 12381.033079611
+    },
+    {
+      "address": "6AopLRXsu49djcU32qrk8LbEmUTZodv81XKUkVsnefki",
+      "ticket": 12,
+      "sola": 12362
+    },
+    {
+      "address": "4R7ZSHvSDGSAYPoyt7FEFLwWzJY2TheGwDn6DA5UY8M8",
+      "ticket": 12.0,
+      "sola": 12330.350847765
+    },
+    {
+      "address": "3wQ6S6kJ18qei7b8DLo4mEKpz32hPF8ypmkTB7kG7geb",
+      "ticket": 12.0,
+      "sola": 12309.252827048
+    },
+    {
+      "address": "Ahc8nFWaSfBJ4LLyDsCfNkhSPZWmMpNTo8pFQysDR3XV",
+      "ticket": 12.0,
+      "sola": 12255.19287747
+    },
+    {
+      "address": "Bw9UGUbug8Uz4oVDGwZvcmmMtAuTYMmvL7yKfrdckr9T",
+      "ticket": 12.0,
+      "sola": 12131.31801987
+    },
+    {
+      "address": "9kW6ijwznwgQc7nhzq1GCEngkfmxwD3eu4GZfZaRoU41",
+      "ticket": 12.0,
+      "sola": 12109.982941732
+    },
+    {
+      "address": "63B8LusL9xhZQkUf5GihhTbt7SYcMULYd7HUdR9G5Ene",
+      "ticket": 12.0,
+      "sola": 12060.735237417
+    },
+    {
+      "address": "8dLvEWHR424GBx5gaxNPCqc2Pr4G5P8C95Siqew7dL8k",
+      "ticket": 12.0,
+      "sola": 12034.550350638
+    },
+    {
+      "address": "6mhMRbsjG1wsHiWMYNC69QAwakTgHAP6k1DJdRdHn7BY",
+      "ticket": 12,
+      "sola": 12032
+    },
+    {
+      "address": "6oBfeqPAktfFFkma58QALAe6bcg1VELh73Xc9iFHg2LJ",
+      "ticket": 12,
+      "sola": 12029
+    },
+    {
+      "address": "6tGgbFWqkEJ7Zt1xh81eYTMvVEVRkcWkR8fA8zAvXph4",
+      "ticket": 12.0,
+      "sola": 12004.724555051
+    },
+    {
+      "address": "9yggjYXvVU5Mw773mvuvBEcY4FQuVuy7J6grTERFqYpw",
+      "ticket": 11,
+      "sola": 11973
+    },
+    {
+      "address": "8CDW96eBFsMWsjgF5T1aZHjaP7qQ4nRAyHpK1RvJQUfP",
+      "ticket": 11.0,
+      "sola": 11944.796422262
+    },
+    {
+      "address": "uzWCDz1e8wiGoeBQ2TqQwhVGg5PR9pcwK5gDFmQVnXT",
+      "ticket": 11.0,
+      "sola": 11931.819203595
+    },
+    {
+      "address": "B9iv6jN2e5y7JX3VWGFXNkJuer2eKxMgeFUQCx5P24cG",
+      "ticket": 11.0,
+      "sola": 11849.38929386
+    },
+    {
+      "address": "HojNZibbLbuCCDskNRym2jWF39WXBcoqqEmu6E9TgLdS",
+      "ticket": 11,
+      "sola": 11822
+    },
+    {
+      "address": "4eRZbwxEfyKUP3x5SnVuKL1WCfYP9dFfULfF9SZnoqEA",
+      "ticket": 11.0,
+      "sola": 11770.798835968
+    },
+    {
+      "address": "3FEfb7TToWsQNL5xLWkupR9WiYGnNWfk83zM2ooEKtr7",
+      "ticket": 11.0,
+      "sola": 11713.099364239
+    },
+    {
+      "address": "ngJHfRGfeGwEPYQ8UtQ5rA3Fiy8ZhkGG6skTRuM6iok",
+      "ticket": 11.0,
+      "sola": 11506.85402882
+    },
+    {
+      "address": "59CC1MdR2mZuejWj2BBEfZw5DinTPQeibGyX22D4pBJZ",
+      "ticket": 11,
+      "sola": 11500
+    },
+    {
+      "address": "5VittqJ5J5VhaYAdz2ZKxuYHPitsEmJDWSEYzD4v4Hye",
+      "ticket": 11.0,
+      "sola": 11477.339593459
+    },
+    {
+      "address": "GechQ2MGWAAELGGKxiBweTiREeFoWa8Tbs5ZHB21NDZn",
+      "ticket": 11.0,
+      "sola": 11467.81540163
+    },
+    {
+      "address": "5ffUsdqKWwCPQPNBTmLurPFHrrpXP2XVDei1dw3Sp3Pn",
+      "ticket": 11.0,
+      "sola": 11354.390031099
+    },
+    {
+      "address": "Gp63jvJCDGdYA1W5GiDk966z1W38ABnDGQ32WmmLaVGB",
+      "ticket": 11.0,
+      "sola": 11340.873828186
+    },
+    {
+      "address": "547DDZgek9q7DiyCpwsqR9LhEYvVQ3yjcE813CHsLHmP",
+      "ticket": 11.0,
+      "sola": 11323.428175479
+    },
+    {
+      "address": "1DyiG8NAYcbbPmVEMvdzNG4NsWGjsYoKUfpNFU3cd7B",
+      "ticket": 11.0,
+      "sola": 11296.247048823
+    },
+    {
+      "address": "HScTXsr3kHHS33CNAPv9UPqZXiCNWzUwwYVBx35oD6g9",
+      "ticket": 11.0,
+      "sola": 11160.627975099
+    },
+    {
+      "address": "APUaxoTfULfVE9Zgmhz3oQ2zjYUZz3m1vLFb5WLxH3YF",
+      "ticket": 11.0,
+      "sola": 11153.876402319
+    },
+    {
+      "address": "7ggC3E2RKNqb9gWVQRAEvCGHBHvf7juk1x8yXpVZwADJ",
+      "ticket": 11.0,
+      "sola": 11152.218801317
+    },
+    {
+      "address": "Dk9AES4jF6VMWYuRtzNS5WSQK4oTYkS5aS3QitshLjns",
+      "ticket": 11.0,
+      "sola": 11130.377026735
+    },
+    {
+      "address": "7RGjFrgf1ng3AyPHRj37ZBdpPzjnsb1JKbUrNRtr8ZDK",
+      "ticket": 11,
+      "sola": 11092
+    },
+    {
+      "address": "6r7RHEk6Ats2etpgc4YXnQVw6zVspSGKeBKYG8LCYCEk",
+      "ticket": 11,
+      "sola": 11000
+    },
+    {
+      "address": "EiK3kZqLw9TRqfTjUNhDs32bTCSW3Qx2xSDHz61yhSae",
+      "ticket": 11,
+      "sola": 11000
+    },
+    {
+      "address": "D3ZzmQTToHYH2rSVtvkr6Qi3fDd3xX5HEvpSfe5DAu7",
+      "ticket": 10,
+      "sola": 10959
+    },
+    {
+      "address": "s7vDwStXHd5ndNZ9nqZk2aWaJY6YycoPR21A1RpoPLk",
+      "ticket": 10.0,
+      "sola": 10872.000000006
+    },
+    {
+      "address": "3dARhhC4YFhdXog4hcoaG6vfzPx318h61raghPa17Qty",
+      "ticket": 10.0,
+      "sola": 10762.310355865
+    },
+    {
+      "address": "5Lm7B9aaZGUBAdQLyJba1HPebgmFjTVidfuy5G1uamQ1",
+      "ticket": 10.0,
+      "sola": 10746.245282518
+    },
+    {
+      "address": "Hqc3gPM9PDy1K7yERy1HZ7bfPR1KPWPijutR7jF4dJuR",
+      "ticket": 10.0,
+      "sola": 10733.328367998
+    },
+    {
+      "address": "AYageDBhgP3reLqaK7jwKWUHHyF8YatmDATtraNndPer",
+      "ticket": 10.0,
+      "sola": 10695.408404753
+    },
+    {
+      "address": "95FWf56BsvAnQz8wwB3YcuYcX4hxpwyKNnedgcgQfq4q",
+      "ticket": 10.0,
+      "sola": 10599.685901046
+    },
+    {
+      "address": "3woaW3ZE6SKe9ZAA18TMQ9hTf2VR69noeKW3PyWJ2rqA",
+      "ticket": 10,
+      "sola": 10595
+    },
+    {
+      "address": "5XxnwpfTZdYVoRbmNGtgyfbak6kezfo7vCKGNxaTZJhb",
+      "ticket": 10.0,
+      "sola": 10514.905783658
+    },
+    {
+      "address": "FTLp3NgZSS3XejPBh3eEfRPjNdWnkwRcovrAZXHo5bRq",
+      "ticket": 10.0,
+      "sola": 10507.353682263
+    },
+    {
+      "address": "H7kHz6nqu2UWdniAE3bB1CWB75PuSerbzDVkcAtRYq9m",
+      "ticket": 10,
+      "sola": 10401
+    },
+    {
+      "address": "Aga6wV8m6XUge8v7mhYwzKx8iVtjK3zYzwyLHPU51cN4",
+      "ticket": 10.0,
+      "sola": 10329.634960831
+    },
+    {
+      "address": "9A8tNiXjteoxv4Pj9DUiUqFoSsSv87ZLiRrwKNbVMKhd",
+      "ticket": 10.0,
+      "sola": 10308.734042988
+    },
+    {
+      "address": "7x6ngdbWV3Tnv5EYMAMfUvu4PVMvHjQuu1xV9CMwCWjf",
+      "ticket": 10.0,
+      "sola": 10261.768039325
+    },
+    {
+      "address": "3UtbBFXfJrwdC33AySAN5fJc2tKxUZ6FpXqtbod5W1bH",
+      "ticket": 10,
+      "sola": 10223
+    },
+    {
+      "address": "FSWfU82SajFRCfkgfA5X3mBcHQqrPnUZrx7Hhc1WXDAd",
+      "ticket": 10,
+      "sola": 10187
+    },
+    {
+      "address": "9jcnVGraUGG8aVaMQN2WFysH7P7Wc7behmkgHCdMVKdG",
+      "ticket": 10.0,
+      "sola": 10175.21828198
+    },
+    {
+      "address": "73GWwFVfPs6vgktTQNWV8JawMnJ16PpFGfMewpmMnLd2",
+      "ticket": 10,
+      "sola": 10170
+    },
+    {
+      "address": "D9aHM72BB5DD9kJLv2GbsDQ5fLWiSDFHtxjkvh7PCaP3",
+      "ticket": 10,
+      "sola": 10133
+    },
+    {
+      "address": "2hrNTCxbgRkFcLqFg2V55umHaokwqqkUCWoPuLnFv4GD",
+      "ticket": 10.0,
+      "sola": 10123.515336481
+    },
+    {
+      "address": "4mEWdeFh1jkPHv7PWW6kaYQ6TMykCMF8Tkx4t4VtumNt",
+      "ticket": 10,
+      "sola": 10100
+    },
+    {
+      "address": "Dr3F6DrmksCGhm8vFZeWeR7L4Uqg1GMBqF4pCGxPXdjW",
+      "ticket": 10,
+      "sola": 10083
+    },
+    {
+      "address": "86Jt7EPLSiGhCuqrteB3hq8akt2caqjpN5okQturshKE",
+      "ticket": 10.0,
+      "sola": 10078.499994102
+    },
+    {
+      "address": "3f2rF179UrVcGqs47MzzqhMFAxj8bAnaYm3Y6WC2uTQ5",
+      "ticket": 10,
+      "sola": 10048
+    },
+    {
+      "address": "EsvaW2KeMKA21ZWxz4zDejTJ3h7tuCtDiTzuVfKpBUse",
+      "ticket": 10.0,
+      "sola": 10046.373703826
+    },
+    {
+      "address": "Foqz2gVKYpesVX6imyKaxKsDMynSjJEXUmgpbucVRkSx",
+      "ticket": 10,
+      "sola": 10019
+    },
+    {
+      "address": "Cy9HkTJ3rY2o6efDq5oHdhm55BgbMFGsvmsYCUr3ixA5",
+      "ticket": 10.0,
+      "sola": 10011.652905207
+    },
+    {
+      "address": "CGL7NSpqBzvnTr16kntWxqMAp3Da5vo2dupRz22PndBB",
+      "ticket": 10.0,
+      "sola": 10011.646250732
+    },
+    {
+      "address": "3HhYx5QLboSfGzeKLSXrGha46PbprFwdhufjuuEnLr1u",
+      "ticket": 10.0,
+      "sola": 10010.928802917
+    },
+    {
+      "address": "ATY26cGvRjauvvjbtm9sPkdSCu6pgoNqEBGvoU1WDJbm",
+      "ticket": 10.0,
+      "sola": 10000.939319787
+    },
+    {
+      "address": "EymxPbDeTAPzYpg8HmK12mNHqU5fvNZimo7nokGp6EPz",
+      "ticket": 10.0,
+      "sola": 10000.584226489
+    },
+    {
+      "address": "2dfz5nok18a6MokSLQkfTB1DBmHS97F7AoJRKSkAJDh4",
+      "ticket": 10,
+      "sola": 10000
+    },
+    {
+      "address": "NY8Zgh14zbp821aeNo4NkbYB5FCQMVmPRyystwRXC5A",
+      "ticket": 10,
+      "sola": 10000
+    },
+    {
+      "address": "AvyKTb6Rf7gPDacALEDKiD6p6GjSQvEvc68wLyzjvmCA",
+      "ticket": 10,
+      "sola": 10000
+    },
+    {
+      "address": "83eyTU7W2Vias8TRcouPRYV5LbyJCJLZvVMsB42HrTK",
+      "ticket": 10,
+      "sola": 10000
+    },
+    {
+      "address": "LnzzGD4HgGFT3VFjUPQEBamYtx211eePuS2tGUn9xVT",
+      "ticket": 10,
+      "sola": 10000
+    },
+    {
+      "address": "qXP8sE3GiRjNqZcYgJEH6bK3udpyRHw1dkVq5FbTZUa",
+      "ticket": 10,
+      "sola": 10000
+    },
+    {
+      "address": "8FVwhKJKMfmVW6qsJ3pwW9J1GTQFAAmu2qr3BLLVRCNu",
+      "ticket": 9,
+      "sola": 9931
+    },
+    {
+      "address": "3XFmCghdjqkvzUhUSpStUgoYAxRwmRtVHTnxesGU4NUE",
+      "ticket": 9.0,
+      "sola": 9885.863122941
+    },
+    {
+      "address": "GVeb1p92nDL7uLg77QFM94qbFVbnuetB8e9sgSpjdxVP",
+      "ticket": 9.0,
+      "sola": 9837.335597578
+    },
+    {
+      "address": "3qqMg2BSdtQbL2jnog5i123rtgYCovAGP65zxtShZ3R8",
+      "ticket": 9.0,
+      "sola": 9643.481176158
+    },
+    {
+      "address": "A11E9PXD2A5zcA5sXEU9hY2AV97paNoF9C1W99DGbcjP",
+      "ticket": 9.0,
+      "sola": 9500.199910472
+    },
+    {
+      "address": "3X2BEFgZJd4KKWRDsEEWHtLTX1CmqsEEhRuGny9L4Dbr",
+      "ticket": 9.0,
+      "sola": 9465.5350798
+    },
+    {
+      "address": "ncEjtWpfyg42AZEAeE1ANpeZoE3Y6Jxh8mMjziTCmDL",
+      "ticket": 9.0,
+      "sola": 9455.297571088
+    },
+    {
+      "address": "FhYLNattPHQSdEdPYZocknoEv6VHUWJAc5g8yV3j8kJi",
+      "ticket": 9,
+      "sola": 9409
+    },
+    {
+      "address": "HKVhMME3etXqPaYo9gMSmDexMymmzQTFKQ7cwkbwLQwZ",
+      "ticket": 9.0,
+      "sola": 9394.297082081
+    },
+    {
+      "address": "6ACZ8mgZ7tPwNKC5HMDPcdYnDjUHrzEEzUiyWsvbVK7T",
+      "ticket": 9.0,
+      "sola": 9346.170238794
+    },
+    {
+      "address": "GFHkAdDMnZrgg5Nwbu7WfApKg6UivEV7Kf5wHWoZG1VC",
+      "ticket": 9.0,
+      "sola": 9341.840075146
+    },
+    {
+      "address": "8wAWCttKJamkUxzfnWcW7HZmxmfAmpcMMfRcDQ4zGxMd",
+      "ticket": 9,
+      "sola": 9318
+    },
+    {
+      "address": "AvHX4na6n3gQfMU1Rs5ZnP3upZWctmP28eyzS1Sj8vaX",
+      "ticket": 9,
+      "sola": 9275
+    },
+    {
+      "address": "GCGQhZKwdK3XNuskPv74k4XuLotfCqsP3EZxZzqdv6Lm",
+      "ticket": 9.0,
+      "sola": 9170.365445884
+    },
+    {
+      "address": "AJKGBimbyq5KWYSP41uZgi7c9mvRPjVjXis8gpVzazbN",
+      "ticket": 9.0,
+      "sola": 9076.931160918
+    },
+    {
+      "address": "89DyNZtvCAWE8rBKECMTqpLfm9RaFzy3eBEu9Df5JEqm",
+      "ticket": 9.0,
+      "sola": 9074.633925324
+    },
+    {
+      "address": "HqGn3Us4ocY2ryTbrnafvFHsB9nd72e6xnGccT97ELzU",
+      "ticket": 9,
+      "sola": 9000
+    },
+    {
+      "address": "D7ssdpUYsi15Utcg39ejV8b1aAhehYqeCmAnB53CRjkG",
+      "ticket": 8.0,
+      "sola": 8972.883759545
+    },
+    {
+      "address": "Gn25mSEqwLVHmcvnbbwtC4L9GKopaAHZMcLS83bomx4Z",
+      "ticket": 8.0,
+      "sola": 8963.884738922
+    },
+    {
+      "address": "apx7KDmiCfj9fYjMnvCuvZwZCJYGbkGQwDAgqBMCdb5",
+      "ticket": 8,
+      "sola": 8957
+    },
+    {
+      "address": "EUSLktcMGzEKxzCiAuhPgPeLjCqRjkiq9rfFjq4vTmqF",
+      "ticket": 8.0,
+      "sola": 8842.901975065
+    },
+    {
+      "address": "AeR1VktkVBtHhE16FjTsPwij52MD796DKxYNGxwS2MnT",
+      "ticket": 8.0,
+      "sola": 8766.682707197
+    },
+    {
+      "address": "D1WM7CkqjuoxnQiiqX2iA9GH2u8bHgisxqL6rQZytJks",
+      "ticket": 8.0,
+      "sola": 8735.994681781
+    },
+    {
+      "address": "GCKzbbzRz9PBm5xS8PWDaTVwLjAFEnw29uDEMoTEmoJJ",
+      "ticket": 8.0,
+      "sola": 8733.810737785
+    },
+    {
+      "address": "2QwMuzBKjfrCSAvGeX7TMRpmsZZ1wWhYugWjTiw7oimz",
+      "ticket": 8.0,
+      "sola": 8733.693051176
+    },
+    {
+      "address": "Hmcyd39cLfVqFFZzoRngBYWGtov8ioWkD1Vw7QLFPoDM",
+      "ticket": 8.0,
+      "sola": 8704.69502193
+    },
+    {
+      "address": "Cyg9PN6kEXiJzFsWt7UV1Beb71r59dxZhC2dBfWyhiMP",
+      "ticket": 8,
+      "sola": 8700
+    },
+    {
+      "address": "4sP4MrDNmG2qvk9kqLRTffaKqBzhojqpcgi4EHjCU7XR",
+      "ticket": 8.0,
+      "sola": 8667.738453018
+    },
+    {
+      "address": "Ffq6QhCZc8zA2Mq5XDQx5CARvZ6is1x2oL7o6rnK71Yi",
+      "ticket": 8,
+      "sola": 8603
+    },
+    {
+      "address": "6RoxwWnvWJmPjmUcS4y1hKWro6ygrg8umRtcCL6BLRCK",
+      "ticket": 8.0,
+      "sola": 8600.094337955
+    },
+    {
+      "address": "GAJ3DJN5CsVTQSoGeuK1YGsUUz8YGgwSS33BSEfmgQNU",
+      "ticket": 8.0,
+      "sola": 8542.416125829
+    },
+    {
+      "address": "BpQjeqJU7VzAhxikhFeWESTvqhp4AsjCXQNWEezaHWt8",
+      "ticket": 8.0,
+      "sola": 8468.05954176
+    },
+    {
+      "address": "3dDCkwKWpETWsrwjfsuLbzYUwPh3Aq6PHYBeQ1RkVvMG",
+      "ticket": 8,
+      "sola": 8463
+    },
+    {
+      "address": "6j5bF3WYSG1JjTkpTkJyZvyjeFRFbJizSDF6T8Xx4hHy",
+      "ticket": 8.0,
+      "sola": 8426.806683976
+    },
+    {
+      "address": "9sFHPFNXDeu6z4zt6WKbuhnHzeHV2Jh4auJxcees6YzZ",
+      "ticket": 8.0,
+      "sola": 8403.038693815
+    },
+    {
+      "address": "2mfTe9doxDHwxk9mnAFhNecYbjm6yHUHcqjm2Cc9Pn1v",
+      "ticket": 8.0,
+      "sola": 8383.621083126
+    },
+    {
+      "address": "KfBVR1PPUUf5AcsLSpjw5aNkwxWTE9tssuNqspyqYx7",
+      "ticket": 8.0,
+      "sola": 8370.726725275
+    },
+    {
+      "address": "EAEKMfdPx6PUhkxYBUVGeQAsvYx5UayK78ki4BaT1rAf",
+      "ticket": 8.0,
+      "sola": 8359.942762373
+    },
+    {
+      "address": "FJv666y6SXMdZM9jcRKTA2FP4J3XTj5HhayhMR8vokC4",
+      "ticket": 8.0,
+      "sola": 8261.994069037
+    },
+    {
+      "address": "HyuoRfnad1jbm8sknNVXVgTPK5JYnVy6waSxz8KQSb8M",
+      "ticket": 8.0,
+      "sola": 8244.130836421
+    },
+    {
+      "address": "QETEAF1QkkdRDa1isewUnpj5YrxJL1t5F1TSh7oHQRS",
+      "ticket": 8.0,
+      "sola": 8182.861021058
+    },
+    {
+      "address": "H8cWa1X6Hqup74wb9eDHbXKTNvRRTc9HZB1BhzseUqA1",
+      "ticket": 8.0,
+      "sola": 8176.45810913
+    },
+    {
+      "address": "EwZHRRDHiBWSyTdPN71jUJw8RbRPQJc3NyJCziJ3q5zs",
+      "ticket": 8.0,
+      "sola": 8164.331253265
+    },
+    {
+      "address": "H2Z82UhgfRqEcnorjAubkkmTp2kvM61sTffa9KsCaurD",
+      "ticket": 8.0,
+      "sola": 8142.347330927
+    },
+    {
+      "address": "9RgFunyqHxdUUBL33iAavr17gRy53agRcVG5mw4yjCew",
+      "ticket": 8.0,
+      "sola": 8096.11342144
+    },
+    {
+      "address": "AFULfcboLTsKfi2ygeZfjkjG8ikaSXuu3YVAAEHBEVk",
+      "ticket": 8.0,
+      "sola": 8061.67967728
+    },
+    {
+      "address": "HnDv8KzHSDrT423atNRDFaKmMqMja4gusKs3uKxP86Q3",
+      "ticket": 8.0,
+      "sola": 8053.291625805
+    },
+    {
+      "address": "BDZGViVbVUT8NhDffrkqPWZY1U2Q2jeM47Nk1DiSjE1t",
+      "ticket": 8.0,
+      "sola": 8044.931964726
+    },
+    {
+      "address": "6JcLE7fRxiLTAok5Gzysh7VJeQrHmodRuNDjAJWnHYRd",
+      "ticket": 8.0,
+      "sola": 8026.303231248
+    },
+    {
+      "address": "DAZjtbe3Pj2PqoH42caG6xzbgAYW9WrWRtzUhNXhdAYF",
+      "ticket": 8.0,
+      "sola": 8020.003940225
+    },
+    {
+      "address": "7GFdHnmosYCzbyZtksowCyu71n4op3Wmmx9GdoP9AXog",
+      "ticket": 8,
+      "sola": 8010
+    },
+    {
+      "address": "5Xoa2LMyKTr7ti1zekQFB7EKSN7tucpGpWHfG3BVtEbe",
+      "ticket": 8.0,
+      "sola": 8000.28442845
+    },
+    {
+      "address": "9fkcecB6sssLQ43gtvesgV1UuXJcUC3gMkeFJPV7EVhD",
+      "ticket": 7.0,
+      "sola": 7980.958606442
+    },
+    {
+      "address": "EzL1CFhkafpYYsCDLAN6W7qm2mNqWGbr4he6Q6ce1pc2",
+      "ticket": 7,
+      "sola": 7977
+    },
+    {
+      "address": "5AsJTsX8QRsRcFcR23DtN6qQv7wkXHT9dkrcqjpFojmR",
+      "ticket": 7.0,
+      "sola": 7956.818973482
+    },
+    {
+      "address": "JAA13BVjP9ZVwzPbiVF3z8WsvtpfUUpNgPsw5Xaf9hY4",
+      "ticket": 7.0,
+      "sola": 7936.992011279
+    },
+    {
+      "address": "8pvPLwE7b6rXHY2GLkRpkNLmHjES9ZY7fGucsHuPZsWW",
+      "ticket": 7,
+      "sola": 7935
+    },
+    {
+      "address": "4f8uAWB4biCUJKy6eq61dJhZZHqqqP2hSGTydiMcZUw8",
+      "ticket": 7.0,
+      "sola": 7913.137962193
+    },
+    {
+      "address": "GVtYv9wR47zaTEpWJBJPwbagfi4BaPmDDxP4iHiUsjaW",
+      "ticket": 7.0,
+      "sola": 7896.847578785
+    },
+    {
+      "address": "Cttx193riA9ijuvPGjfDxvrj46eR26UGMpcyiNNHtrLq",
+      "ticket": 7.0,
+      "sola": 7875.109088359
+    },
+    {
+      "address": "Ei5RdouMzTbXoPiDda5X8v9G63Y5W3zH26Rseqd22Xb",
+      "ticket": 7,
+      "sola": 7840
+    },
+    {
+      "address": "BqaHtWET3RTtipy1Lq7w6o4x7jmgd2fij6EmV6qkmwNx",
+      "ticket": 7,
+      "sola": 7815
+    },
+    {
+      "address": "5E5SWjSQSoWgWrZdK75fvi2yv8SoXQWQPgmaF1LHqdx5",
+      "ticket": 7.0,
+      "sola": 7755.106566114
+    },
+    {
+      "address": "WSZk3VrNcp6U59nrcPEfvYuUNGEEHao6RAdy9uRJt8E",
+      "ticket": 7,
+      "sola": 7716
+    },
+    {
+      "address": "E6RhsWFGa7PAyvHPDC5dmoS9kv72Fousp8Yu9c7S4mgH",
+      "ticket": 7.0,
+      "sola": 7697.841313954
+    },
+    {
+      "address": "5NdaQUKmEWT5DQW3PnPpqvpLGF9SANQUCW3uBGcaRuZG",
+      "ticket": 7.0,
+      "sola": 7665.817449322
+    },
+    {
+      "address": "65rmUaE9XWGWw4JP2fdmaMN5UudCHpFoSbpijD1N9DWV",
+      "ticket": 7.0,
+      "sola": 7613.116653584
+    },
+    {
+      "address": "3q5VNNpc8NYNwhh3QBgd5bs8SFSX6ZUmYuqLUuwYpQjY",
+      "ticket": 7.0,
+      "sola": 7593.926535556
+    },
+    {
+      "address": "Cp9vCjkPJeGy18FsVXQNA4JrwZpzXC6AkTG6wmwfEXrj",
+      "ticket": 7.0,
+      "sola": 7541.885907833
+    },
+    {
+      "address": "7p3CGEEZw3rM6kQ7WypGzBZzWDeBwhcvW8MDdG1ukp7M",
+      "ticket": 7.0,
+      "sola": 7460.054305356
+    },
+    {
+      "address": "wezRZ5PmXoBdqKV4Ho9xaiuJopzUbegBv6C1THCwSod",
+      "ticket": 7.0,
+      "sola": 7457.412288272
+    },
+    {
+      "address": "6fUqBJmX794yxAp984o8oJZdLco1cdsDMPGnXHcrT2tA",
+      "ticket": 7.0,
+      "sola": 7439.466209002
+    },
+    {
+      "address": "7FptfKJ6VBVbZxXXsNbQtACcaKfLwC3YBMHTomCZSZ4d",
+      "ticket": 7.0,
+      "sola": 7417.834924405
+    },
+    {
+      "address": "DQn5cabvnvuMXqP83ZMpyHsBNCmw576vHGrHQKmTmNrS",
+      "ticket": 7.0,
+      "sola": 7396.309182861
+    },
+    {
+      "address": "6bNYY7kMebXmgDUaVAUaGGfxg6pLHQarsLjMUqdoQGzQ",
+      "ticket": 7.0,
+      "sola": 7357.886995304
+    },
+    {
+      "address": "2j77MGz2ygGcP7WuVVtiyeg9oJB1PZyZQqp4xBxm9ANb",
+      "ticket": 7.0,
+      "sola": 7318.625387782
+    },
+    {
+      "address": "GUVHv5CDejMy7wPwVGyx1wovkMFZWyAPX5gHqDrD25jg",
+      "ticket": 7.0,
+      "sola": 7286.396230484
+    },
+    {
+      "address": "G4wEgA3FuaECdeWp2CzSKmXQCZuHKnbuJt1q9cu6LS9A",
+      "ticket": 7.0,
+      "sola": 7229.007354239
+    },
+    {
+      "address": "BPofZSZj5JhJtBrFF9fKkx6fZtoX3gfowDYJX37wz1X",
+      "ticket": 7.0,
+      "sola": 7217.577676342
+    },
+    {
+      "address": "BkTJTSnEX5jti926z6NRgfJDYN7QSaZAQw8Z9ebwf5ka",
+      "ticket": 7.0,
+      "sola": 7209.945505137
+    },
+    {
+      "address": "7oXsdzzLzrNCz4FMmP9BAtQPc9PBDpdTLCq7cQxWJYr1",
+      "ticket": 7.0,
+      "sola": 7189.565719355
+    },
+    {
+      "address": "7QWx4JX7AqF6BjTQTDnmQaHDwiSeze4mWw3KpXrkMrPA",
+      "ticket": 7.0,
+      "sola": 7188.82007686
+    },
+    {
+      "address": "4ztN8riSX4Vf3tTJ1rYrHiaCsRbjJrzVZXQZzGZErRvJ",
+      "ticket": 7.0,
+      "sola": 7180.280289889
+    },
+    {
+      "address": "C9ZuEsA53pLqK9p9XSN6TcjVSmmrK5fm1oQApU6vsdF3",
+      "ticket": 7.0,
+      "sola": 7115.805769518
+    },
+    {
+      "address": "EQRWMsTcWiCJutv6Jg6Bc5Q4SaueTxeUQ7jDxHUCFJCQ",
+      "ticket": 7.0,
+      "sola": 7086.526962644
+    },
+    {
+      "address": "6UQ2hx9j8ssWFjo9jC9y11AaiiLznmCidM4QMh66ZdWV",
+      "ticket": 7,
+      "sola": 7057
+    },
+    {
+      "address": "7xyjUM6Dt6JrCtNVTyXF7ixCYvYgnYJykS7wBB6nYGRX",
+      "ticket": 7,
+      "sola": 7048
+    },
+    {
+      "address": "529WhuKd2mefPm6p85Qa5f5HCRcrzcfgeWEw4jrJyYDf",
+      "ticket": 7.0,
+      "sola": 7035.876164025
+    },
+    {
+      "address": "2TLUvvzMNBtCuheeCmS8zT2BGpAQXNrVohPUrjtjY3pL",
+      "ticket": 7,
+      "sola": 7034
+    },
+    {
+      "address": "3aZL4U31RE15Zq8fW6Lr8bPthJsmwqTgSuDtMn9iFv6U",
+      "ticket": 7.0,
+      "sola": 7031.977147464
+    },
+    {
+      "address": "HVoieSYDhMpVdXQKLUfyDdbzrYJ45Jd67fpWZ6aVABEM",
+      "ticket": 7.0,
+      "sola": 7021.554449522
+    },
+    {
+      "address": "5tRkUzVUJkKc4tep8LvATwCCSgumP2rCKrNtSDh6s9eZ",
+      "ticket": 7.0,
+      "sola": 7005.975927743
+    },
+    {
+      "address": "3x4JNNaiwe6vYaLEC8kz4DM6CiyA4tfGcp4YzzasiaGF",
+      "ticket": 7.0,
+      "sola": 7000.007329882
+    },
+    {
+      "address": "5jmWZ68ovcWS7SmFBpd9esNNPSqg7bP4sgjLZDdehavY",
+      "ticket": 7,
+      "sola": 7000
+    },
+    {
+      "address": "HfphJMNKEjmLUzqbDzf6SyM18V9s1mtJ7NuThSHfvHaD",
+      "ticket": 7,
+      "sola": 7000
+    },
+    {
+      "address": "8WjwaUukucQUT1AhgxsPN1471hEpRQKKJ94B1Z91oEH7",
+      "ticket": 6.0,
+      "sola": 6993.917490005
+    },
+    {
+      "address": "Dgzhm6WGsfQ2co1kSyCkWfKuvAaGggT23dhuSGn8LEKR",
+      "ticket": 6.0,
+      "sola": 6962.447163206
+    },
+    {
+      "address": "D8QrpgLWszfZM5S75FktqD9LSUBwLM3d8gJG4YM6oL3S",
+      "ticket": 6.0,
+      "sola": 6959.00889606
+    },
+    {
+      "address": "2Aywjz8t6j88DBqKd1T4vqtbRMg4tLDPu5oPKh9wDd6i",
+      "ticket": 6.0,
+      "sola": 6951.047412144
+    },
+    {
+      "address": "GxKMfFm3vb2GWdivjnedr2jS4zBSve2cjoC7yZDEsxBe",
+      "ticket": 6,
+      "sola": 6911
+    },
+    {
+      "address": "HpUPowtaJi2BACt6H4UXsa6FZBHDzNBvAEpzHCbhXeME",
+      "ticket": 6,
+      "sola": 6884
+    },
+    {
+      "address": "8KzvMUFCTNsexGyb422LFg2aGRmHy4T25DSaCMuCUuAh",
+      "ticket": 6,
+      "sola": 6871
+    },
+    {
+      "address": "8xdsqV2sWjAAuYZ2sTN4TPNCxep3JhtSehdTNoXtqPYH",
+      "ticket": 6,
+      "sola": 6853
+    },
+    {
+      "address": "79MKGUif2bxGhLEh9YGDaZb2tsnEzSettfaWXYgLZxoF",
+      "ticket": 6,
+      "sola": 6847
+    },
+    {
+      "address": "5zbRPy5HE8wDB19zXob6T7MpjPicAz61i2yt6MFBRnBh",
+      "ticket": 6.0,
+      "sola": 6797.452663224
+    },
+    {
+      "address": "2puH2PBu8116cBU5iKnUghRySqCnZZDWYyF344RrFu2T",
+      "ticket": 6.0,
+      "sola": 6771.431329434
+    },
+    {
+      "address": "CE6Uyu8EGG8vxeQ1kTLqKKp2JHPo6WcWX8eP8S9u19vy",
+      "ticket": 6.0,
+      "sola": 6726.515544938
+    },
+    {
+      "address": "7DxYnS6BKMBUYKcz7oJvuxhAVnSWPv8SXsusuAx5M9ay",
+      "ticket": 6.0,
+      "sola": 6702.585339131
+    },
+    {
+      "address": "2XhJJfT5jF11djdASPSRg3my7pqU1MR9kc5jQTgSfaBf",
+      "ticket": 6.0,
+      "sola": 6695.358933318
+    },
+    {
+      "address": "5dSwUzbXVWYFZwnrdyfFbeSG6UafQaZBdG1WqpmxE3N5",
+      "ticket": 6.0,
+      "sola": 6692.000885846
+    },
+    {
+      "address": "C5ZQyRbbLqk3DAh8DZHTvJrkBNnp7PoL6i1eYWpyNM5k",
+      "ticket": 6.0,
+      "sola": 6668.208819102
+    },
+    {
+      "address": "EKcUqZAgV4SVzJ7Lb18vjAK6cs3ErPdMtwSjXzRvt2dw",
+      "ticket": 6.0,
+      "sola": 6667.663633596
+    },
+    {
+      "address": "55kYmC2aYEUSYZMJau9fSvQaqupKRzRwYbWC4fkNQnqv",
+      "ticket": 6.0,
+      "sola": 6661.304220164
+    },
+    {
+      "address": "9PEokjyc8kUgmHZrdZwDB3vv3cd1Cc3p3Fdzi4pB89py",
+      "ticket": 6.0,
+      "sola": 6656.161702105
+    },
+    {
+      "address": "Ay6PCjMVd8o8AVWGMzb4e2RDKgtuxJQY9JdoqA3T7sfH",
+      "ticket": 6.0,
+      "sola": 6633.464589411
+    },
+    {
+      "address": "3hRNvmjkKLkfbyE8YNHwomHydCB2wTCo3uPP5aC69pXK",
+      "ticket": 6.0,
+      "sola": 6602.022954415
+    },
+    {
+      "address": "4MuLpwG2ip3ZQAsgL74TxAX5WfrPGfBin3LBqAfqA5mC",
+      "ticket": 6.0,
+      "sola": 6566.762941967
+    },
+    {
+      "address": "EwNHhixD5fcR8vjimqrjpJvFGqzfQBUTyw4hYgdDmf11",
+      "ticket": 6.0,
+      "sola": 6525.210005715
+    },
+    {
+      "address": "G1FtUQkBQGBuULtGXBxqYfQg1zmsLSBHiZfaBM7q6Yp",
+      "ticket": 6.0,
+      "sola": 6497.928512963
+    },
+    {
+      "address": "AXXmyJGYS6asmYzAJS4vBxdBAtmzZaDU6igt19YBmx4T",
+      "ticket": 6.0,
+      "sola": 6495.373412721
+    },
+    {
+      "address": "A7URnDUjuJnLQLYhasdkmf8pLTadhjTuLhacyibHtSq1",
+      "ticket": 6.0,
+      "sola": 6427.120389462
+    },
+    {
+      "address": "GDkDo4nFnVir8xFFvfEUZgFgjgeghnJvUHWkc7mzaVEm",
+      "ticket": 6.0,
+      "sola": 6399.816079252
+    },
+    {
+      "address": "ETdP5o53YLW3wjTWHdDFwBoHC5BgqBceWBxk8zpbECtt",
+      "ticket": 6,
+      "sola": 6397
+    },
+    {
+      "address": "5KrHfGPoSkR6mv3MTJpZquBr5gbwxcet1CEva2uY5hRe",
+      "ticket": 6,
+      "sola": 6395
+    },
+    {
+      "address": "BjQoC48tN2YEdQunSSrM4MNQaLhZV8Zoas2wNdMTT1GV",
+      "ticket": 6.0,
+      "sola": 6380.664072772
+    },
+    {
+      "address": "35U5vUWM6osnvF9Hm2gy2YZiT4tVgdb2Kr8vL18aooby",
+      "ticket": 6,
+      "sola": 6368
+    },
+    {
+      "address": "BKFqSPQ9tVBXKZvw2L8MHpRzt55VxdK9KkPNrqfEF91b",
+      "ticket": 6.0,
+      "sola": 6324.132771982
+    },
+    {
+      "address": "2BoyRerX1gQVePdd2nUxc9uPxYE9htwLhjkaNr9KY5Fr",
+      "ticket": 6.0,
+      "sola": 6321.253043784
+    },
+    {
+      "address": "FF6iNmi4ssHuaQFCQor9DLK3r81ZqEeZ7JWd9ZTB7oj3",
+      "ticket": 6.0,
+      "sola": 6288.467806518
+    },
+    {
+      "address": "A42Wm9VfqRJBuK4ifVeGFTv1e8VpebrCijdM7rGRZq3U",
+      "ticket": 6.0,
+      "sola": 6281.428673291
+    },
+    {
+      "address": "EgA4FqQHkFbdTuyYYRYnVJiRbPoSKUKWD3nn677pZmgf",
+      "ticket": 6,
+      "sola": 6237
+    },
+    {
+      "address": "4JHp6HNdAyFc28whp16HenMKDaBY8Ytfn5FeH3Pg6Rpf",
+      "ticket": 6.0,
+      "sola": 6231.69163866
+    },
+    {
+      "address": "1TR9k5vVGoZ5ydogueB1s61hs3CfBktSoFr9ovMog8t",
+      "ticket": 6.0,
+      "sola": 6222.168006946
+    },
+    {
+      "address": "5bQW94V8rA2Z11HhUcYvZ6Dg4a5S7kUpZtnFxxAmmdv7",
+      "ticket": 6.0,
+      "sola": 6221.771628976
+    },
+    {
+      "address": "FvW6mCUQ3Vq3FEbAWdsmEksuU84iBkGPt51q6ytCpJTC",
+      "ticket": 6.0,
+      "sola": 6217.360640544
+    },
+    {
+      "address": "8dDqAw81AF7rqfcbvGTC9CMWx7bwzhkHe3UbFwpakVk5",
+      "ticket": 6,
+      "sola": 6200
+    },
+    {
+      "address": "6e6NQKULJ5H7PbUwt7yAKZ867iG6bnio649hjzi1cg2N",
+      "ticket": 6,
+      "sola": 6143
+    },
+    {
+      "address": "GnjUbMBKB1mqxSu1TpmWYAjeekRmzfg8UgmcdDtzYc2B",
+      "ticket": 6.0,
+      "sola": 6135.547206083
+    },
+    {
+      "address": "HEt1DfQwfuVHNLWFUEgzo5f6h5WwbhpZBkStkFLc8zKX",
+      "ticket": 6.0,
+      "sola": 6132.545198852
+    },
+    {
+      "address": "BpYPmxtUCS1pQcMsPMmGgpTSbf7ij1vhKoZVjNRnZgB4",
+      "ticket": 6,
+      "sola": 6115
+    },
+    {
+      "address": "4BFHSRBkAvPErwRH9EUZHrRcbdKUmUJLLWG2WnMHKKGW",
+      "ticket": 6.0,
+      "sola": 6037.142068459
+    },
+    {
+      "address": "47GJT1x1X3HuCZvhLCqamXHKmV5PUjAGqVydVDBPPhnT",
+      "ticket": 6,
+      "sola": 6037
+    },
+    {
+      "address": "3VPZBNS6D4btivZbRGMUFV3rRDX4Az4erJxeVt7aLkwx",
+      "ticket": 6.0,
+      "sola": 6029.425584517
+    },
+    {
+      "address": "9FFsKwCfp3PkGxGqTDVZ1Scgr5WUDtKM2T8nBu9aEXB3",
+      "ticket": 6.0,
+      "sola": 6000.265531521
+    },
+    {
+      "address": "2ebdbvf7DMB3i7RbQrwMA5SeCNQcdohpU5NkTv4RCKKT",
+      "ticket": 6,
+      "sola": 6000
+    },
+    {
+      "address": "5DE96dY2Ft9Xj7ogzzid9jyAfhYLaRSjdQSLF7rgAwTe",
+      "ticket": 5,
+      "sola": 5986
+    },
+    {
+      "address": "G4zpSab6CcgceHjnWMJ5wWeTcerZ7sPRTv9mLXST3MsW",
+      "ticket": 5.0,
+      "sola": 5948.927685398
+    },
+    {
+      "address": "ZkbYndRV5h7xCpRDoVA8YnEb1rhWx9D38pw9y24yPWV",
+      "ticket": 5,
+      "sola": 5921
+    },
+    {
+      "address": "H2LV1WdSmQnSAPF3HR7Y1nRjj8NdxUBfsw8vkudwqqgT",
+      "ticket": 5.0,
+      "sola": 5913.677937649
+    },
+    {
+      "address": "9pAjK1frTD9UQAnNrTvLYLKefvNbgWjKSHz12CAvVkny",
+      "ticket": 5.0,
+      "sola": 5911.874780338
+    },
+    {
+      "address": "2hk1DQYLJ7dpYkmKDuEmKSGrpDFJBAxoFkrnE3LgUQSD",
+      "ticket": 5,
+      "sola": 5897
+    },
+    {
+      "address": "6zaJZWSxan2kWkrjAucUVksx2Vs5EQnzKYNjx9JcccRK",
+      "ticket": 5.0,
+      "sola": 5896.184974679
+    },
+    {
+      "address": "DaobqmuyuLRj4xPneZG6ekyisne58yxhBM19kieevr3Q",
+      "ticket": 5.0,
+      "sola": 5877.915919031
+    },
+    {
+      "address": "1zsQVHDJawJEjcAnYBQdgX39pV2PwCULYqxXKq11SRB",
+      "ticket": 5.0,
+      "sola": 5869.265998027
+    },
+    {
+      "address": "2mF8Q9hEKBSqnne4vtRggxmbjvi6Y5NEUVTn4pLMQ6QU",
+      "ticket": 5,
+      "sola": 5869
+    },
+    {
+      "address": "DgNdSLUEwLFjd4epCeyDSxjA9aG2efi7huHFHVaBRfTi",
+      "ticket": 5.0,
+      "sola": 5844.231202944
+    },
+    {
+      "address": "6Bf4MtwZen8sC4vMMVTV24ERuPj88vsAdT4CMwovZRXX",
+      "ticket": 5.0,
+      "sola": 5811.496590161
+    },
+    {
+      "address": "EJfER9epyDQqNdo9kFcsLwsjpW9Jv7ckuFYHa9y68LPK",
+      "ticket": 5.0,
+      "sola": 5745.185232539
+    },
+    {
+      "address": "5ou8FYeLTah7vFvHo84nm2RfZjvBDi9FhqzCJeGJ2tXo",
+      "ticket": 5.0,
+      "sola": 5717.057824681
+    },
+    {
+      "address": "C8MKGcX6GeN2sYEYdn6hEik7BrqfsNP7mHVbpvxDg2uB",
+      "ticket": 5.0,
+      "sola": 5703.237736019
+    },
+    {
+      "address": "3kgVknVwTxQY3t1MQFvEj7oUhKvyzq6iA41LybT9gjuF",
+      "ticket": 5,
+      "sola": 5693
+    },
+    {
+      "address": "BHFieDksm56wYy8s4v5isuKxUfWexV3tNeKiVfWsGSap",
+      "ticket": 5.0,
+      "sola": 5677.782813729
+    },
+    {
+      "address": "5tP6HcLbpaGQrgmJ8r5KH7Q63WDqTBtxnQVHQhgaNARW",
+      "ticket": 5,
+      "sola": 5513
+    },
+    {
+      "address": "23X4czJf8SGMK669PY4ttuWB7jSVvSLhqgLs1YnArRtg",
+      "ticket": 5,
+      "sola": 5458
+    },
+    {
+      "address": "5FprS76PWCfUMYmBTq5svAPUkPbVaPaHHmfPxdEfubXK",
+      "ticket": 5.0,
+      "sola": 5385.869691221
+    },
+    {
+      "address": "27F7i7gszX6oVUsCrrLsei6YnU5KcuiyDs1Szz1VMZ2v",
+      "ticket": 5.0,
+      "sola": 5350.274349506
+    },
+    {
+      "address": "9zxjQMLUUGy6NRsacDhkfigFVWsvkKDajak7fgoKsYDm",
+      "ticket": 5,
+      "sola": 5346
+    },
+    {
+      "address": "7or8QmiCfENimr1Rm6prTve41s7Psr1b2atiR8Mj6196",
+      "ticket": 5.0,
+      "sola": 5287.265934289
+    },
+    {
+      "address": "9DKwmiuUYcbpb1reWZYfxQ6REmwcWpNYM2xdTwYcrhH5",
+      "ticket": 5,
+      "sola": 5232
+    },
+    {
+      "address": "CpRgQiYDoYhXjpxZQaqT2gxu7ndzCLHVMfupWFqD8fqc",
+      "ticket": 5.0,
+      "sola": 5227.504146749
+    },
+    {
+      "address": "GREz3LGAHB13vsR4mqZBFq7xbQGEaHJKCg3qEiewbnRG",
+      "ticket": 5.0,
+      "sola": 5224.225682516
+    },
+    {
+      "address": "E4wqFLFFcbNLqNquhye4EqNqwsJF8je4qf4jtARc4nu8",
+      "ticket": 5.0,
+      "sola": 5216.809528411
+    },
+    {
+      "address": "GzUpMkCyV3wdCt854wYxgw2SH4pNeeBVQZXE6Q5Sfwtq",
+      "ticket": 5,
+      "sola": 5214
+    },
+    {
+      "address": "88LYcbWT3cWmqDGRQLXaA26LrerKectiT4My69ye9Da6",
+      "ticket": 5,
+      "sola": 5201
+    },
+    {
+      "address": "EeYTWCCJYuDMJGP5QcQ4ancKtmdKie8PzEjkV1gciRBA",
+      "ticket": 5.0,
+      "sola": 5182.582294336
+    },
+    {
+      "address": "HVuNVCdXuL6e3qcSbQsSiTG6YaUtCxumZovjdgHRwLPs",
+      "ticket": 5.0,
+      "sola": 5152.312278265
+    },
+    {
+      "address": "AY9dermX4BoMVNCwb7tA4yTzmCs7Q6auAH7iaENkX94d",
+      "ticket": 5.0,
+      "sola": 5123.085468491
+    },
+    {
+      "address": "FEhUgsTQv6p6rWeX5Rm4ZihDMFh371czVnG1be9d1C3x",
+      "ticket": 5.0,
+      "sola": 5105.621077468
+    },
+    {
+      "address": "FH6KXN9W8xfu3hyUPhSPJJmMfFpfUJ6DVNH8Qz5tmBGP",
+      "ticket": 5,
+      "sola": 5100
+    },
+    {
+      "address": "FngzjqNDv5nyoGD5i47YFUssFCMVrfbhzDYeDcTfWZtE",
+      "ticket": 5.0,
+      "sola": 5090.556906997
+    },
+    {
+      "address": "DY7kMJdiYgybEPdtdPXxLUYFf1AubauZduqjv1VoGVtv",
+      "ticket": 5,
+      "sola": 5089
+    },
+    {
+      "address": "B3cX5tGzxYzAVrN44Px1R5oCmbEUAz8QqV33tBKCGAen",
+      "ticket": 5.0,
+      "sola": 5075.483265793
+    },
+    {
+      "address": "HfvRPf96Y9ued9zSvnWjoDMffWNof3YviuBQzmdsDfAw",
+      "ticket": 5.0,
+      "sola": 5075.351703461
+    },
+    {
+      "address": "9az8YgwTxzkot8bKsnNwGAb9iFJ2hVkbrrV6V6urgGqJ",
+      "ticket": 5.0,
+      "sola": 5056.384131117
+    },
+    {
+      "address": "8P1nQG5jDtZfPvEq951Dt7kXc5r7NCpHfn3MEifD961E",
+      "ticket": 5.0,
+      "sola": 5053.691734697
+    },
+    {
+      "address": "6iJvHzfLUJczqYguEBFAzbbowoGd4Tap5UwqeReBHgDw",
+      "ticket": 5,
+      "sola": 5042
+    },
+    {
+      "address": "6obvy8KGkZwmzHyMbGCrQLhN9M2uiY8saa71DEiZzDKn",
+      "ticket": 5.0,
+      "sola": 5040.883658349
+    },
+    {
+      "address": "BzDyvTQpHyiJXwDbGPMgJxUwsfpnQfkHmjcQEPQ6AYHv",
+      "ticket": 5,
+      "sola": 5025
+    },
+    {
+      "address": "3Ldi2nkV748AayJcbrySMBSNmopp7TKrTKrLbZFAntVF",
+      "ticket": 5.0,
+      "sola": 5023.442418409
+    },
+    {
+      "address": "8AyYCWuR2L237n3wfHS3fgtGvLPYU5pB1SyQQ2W5fkSM",
+      "ticket": 5.0,
+      "sola": 5021.933859453
+    },
+    {
+      "address": "9oTodpzMY6dH9GzDbrRz94Gi4LpaWss5H2Ao1V22VNkF",
+      "ticket": 5.0,
+      "sola": 5016.504159494
+    },
+    {
+      "address": "AzmX3DdpNtqAeYNxvEkv4g6AawiyWUUa8ryismRv27PG",
+      "ticket": 5.0,
+      "sola": 5011.594855246
+    },
+    {
+      "address": "9TRwTyhTu6vpVj9WeAY7w2kNETA2kjzWQ6yuLFBxtVPC",
+      "ticket": 5,
+      "sola": 5006
+    },
+    {
+      "address": "Gr4kKdBRp4ZWWWyafAey1aSzXchKb6RpXpBwz4VW6xcV",
+      "ticket": 5,
+      "sola": 5003
+    },
+    {
+      "address": "6WGtGUfsiUmeqFpjyQr42cMfqDz9CaCzDkBffuw1Z8u4",
+      "ticket": 5.0,
+      "sola": 5002.931663624
+    },
+    {
+      "address": "AvGg1W6snX9C1zrnsRmUnotsjkR84kqx2pGhvn2bntL",
+      "ticket": 5,
+      "sola": 5002
+    },
+    {
+      "address": "64U9w2RfkvK1TPXWDvQL2dsk3qDYFnisSwjjndjeagkD",
+      "ticket": 5.0,
+      "sola": 5001.001997013
+    },
+    {
+      "address": "3UVJ6mcvyVFVX1X7myge6cwgfeUuqS1NHSo8DMzaiszC",
+      "ticket": 5.0,
+      "sola": 5000.607755978
+    },
+    {
+      "address": "7cKCY69ghTBNLYTohzG1Jm6LoAknhPcSndqVbi7oCxiL",
+      "ticket": 5.0,
+      "sola": 5000.485938292
+    },
+    {
+      "address": "GknLqipmBj4vCtanevc7D7dR5kPjG8BZ4dCTeQLygUgD",
+      "ticket": 5.0,
+      "sola": 5000.393449638
+    },
+    {
+      "address": "2gZKUD4VtjHvimCQkjRLDCB4EGcgSLDu7rf7GYhpXjXD",
+      "ticket": 5,
+      "sola": 5000
+    },
+    {
+      "address": "DTNaDsRVpufr97ey2imuzvngUr7Cbn9HQQkQZxnQEotG",
+      "ticket": 5,
+      "sola": 5000
+    },
+    {
+      "address": "2nBxDad3zokz94RtGaJR9Z3Eoq48HReG1wPvjQd4Vw12",
+      "ticket": 5,
+      "sola": 5000
+    },
+    {
+      "address": "BFb5FeYHP6aQTqFaBUyf2UBQXLjvSd7NFb9pKRLn5ZHR",
+      "ticket": 5,
+      "sola": 5000
+    },
+    {
+      "address": "75DQDtW69UZo49LRVcN51SsGUvtcGcTpBuqqBZUj9nZx",
+      "ticket": 5,
+      "sola": 5000
+    },
+    {
+      "address": "E8VLrCqLMoem7Yt86VxFhf5kP1T1vLj5pikf1dVZz5XP",
+      "ticket": 5,
+      "sola": 5000
+    },
+    {
+      "address": "3TE1Pxx2N1SQWBMGaucbHRCLFpuHpn2jNC8RtrgT7Dpg",
+      "ticket": 4,
+      "sola": 4989
+    },
+    {
+      "address": "3wigMjFLSNgZU6Pm5WU1BCqSD5BMkpXzu37UsP3oqHxJ",
+      "ticket": 4.0,
+      "sola": 4979.07100591
+    },
+    {
+      "address": "AYcNUShEy6VCTiyaNJmzPYdFDshTxbPoMLFFr7scGCmr",
+      "ticket": 4,
+      "sola": 4977
+    },
+    {
+      "address": "BRTWCP2YM5vVSvoxTLy7sBy68bKsyfAjYZ75x67UDWZd",
+      "ticket": 4,
+      "sola": 4967
+    },
+    {
+      "address": "GVcgwmhUBsrvUmH26YAj2vCNXBBYhnQSS7J4Ezrynsja",
+      "ticket": 4.0,
+      "sola": 4955.701766022
+    },
+    {
+      "address": "51GWZDLoYymGkiZDmUaF3mr8ymuL4QzmQ69W43CVUBnA",
+      "ticket": 4.0,
+      "sola": 4946.717040278
+    },
+    {
+      "address": "7SZFPmKbB2Sh88aj4pHTs6USewBqzfzJCEvs4QLopiD7",
+      "ticket": 4.0,
+      "sola": 4922.818661803
+    },
+    {
+      "address": "2hn5dQ87RZtBUVAzFaY8mHrQ5NnWdrCBA9EPbpT8W1st",
+      "ticket": 4.0,
+      "sola": 4915.71303224
+    },
+    {
+      "address": "8Dni7H1UGr8w3q8kXiRN4Epp84189GJnU84hhu9cufxq",
+      "ticket": 4.0,
+      "sola": 4904.611464631
+    },
+    {
+      "address": "AgJBA2mYSK3JrpDv6XB4yTg5rNcVKpqTiHnwkv1g8ZMA",
+      "ticket": 4.0,
+      "sola": 4893.733343033
+    },
+    {
+      "address": "Hpi449BgPWrmf6JUiuCDGKCx63KQnGdpeu7AUmVSkAED",
+      "ticket": 4.0,
+      "sola": 4881.34205348
+    },
+    {
+      "address": "9WtXSR9eTKcENktpDe8jjRTiUhH8QtLcso2AewWs5KPg",
+      "ticket": 4.0,
+      "sola": 4872.213613391
+    },
+    {
+      "address": "87NtYdtw399TEWy51nmNq3waRiiMgtUUTaHG81VJ8Lv1",
+      "ticket": 4.0,
+      "sola": 4866.971593889
+    },
+    {
+      "address": "8dpXmhFXfVwg4shjp98xfdngu2xiA5F7VA1uipKuKYvp",
+      "ticket": 4,
+      "sola": 4849
+    },
+    {
+      "address": "2fwZgLjtdqbwV8PkfxeHPsRnuJJWqK5P7ymCjPis5Rta",
+      "ticket": 4,
+      "sola": 4825
+    },
+    {
+      "address": "FXxQwd96y61xajCs1j87D63gouCNkmEFYxr8Ls92Ttvw",
+      "ticket": 4.0,
+      "sola": 4816.127741274
+    },
+    {
+      "address": "BSAnXAm7szwiPf2xGhE7yBx8AojtV98ZcSsVRicpVpgD",
+      "ticket": 4.0,
+      "sola": 4746.085233369
+    },
+    {
+      "address": "AVWGBAnDPusq4SVnFf9djBPJJSn7A8W4ucmJbx33AfZQ",
+      "ticket": 4,
+      "sola": 4738
+    },
+    {
+      "address": "FNUvmL6qV1ZfRHRqGoUAwetvC6QYhUw838As6QmMG6Dt",
+      "ticket": 4,
+      "sola": 4734
+    },
+    {
+      "address": "4Etis9GdZFHGkDgrntbKBPVFDTN2PVYvBDLjPVG3jsUq",
+      "ticket": 4.0,
+      "sola": 4691.177284859
+    },
+    {
+      "address": "i6dJTaywC4od6cuX1apMFK2uEuCQEuAmdAqpH6532Lf",
+      "ticket": 4.0,
+      "sola": 4676.803786702
+    },
+    {
+      "address": "Hc3T4XdKVoPyAyP2Y1ueTAMaZHnR17FBbZqMVrS59mtf",
+      "ticket": 4,
+      "sola": 4676
+    },
+    {
+      "address": "GHouQ3cpZ2Z7arHmjrbsVZkvA5so2XUrhHbJhBPQA1ns",
+      "ticket": 4.0,
+      "sola": 4642.571019198
+    },
+    {
+      "address": "CJMEKiV9khutgf9qBvu6LnkcGpTbtiC7m6sdJs2ktEsC",
+      "ticket": 4.0,
+      "sola": 4636.500394407
+    },
+    {
+      "address": "3UpFM8M62d1WqRrtXuZRGM453Y1R2Yt29urxtaMey9F5",
+      "ticket": 4.0,
+      "sola": 4599.842488288
+    },
+    {
+      "address": "6f8sGQi52aViwDN1JKPSfF329ddv1Zv3LhM2snU7hh8B",
+      "ticket": 4.0,
+      "sola": 4585.52194897
+    },
+    {
+      "address": "892Q54vAzk2MUag335u1knagRgwRBCBhC3XEsQXXw47v",
+      "ticket": 4,
+      "sola": 4580
+    },
+    {
+      "address": "SsqTLEU8dkXSmK4n799QkRLN33W7EfGaxMTCH56JoKf",
+      "ticket": 4.0,
+      "sola": 4578.265984473
+    },
+    {
+      "address": "DHuvcmVai6jGYzAL7uAUmW7RwYZ7e8H5TM3i18CFAVdR",
+      "ticket": 4.0,
+      "sola": 4568.958362171
+    },
+    {
+      "address": "5TBSxcjbynoo5CEzG91pjRs3SBnSeNWsZn1dUMQo79GS",
+      "ticket": 4.0,
+      "sola": 4552.685493686
+    },
+    {
+      "address": "GcKNWKwwd1krkVQ5REDUFg76JJo42kocfubxUB5fdzjy",
+      "ticket": 4.0,
+      "sola": 4549.671304705
+    },
+    {
+      "address": "Cpm6PicRZN1aXid9fSp9gmnnD1B5KkmUgYXVFhWbYxxu",
+      "ticket": 4,
+      "sola": 4540
+    },
+    {
+      "address": "4RRRuFbrYU8Gn1wpJV6yQYLKkFGffpPjW3yjqGu8j221",
+      "ticket": 4.0,
+      "sola": 4524.3765867
+    },
+    {
+      "address": "DmXphMkdFKoYCZbZ6ri7jNoPRyiauY2Yw6hEY3KBTQe7",
+      "ticket": 4.0,
+      "sola": 4501.301354397
+    },
+    {
+      "address": "HVqimDua8rh7nBQfXEZbLwEJgsJv1pj8omhXpXG1iL9j",
+      "ticket": 4.0,
+      "sola": 4500.206100744
+    },
+    {
+      "address": "FAd9rJwmUL82idoDCG4zSYzC5VKcwAz9Jocn7rFsEdEN",
+      "ticket": 4.0,
+      "sola": 4500.18699077
+    },
+    {
+      "address": "4p4VKY1kcVHcS5J8eneqUbc9GfG5FCRX4T5R4UCTA7ep",
+      "ticket": 4.0,
+      "sola": 4456.278210003
+    },
+    {
+      "address": "FrEyJH8DjzcHkcGjpUUdDXvttR4wvMRzch45n9w277jX",
+      "ticket": 4.0,
+      "sola": 4412.306552823
+    },
+    {
+      "address": "3vFaxu9iGKZA3UQ2yf83EoEEfcr8gXDV2RF69p6UHqrQ",
+      "ticket": 4,
+      "sola": 4399
+    },
+    {
+      "address": "58vaDLeu8Xym3c98WmizvK5ZARSBhgHdGdeQhrUeu2oE",
+      "ticket": 4.0,
+      "sola": 4398.221765273
+    },
+    {
+      "address": "5arGMfXLjXHDwJtekZ88qUT5Be4Mz3fi3jvpeQ9Wea5d",
+      "ticket": 4.0,
+      "sola": 4397.795896806
+    },
+    {
+      "address": "CQ4KG3z6TxZpwwT5iprst1pAaF7bCvYdxMjFQJ75nN2M",
+      "ticket": 4.0,
+      "sola": 4353.526198299
+    },
+    {
+      "address": "2qte8E52JcctrJg28KuKCwQujeAuuVFkP8sQbzKXbrRV",
+      "ticket": 4,
+      "sola": 4332
+    },
+    {
+      "address": "2LkpfQhuk1dRVa81HNcWV8vQh73Sgfaxf5nT3PxkgQ86",
+      "ticket": 4.0,
+      "sola": 4318.31912225
+    },
+    {
+      "address": "BmSQrtwFGQH6K4A6abGiP9bAqt8B58NaEUnbwhEKpD7j",
+      "ticket": 4.0,
+      "sola": 4289.265803679
+    },
+    {
+      "address": "6t6hoP4PvjbEbgehCLwk6o4zHTMJxXzr6RjBY9AiHWKx",
+      "ticket": 4.0,
+      "sola": 4269.011182319
+    },
+    {
+      "address": "8bk2AkqiN5sRFZ57e6rchT5nZYD5j8ccgeuR3R78eF8t",
+      "ticket": 4.0,
+      "sola": 4261.16039532
+    },
+    {
+      "address": "GqqNsuqZqM1tgPQ7sCS1Lrj28H74fq7wQhFqEe7fPCVX",
+      "ticket": 4.0,
+      "sola": 4230.57603005
+    },
+    {
+      "address": "4pRUatnLqhbQBbW5J4ghFX5ESDt2d9WhoeoSi89ZZMCb",
+      "ticket": 4.0,
+      "sola": 4225.935680211
+    },
+    {
+      "address": "BwCWjkjZLnKG9e9rSEgLfxKsorqRM1txsTCKHvEcwDMv",
+      "ticket": 4.0,
+      "sola": 4219.770478544
+    },
+    {
+      "address": "5tDadPeuAxEYD2zMupK1bxRSJYCYBWJJdcvzwSxqaUSj",
+      "ticket": 4.0,
+      "sola": 4208.882791207
+    },
+    {
+      "address": "AUQ7NihbDDJNXvFHod7nbAyNi18R1UcyY32Q7g8PjvyY",
+      "ticket": 4,
+      "sola": 4204
+    },
+    {
+      "address": "MDVHDds3MLYUYMGWJYydqrMcwZJC1hLk1RxaoGRn7SE",
+      "ticket": 4.0,
+      "sola": 4198.058654471
+    },
+    {
+      "address": "GLvacUhf37K1SmG7dGPmAm9yCJ8HdmSqkvbzp1W35yeh",
+      "ticket": 4,
+      "sola": 4188
+    },
+    {
+      "address": "9NmMCZkT7qPD1pcqyJxyCnouJLfTKE9CVRHgU5FLvupo",
+      "ticket": 4.0,
+      "sola": 4179.777319234
+    },
+    {
+      "address": "8NG2gk1QVH55o4E8BEFH8oYVcEYuB1CWBGTHwMtu6nj6",
+      "ticket": 4,
+      "sola": 4170
+    },
+    {
+      "address": "Bu2EY68EpDZ23yzwtDktWs9bCihGFY1RYw7gGA9xsNoj",
+      "ticket": 4.0,
+      "sola": 4160.286235905
+    },
+    {
+      "address": "2JXryrPE7dsESRSiMoiTwwPrHvQGucJ44fptQ5RBQ3oL",
+      "ticket": 4.0,
+      "sola": 4154.89095313
+    },
+    {
+      "address": "GwbwP3JF2cFr3kk6g3gVReAtiA8ZeRdkBGyJ6EUiZMxx",
+      "ticket": 4.0,
+      "sola": 4152.556609346
+    },
+    {
+      "address": "Dd7kkTmXZMdwF6YA5uvuQSuj9VoLZVgqkzwTtsnqwkYM",
+      "ticket": 4.0,
+      "sola": 4149.865447023
+    },
+    {
+      "address": "BPFZ1yuB5DuKqMX5r94hWsJACxrFdUemKbu9SJ7JxgNm",
+      "ticket": 4.0,
+      "sola": 4132.291860109
+    },
+    {
+      "address": "FBWhAard62zKpp4RLAkJvPG5LvbTKRU7t7bRFsQSKAs1",
+      "ticket": 4.0,
+      "sola": 4113.227654417
+    },
+    {
+      "address": "6Pnhz8qkjQDiB8DTewkcSvhKqU7WNKRHtcFEJcqMZnEc",
+      "ticket": 4.0,
+      "sola": 4108.116986898
+    },
+    {
+      "address": "7ATUcYGZ4DEJgHpDU8RDPUJW7Nmb1bnHJhL9UosjdWWt",
+      "ticket": 4.0,
+      "sola": 4105.950183379
+    },
+    {
+      "address": "6ipnxJMGx3vrnLft3yogbLtjHzNb5dZdE6uzNEECrfa9",
+      "ticket": 4.0,
+      "sola": 4105.807873235
+    },
+    {
+      "address": "9y8tMj1uiPU9vfKEAoFsWrL6am1SCFCK5XC7cqmuUu23",
+      "ticket": 4.0,
+      "sola": 4099.269370076
+    },
+    {
+      "address": "3HsqJbcPULm5jhFWeEX4NBVHEKzVdCcCS6jwri6aXHai",
+      "ticket": 4,
+      "sola": 4097
+    },
+    {
+      "address": "JCVuAesk7qXJh4vAwZS6XuMAu4MVXTbmjTwHv1nbGsaq",
+      "ticket": 4.0,
+      "sola": 4093.979111084
+    },
+    {
+      "address": "DJ5gsfg5gJUpu8fG3ovGEkJyC6cSYwBNBq5iMErWeGe1",
+      "ticket": 4.0,
+      "sola": 4093.81839382
+    },
+    {
+      "address": "FB9FhpD8i6pvov5ZwwfbdnUfvKm3aKLFdh1ks7QtdxsF",
+      "ticket": 4,
+      "sola": 4069
+    },
+    {
+      "address": "8G6FK4UtWDN7pxuPDbq5JWsFhSYswxTyzXtP5vjehd2M",
+      "ticket": 4.0,
+      "sola": 4068.312304931
+    },
+    {
+      "address": "A2yD2mKnkn4mcpwApdDK6TanP91eL3ZvTUqMcfBjjZxY",
+      "ticket": 4.0,
+      "sola": 4065.405693233
+    },
+    {
+      "address": "23LaohurUFvd9tFrLGSEDy4BtEgxJmnTUq7BAnVuW9pa",
+      "ticket": 4.0,
+      "sola": 4062.445931107
+    },
+    {
+      "address": "4rv7bwRdsdpqZeDbm5LeTt3QxSNqdMFajnj38e6BtqaY",
+      "ticket": 4.0,
+      "sola": 4056.651734731
+    },
+    {
+      "address": "EoznVHmX8EPiiLZUfGJ4uoKxsefpp7KV9ai7MmqhPjDW",
+      "ticket": 4.0,
+      "sola": 4044.477700989
+    },
+    {
+      "address": "D7T5AxPhC99faTepskpHQD4kG19e3n52B2pSpTGA3ZbG",
+      "ticket": 4.0,
+      "sola": 4036.928249029
+    },
+    {
+      "address": "4SYZMHzqky6UcgExZB9Kx6qKSD18LEHJ4KQZJkciKLJu",
+      "ticket": 4,
+      "sola": 4036
+    },
+    {
+      "address": "3nmykCKWYyz5q3wdfiEjTe91MJFRXShhnAxwwT7T2gkE",
+      "ticket": 4.0,
+      "sola": 4035.659162292
+    },
+    {
+      "address": "87wztnkduRfpqV3ec9uhsoQazHsxAN18dPZQux8kAK7n",
+      "ticket": 4.0,
+      "sola": 4031.111144195
+    },
+    {
+      "address": "FGfDyAAkvmAjzsbKarMKMQMN4AUthbnSbbhzHckgj7H4",
+      "ticket": 4.0,
+      "sola": 4015.856741016
+    },
+    {
+      "address": "J9Qh6LRHyowH4quKKwVhKLYvKrzNM8pDcLT9VkV5ZQUB",
+      "ticket": 4,
+      "sola": 4007
+    },
+    {
+      "address": "8gTe365qEVFW7fAECeFSJXZNefUJyB2ZXh4jM92gCWGb",
+      "ticket": 4.0,
+      "sola": 4005.520880248
+    },
+    {
+      "address": "36q9QaaGcuRXtD6xrH3WzyDpLsQG5TDuhPXHzwacZktQ",
+      "ticket": 4.0,
+      "sola": 4004.974804441
+    },
+    {
+      "address": "449SBhjJLvWPvpg4JjRHVvd7cmT8UJGkrN3862yd5Ag9",
+      "ticket": 4.0,
+      "sola": 4004.343737128
+    },
+    {
+      "address": "6fx8pGsFXZQSKFLAL6faxdjRdXfuiBMG2yJjgjBvd7T6",
+      "ticket": 4.0,
+      "sola": 4000.662689454
+    },
+    {
+      "address": "4zdPN7Wtvu2YDEA1kMNLXG2kuLFZCDLGgJwoSVahiy9d",
+      "ticket": 4.0,
+      "sola": 4000.496786786
+    },
+    {
+      "address": "A5pxW1NmKc86LnqRcREMfBzsp4orX7nF1DLHCfnESGuj",
+      "ticket": 4,
+      "sola": 4000
+    },
+    {
+      "address": "4FBwXfySgK9KyVoPJboqxuQGkmEPWdbtnwMzpiuTKM17",
+      "ticket": 3.0,
+      "sola": 3984.874220522
+    },
+    {
+      "address": "DM7kLa31WdrG7kbVpct3djXNmVFJ3A3mPWyx9L9Xpka6",
+      "ticket": 3.0,
+      "sola": 3965.39699772
+    },
+    {
+      "address": "3uvFayFo6PNEzY5J3EP2T1JFvmmmmn8ge1tqfxpJrP5Z",
+      "ticket": 3.0,
+      "sola": 3914.518046319
+    },
+    {
+      "address": "FPMLv697Z44a6sUS9tc5yn6TKmvLCCQ98ShnYcVsJ41k",
+      "ticket": 3.0,
+      "sola": 3884.266591597
+    },
+    {
+      "address": "DTkaicyzrbEYPAGHJqZd26kDwnQf5vU8LZvcyAPdcW5d",
+      "ticket": 3.0,
+      "sola": 3868.981084245
+    },
+    {
+      "address": "ESCyMrrdNbAFWfv6aHTe7R7HMAmjhAEFqCS6kABdSNQH",
+      "ticket": 3.0,
+      "sola": 3868.659186248
+    },
+    {
+      "address": "6aQrkM3jP72oSSUAc1d11CwEPQ6X5QtddZey8j6GBa4V",
+      "ticket": 3.0,
+      "sola": 3867.070076182
+    },
+    {
+      "address": "HhUAB3SNjEEG3sJ4kJnGS5x4X2C1SDZxCJcapL7rPcyU",
+      "ticket": 3.0,
+      "sola": 3848.146306987
+    },
+    {
+      "address": "3rfHFa5ZV8ksMPD84hVC5VX6MHj6k7dBrgRZHS4r4Szk",
+      "ticket": 3.0,
+      "sola": 3828.312593837
+    },
+    {
+      "address": "BMeKukTQwVxAZ195XNiedsu6fuV8iEecEPEU7okwCAaW",
+      "ticket": 3.0,
+      "sola": 3802.62608252
+    },
+    {
+      "address": "45eFjRtFa5musrFRsYvaSYijCQAdcGfy36jcTTucf5LF",
+      "ticket": 3.0,
+      "sola": 3788.16430199
+    },
+    {
+      "address": "8h3SJpB5LsVaTW6GfSA9dkEn1BdsefNodsGZgbp85JZV",
+      "ticket": 3,
+      "sola": 3787
+    },
+    {
+      "address": "621e2ReFiF1akAwJJDezpN3wjN47LG3TLRGwBQVEQBMU",
+      "ticket": 3.0,
+      "sola": 3784.350651743
+    },
+    {
+      "address": "CcgTdFKAW68nptYSFFNK3bgk6SBigZDaSqMiv6wtBbFy",
+      "ticket": 3.0,
+      "sola": 3768.393086102
+    },
+    {
+      "address": "GZr4xx8SZYKWz4ieczTYEkzeSETfCKGtmdocX6BphHwX",
+      "ticket": 3.0,
+      "sola": 3739.322616798
+    },
+    {
+      "address": "6C4FuufsXTHLKeGXSr4nCNAbdK6H4TaiSERzeYc2Xsut",
+      "ticket": 3.0,
+      "sola": 3725.484807517
+    },
+    {
+      "address": "DiEFKuXo6BeR8tDMHsbBkXBwfvtWpgtahheM4NR5isJQ",
+      "ticket": 3,
+      "sola": 3722
+    },
+    {
+      "address": "B3YSaPc7rugiZQ1x2fkaynnDy3WjyPbKR8VaQFJ4bNdD",
+      "ticket": 3.0,
+      "sola": 3713.511400988
+    },
+    {
+      "address": "7iU4P8HKhFDbFvHVCB6yPhFsLUXeFmnM1GpbksL6jtm1",
+      "ticket": 3,
+      "sola": 3711
+    },
+    {
+      "address": "3GdZqbzQZNq7JoSpSWxyPFTSS92VpWHEpJWEpr4Pbaok",
+      "ticket": 3,
+      "sola": 3702
+    },
+    {
+      "address": "4WHPA56PzGcUXtNnE2waq1JcN7A31AJZtBMwoyWvKeQT",
+      "ticket": 3.0,
+      "sola": 3694.187050456
+    },
+    {
+      "address": "SsnTAmKiqiwJRapJdHix3UsqCB6tsQ8hj4oXrWEiaFZ",
+      "ticket": 3.0,
+      "sola": 3669.635803729
+    },
+    {
+      "address": "9XKF4MArmpyZKLwdd3vSzKpLJgERq2q63hQYZ5ig9hpp",
+      "ticket": 3,
+      "sola": 3663
+    },
+    {
+      "address": "83f3ZZYLBgw8Tdado4cFpyois9agFsdf58sptFvBbN1b",
+      "ticket": 3,
+      "sola": 3648
+    },
+    {
+      "address": "29yB5wpLMofNTo1NLvULZTcKio8ShsfxzaAknQwbKsF8",
+      "ticket": 3.0,
+      "sola": 3642.453287483
+    },
+    {
+      "address": "B8KJywdPZ6LgrMrQthh3CPhHXqGDYouqx6SbnVkD1mYf",
+      "ticket": 3.0,
+      "sola": 3634.053586095
+    },
+    {
+      "address": "71a34iyi6o2J7CfjFoN6F5dHZYWwsvUaUWyMier73cFM",
+      "ticket": 3.0,
+      "sola": 3617.403869592
+    },
+    {
+      "address": "DcHFZACKxn7iobVTSacxC4teq1Rfbtm3EkuzYDBtpSdW",
+      "ticket": 3,
+      "sola": 3611
+    },
+    {
+      "address": "53ZcbZXr7Ye8maz7C1Qo3ZVib6kkxp7sfEjFCHuCw4GA",
+      "ticket": 3,
+      "sola": 3583
+    },
+    {
+      "address": "6ui77ToKS1UW1j27u9MYvCjWbJ1h5omdghSmSRWbVbqq",
+      "ticket": 3,
+      "sola": 3568
+    },
+    {
+      "address": "6UgLQAyhu1vfh3PFTWcfQjXkvM3Bi7HCTB5JiwZRt9aj",
+      "ticket": 3.0,
+      "sola": 3566.534468667
+    },
+    {
+      "address": "DZZYdTHDLu4Nhx86fQ2apM1sDtfa3G7wvYoQnT64ucXk",
+      "ticket": 3.0,
+      "sola": 3518.676404863
+    },
+    {
+      "address": "EHywcwa6hCMVYFKqTJNbn3XC6FzyoUQpDzGSEj3dPR6V",
+      "ticket": 3.0,
+      "sola": 3518.459625043
+    },
+    {
+      "address": "HBY69bjR5SwBZN6XrK7Wscdnsbh9artpKU6mkpsJTvR5",
+      "ticket": 3.0,
+      "sola": 3513.411322338
+    },
+    {
+      "address": "GxQCuioz18onKC6pK4jUr6QqRA6svMMPpCdyUJ1Aa9ak",
+      "ticket": 3.0,
+      "sola": 3510.983159527
+    },
+    {
+      "address": "ArkBCy9guQdiBtvfM1wCMm1MBrVYPg7wHF8mHBAAJxk",
+      "ticket": 3.0,
+      "sola": 3507.936558329
+    },
+    {
+      "address": "8pW3uXbsL523Hs5ThmRzRvRoPYscK58mieMmPDS5AC9j",
+      "ticket": 3,
+      "sola": 3500
+    },
+    {
+      "address": "BHKa1iVBPimkK9W85xk3Pvi9uEFXv5yYCRvAcKyW6aq5",
+      "ticket": 3.0,
+      "sola": 3493.059680155
+    },
+    {
+      "address": "25W1iS7Hmy6YtmEgaUraSFkwfxsYf74u4pLDqV55Y7ub",
+      "ticket": 3,
+      "sola": 3492
+    },
+    {
+      "address": "A338J9PRrXpzJMRLzRP6wEmj4po4efQFP6stj1X6XWWj",
+      "ticket": 3,
+      "sola": 3491
+    },
+    {
+      "address": "3RH1sTPftA5L6jsr6XLuoSUKZkyNTuuEwLw88FfawpoP",
+      "ticket": 3,
+      "sola": 3487
+    },
+    {
+      "address": "BrzM2d2nTk7A6VXKRcoQxofc8wMLRziRUkDyedVHrSHi",
+      "ticket": 3,
+      "sola": 3477
+    },
+    {
+      "address": "6q8ZA8j1gKZVwddV4kSALXmpvpe451NVNTSRyrtvzG2L",
+      "ticket": 3,
+      "sola": 3470
+    },
+    {
+      "address": "4u4wrBShMstVELayF8zp2BYjr9JThf9PybZVfVf7sitk",
+      "ticket": 3.0,
+      "sola": 3468.580099997
+    },
+    {
+      "address": "EB6MG77TKcQJHSkJ65mG7pAnh8KVaAzhbZLtGGYp1ntd",
+      "ticket": 3.0,
+      "sola": 3464.231335524
+    },
+    {
+      "address": "9EpxHP2ME8cYFZ3C1qVZPyevZt1mHT9aHwXbmhmh7Qke",
+      "ticket": 3.0,
+      "sola": 3464.000811098
+    },
+    {
+      "address": "DRAtmNPfp3b5Qpk2sZFhRBbDDZSpqRvtFfxNFUKU53CY",
+      "ticket": 3.0,
+      "sola": 3437.877622477
+    },
+    {
+      "address": "GhJYjmDuseKgXhvLj2pNPhgjiW5ew9JCgpuXnKYwREFV",
+      "ticket": 3.0,
+      "sola": 3425.456282603
+    },
+    {
+      "address": "7GwWW65HLcPYXD4oSp64mtdUfoZxHWTwCscrMxfVWKJy",
+      "ticket": 3.0,
+      "sola": 3423.740506954
+    },
+    {
+      "address": "3soJ2dciWVzV4CEA7dSm9hkk7cfGNyGYKqfweHFaYXv4",
+      "ticket": 3.0,
+      "sola": 3417.972004873
+    },
+    {
+      "address": "J47vcpR9VwwUVzqwRRHhmvWL4qyUkddLquQEmRcXXBgg",
+      "ticket": 3,
+      "sola": 3415
+    },
+    {
+      "address": "2mz1NZ5GARnENAPLEyD1QDaPhnbfUu5KeVZU8f5HdELu",
+      "ticket": 3,
+      "sola": 3403
+    },
+    {
+      "address": "xKjZUQMHfUBFmFVHpKzNWPKnMhd1pQsYeP4svQio1vk",
+      "ticket": 3,
+      "sola": 3398
+    },
+    {
+      "address": "DmSpqWjqsoaS6VzRaUopnnb1ujVkHzFSLBWbvqsVvcce",
+      "ticket": 3,
+      "sola": 3389
+    },
+    {
+      "address": "8sKfauietHhfVVVq8Jdqp1E76k96erYyhgK216NncrFr",
+      "ticket": 3.0,
+      "sola": 3381.049585025
+    },
+    {
+      "address": "77RejuFh1VJbu96G4mjq1QnzPRejiPQP9LLt5f9Y8ujd",
+      "ticket": 3.0,
+      "sola": 3378.567001474
+    },
+    {
+      "address": "4pdVEdFMnsfCLWVBPjthutumvinjyaVTAFfTf1hXyZ6b",
+      "ticket": 3.0,
+      "sola": 3377.841098586
+    },
+    {
+      "address": "yAeXJUKfdD1kyZi1FY7tQ3mJGmb7VnC9LgG1Hhd7Qso",
+      "ticket": 3,
+      "sola": 3376
+    },
+    {
+      "address": "AWk36RtZe7YysJA3yxyzkQj6UrHYZ27BzyRAZgCMTXAD",
+      "ticket": 3.0,
+      "sola": 3375.460823311
+    },
+    {
+      "address": "SNiNXm4hQXbZbH18Dqwn3Hea2TVB9hamW9zfJUMHfQb",
+      "ticket": 3.0,
+      "sola": 3367.050478182
+    },
+    {
+      "address": "3VifTePxztngb8vBU74PFfTzzHncse3r6yJhQ5GRk81t",
+      "ticket": 3.0,
+      "sola": 3361.652619737
+    },
+    {
+      "address": "tMmfw3mbXYEA8v3E2J9ofHHEKm3TCR7SGuutQ3uaxce",
+      "ticket": 3,
+      "sola": 3358
+    },
+    {
+      "address": "7kFzW5XGknb3fd4tSisykkZD1VG2AygoE97SUwqqZW7q",
+      "ticket": 3.0,
+      "sola": 3351.397575193
+    },
+    {
+      "address": "9niQJLdxwzBxPn1a1Ah3ZRbu1wJFsifY8G6onhaxcgR7",
+      "ticket": 3.0,
+      "sola": 3350.819526129
+    },
+    {
+      "address": "Ap277KkAL9GCSoZjf2wPzwGppDRjvQUTck5J8griCg6L",
+      "ticket": 3.0,
+      "sola": 3338.793816746
+    },
+    {
+      "address": "78FuFqNEJx4VcWCQLX4P8oPZJNdS5FGNPhNvb9FtRy4k",
+      "ticket": 3.0,
+      "sola": 3335.660441939
+    },
+    {
+      "address": "6DM5KR5uecCSuLaQTey7XPMquf8dw5qkeQhmqnsdzthQ",
+      "ticket": 3,
+      "sola": 3332
+    },
+    {
+      "address": "H4HhWEjJsWuqTCuwN6aHDMv1ZFaPDQKhSHRPmexNRi5Y",
+      "ticket": 3.0,
+      "sola": 3322.175392044
+    },
+    {
+      "address": "5e7C3mmyKTPGNLagFK5vEe4vnaPKzGgWfQ29DDfHwRRj",
+      "ticket": 3.0,
+      "sola": 3320.104567766
+    },
+    {
+      "address": "B2xzqtTESu3vzswforCfm2fhuQNB54piHBwQ67r7ZwU2",
+      "ticket": 3.0,
+      "sola": 3314.498047198
+    },
+    {
+      "address": "3cyuNNzVPDRh1FY74DBi8iSdyF8pXt8CuA1xaW7qXDZJ",
+      "ticket": 3.0,
+      "sola": 3297.710874914
+    },
+    {
+      "address": "2FB9M8zuCypucLLa78jooDq5yEkD7ENDMVZHBrroWCrK",
+      "ticket": 3.0,
+      "sola": 3260.05061375
+    },
+    {
+      "address": "4jyQXY5HSMaubetSiP7W8u3KyVssHS6bTCDRdvAYoeTP",
+      "ticket": 3.0,
+      "sola": 3258.931448085
+    },
+    {
+      "address": "7TUJwkpcc9hhngHYom4a1vQpst87BcUfcQUjzuoPAAnA",
+      "ticket": 3.0,
+      "sola": 3255.227176591
+    },
+    {
+      "address": "3osV4Ka7oYqmXAhR1PjTMXACTWLU8pMY3c3qgP35toJK",
+      "ticket": 3.0,
+      "sola": 3251.993624487
+    },
+    {
+      "address": "Hk41uyNfWmgceHT7Ssz7DKNJnipPznbLvztW4hT6cHac",
+      "ticket": 3.0,
+      "sola": 3241.344324222
+    },
+    {
+      "address": "Gj7sLQubpdi9mDJCQpkSAwSafH7w1ZERUSizhsJkA2Kv",
+      "ticket": 3.0,
+      "sola": 3214.993502468
+    },
+    {
+      "address": "62kwiAgbtbazv9ak5thnrZzQHiBxrzwKZJhzkqptsMwB",
+      "ticket": 3.0,
+      "sola": 3210.154383287
+    },
+    {
+      "address": "9gPmYx3qboUwkNZn9NyUGDuvFKUj4vqzNcDPL3XCLTvM",
+      "ticket": 3.0,
+      "sola": 3196.742986828
+    },
+    {
+      "address": "HN89Q13QpSmdFgBwoD1uAvwDr29zjJt9jedRM8YSp38e",
+      "ticket": 3,
+      "sola": 3189
+    },
+    {
+      "address": "CtG2fY9L6pe2KBVQfM3ckrNfHaNyURp1ehse9Vze4vbT",
+      "ticket": 3.0,
+      "sola": 3184.996049057
+    },
+    {
+      "address": "GH24GEuq2DYD88cKH1h4FdDWZvNu2NHxPf8MhWCyLdxV",
+      "ticket": 3.0,
+      "sola": 3182.6534085
+    },
+    {
+      "address": "Ay44Qjhg76jz3NpBtBJUfiXjYxxyVPs97a8Yqge6mhSh",
+      "ticket": 3.0,
+      "sola": 3171.709524144
+    },
+    {
+      "address": "Gq2TTq51qrUBmcNqh2V2KAZ6NYVHn4ivFR2aUTYjgcHG",
+      "ticket": 3.0,
+      "sola": 3159.854185462
+    },
+    {
+      "address": "FTZLahspwJWADLMdpbWzgMJXq5pHS9ninWWPRdCv91WZ",
+      "ticket": 3.0,
+      "sola": 3159.21673289
+    },
+    {
+      "address": "7JFVyN8VyPFwZu8CnwsNdC1Qb7knMHV2btKjYUf7ez5M",
+      "ticket": 3.0,
+      "sola": 3140.603622376
+    },
+    {
+      "address": "8BfpY7GvUdCryvt5ZXVafwShXhidzUhkSwF8sDo4kSYa",
+      "ticket": 3.0,
+      "sola": 3127.373840922
+    },
+    {
+      "address": "6UTY8TEe1tTW9qbS7CM8KcBQrXsUT6FdMhU1A9w6kcLv",
+      "ticket": 3,
+      "sola": 3126
+    },
+    {
+      "address": "7o5kQkA2UrP74DCarhgu5vWtMdmfFT6KcKDZ4SfWaNtW",
+      "ticket": 3.0,
+      "sola": 3124.599063769
+    },
+    {
+      "address": "CwJQLFifMNay8iUHWNuZgTe16SS5SU2kP1jfkJvfcBxd",
+      "ticket": 3.0,
+      "sola": 3102.543342135
+    },
+    {
+      "address": "7NTwkPutj62YvgicAqXm33qMvCAL2yU8BBmyrGrJvtMD",
+      "ticket": 3.0,
+      "sola": 3077.194499919
+    },
+    {
+      "address": "ABQFkVJTfknpc5uRsqt6cx7fByxbWbdhArK8UYPciAsw",
+      "ticket": 3.0,
+      "sola": 3073.023501516
+    },
+    {
+      "address": "CowAMg5Ux42Dg1Xx3ww1SCQZXVHKogNsKrmTcPXnDKpP",
+      "ticket": 3.0,
+      "sola": 3068.405414248
+    },
+    {
+      "address": "5ThJD6gzee6adfffHVnbyUBb6pgf7ByWT2GyhVWvNxEm",
+      "ticket": 3.0,
+      "sola": 3064.902477644
+    },
+    {
+      "address": "7n1vhtx729L9gCVPjVvt5jjsiA9FsDk4HeNfpEdDrHCd",
+      "ticket": 3.0,
+      "sola": 3060.617151363
+    },
+    {
+      "address": "DHE2U9AvE2hJCg9wis4ca9xBYQyHYQ58pt2stmDJSEXo",
+      "ticket": 3,
+      "sola": 3058
+    },
+    {
+      "address": "FPyJuqhLn72B2ShBrJfpEr5MBYX6Xkc4JMkaKjCxitax",
+      "ticket": 3,
+      "sola": 3048
+    },
+    {
+      "address": "FF5HhQrBKY3frYdG7DTs2N3Cc2CYpPGfZAr6w3ijpfFd",
+      "ticket": 3.0,
+      "sola": 3045.800460366
+    },
+    {
+      "address": "4aRJ6L1RusYpvwAxpa9wB4jED4sf4DXVH2Chfo3BXfKg",
+      "ticket": 3.0,
+      "sola": 3043.757472997
+    },
+    {
+      "address": "HKGm9ivoa8AbpBGTcbCBSkuiEuT8GiCBYjkLvGKwZ3if",
+      "ticket": 3.0,
+      "sola": 3037.624517222
+    },
+    {
+      "address": "BQex5dwDaKDGMRX8rdKUjqgftuSfwiqmCvmKfbgF2WoP",
+      "ticket": 3.0,
+      "sola": 3034.1
+    },
+    {
+      "address": "5tF8uLJSeeXLtPouY9H1SXZK6tnNh1yKCMjVEQS3Jj3z",
+      "ticket": 3.0,
+      "sola": 3028.586706005
+    },
+    {
+      "address": "CMH3GmSxy5sihQ8q4ThVHdnCCygn9pv8wcpoykHnobir",
+      "ticket": 3.0,
+      "sola": 3027.937365983
+    },
+    {
+      "address": "2bzwosvWa8fJfUyz2RNASyqxszkajoBgdDk63DFLbbyj",
+      "ticket": 3,
+      "sola": 3020
+    },
+    {
+      "address": "GxreB8NCkJxQFnMoQLoQqyvT2anMZbM2zrahNpymj6E2",
+      "ticket": 3.0,
+      "sola": 3019.824354144
+    },
+    {
+      "address": "FeSh5Tx6pRtbMYuSYSnGi1zh8vTypm2iTfMSeMYqQwC4",
+      "ticket": 3.0,
+      "sola": 3011.79961359
+    },
+    {
+      "address": "3dm4baXcnC3vcRVirUJMjsNGrxa4Y74K3E7erSRwA7e5",
+      "ticket": 3,
+      "sola": 3011
+    },
+    {
+      "address": "9wCHDkAC3KqLtiMj15Z5vdxdNECfJ3mxdX2knVKD4bHA",
+      "ticket": 3.0,
+      "sola": 3009.469012357
+    },
+    {
+      "address": "714wCBVZmRXXsa4UXvDLFLYw4UWMh2WcZv87zRdruNLC",
+      "ticket": 3.0,
+      "sola": 3002.8515301
+    },
+    {
+      "address": "7bLL8VYefsDce4DKqiQNCZkt2X4SPJGDEo78V41UHrE",
+      "ticket": 3,
+      "sola": 3000
+    },
+    {
+      "address": "HpjkqgAo3TYKBctvS9PpfikSU3bQwTr6saCnJ1yH8hiU",
+      "ticket": 3,
+      "sola": 3000
+    },
+    {
+      "address": "GTMk7gwBadvchVhUECaT87q99GtaXuSNVFs8q8mZt2b7",
+      "ticket": 3,
+      "sola": 3000
+    },
+    {
+      "address": "Ax88jGhcEhqnaaC4Vh9LuhZE8VzFhvBTBB32ZEX7ujZ9",
+      "ticket": 2,
+      "sola": 2991
+    },
+    {
+      "address": "BCZfXnRxJGNKn8SkquPNGA828AdPgYMTgawphXwfchMW",
+      "ticket": 2,
+      "sola": 2967
+    },
+    {
+      "address": "7ccRJ6zDEQeXRPcx3uDLApLTsPJ2RpTZv1NGGCBkN9di",
+      "ticket": 2.0,
+      "sola": 2963.904464937
+    },
+    {
+      "address": "2jCpPaNQXuPTxCJKnhBwMSKLkLzPESsK2EoLKmrZgjCR",
+      "ticket": 2,
+      "sola": 2962
+    },
+    {
+      "address": "FdENLvim6aq7vxgRBfy8AF515xYn3g8wamMkhbnMD6DM",
+      "ticket": 2.0,
+      "sola": 2955.919429677
+    },
+    {
+      "address": "EwGMYSNX4XquuKpiyFnJtXpLsxNNAd7HCbc4jyyuNL5v",
+      "ticket": 2.0,
+      "sola": 2936.377810999
+    },
+    {
+      "address": "9Qct91yxEZwYMH5aTxsjxKYWFAuGD1r7V6SiHbeUFGgM",
+      "ticket": 2.0,
+      "sola": 2934.119617112
+    },
+    {
+      "address": "7SocCyknUuEJJe7pE2ux2i3fz781zEXXD83yNcBBrtnE",
+      "ticket": 2.0,
+      "sola": 2912.11333566
+    },
+    {
+      "address": "3VjToe9fT2ZsxUmjUc2zQ1uiBSnojwW9L5jVtbJdAZds",
+      "ticket": 2.0,
+      "sola": 2905.908018575
+    },
+    {
+      "address": "CrVU5HGhAXgWdtQBxy8nX38ST96MezTLQ7LMw2GFSrQJ",
+      "ticket": 2.0,
+      "sola": 2899.905192132
+    },
+    {
+      "address": "EnDdmEDXJJA8538r8ej1CLYDn5Hbq6Po1muz9fbxXuZc",
+      "ticket": 2,
+      "sola": 2893
+    },
+    {
+      "address": "E1sdE92CkmbvoQJkhBQNWyhEWwmEGdtTvSHBdSiSrrzn",
+      "ticket": 2.0,
+      "sola": 2869.24094369
+    },
+    {
+      "address": "8AzDKxRNFc91sdfL3CjTYbr6WQw3qzg58ZWPB1XKKB4A",
+      "ticket": 2.0,
+      "sola": 2864.502560435
+    },
+    {
+      "address": "EHSTEDTSfmGr5u9Wk9NGXVbgvv5GzSYa52UdvYBYia2d",
+      "ticket": 2,
+      "sola": 2860
+    },
+    {
+      "address": "8bduhjwFPQkHm71Syvws9882LGWV37R8Saz5PfDyMmte",
+      "ticket": 2.0,
+      "sola": 2852.453411282
+    },
+    {
+      "address": "JAWLLRHv2LETT95gx5i4GuQKBiMB4sjE3wnZvsZad1MY",
+      "ticket": 2.0,
+      "sola": 2851.808725106
+    },
+    {
+      "address": "3m49ahzpcN7aHMQR4DHj8n2LBmmcr3NU5fGdkHM1evcb",
+      "ticket": 2.0,
+      "sola": 2837.409107793
+    },
+    {
+      "address": "GeD1FKFxZF7iaVuDPue7zFoqct2TaPa7SawLsbgWrZbv",
+      "ticket": 2.0,
+      "sola": 2830.150054255
+    },
+    {
+      "address": "2fpNMiUCDoW7uiznFV7RndRsSsrtf5LZGYK7jYSzbQx8",
+      "ticket": 2,
+      "sola": 2829
+    },
+    {
+      "address": "3MrsfWuF9QmiuyE5aSj1Mmr6eKJCYM3aBoerWjeXvsjN",
+      "ticket": 2.0,
+      "sola": 2826.451576206
+    },
+    {
+      "address": "3XD24xwL6Xp9AtJ8BEaCBKqECHXYtCM5ZdDNdhEicuth",
+      "ticket": 2.0,
+      "sola": 2817.466168764
+    },
+    {
+      "address": "DEEB7Wos6pxpYR3oNES4usUPqATyoVezRYVASmpe1UQW",
+      "ticket": 2.0,
+      "sola": 2813.522016075
+    },
+    {
+      "address": "CJ17pFtM4gSnvcbYzzQq1Xd9BcHq4m8BQFALFheFMtYD",
+      "ticket": 2,
+      "sola": 2800
+    },
+    {
+      "address": "ELaPhexctwqzbSBKSTt84fyRkfQQ9kc4j2WnaV3QFf6Q",
+      "ticket": 2,
+      "sola": 2782
+    },
+    {
+      "address": "AakMqSeZgHojCPcLqSviSKePHBWqi2q55hWpizqL9j8U",
+      "ticket": 2.0,
+      "sola": 2775.154144631
+    },
+    {
+      "address": "3PRe8zzhLtEe4FLyf5VScBQzr6nnRj3Huvs1ThCNfh11",
+      "ticket": 2.0,
+      "sola": 2767.574496722
+    },
+    {
+      "address": "ABonwQYnaUQ7waTpd1DHEXptMJLbtf1KrDFRG8TJ3Zf2",
+      "ticket": 2,
+      "sola": 2747
+    },
+    {
+      "address": "BMTicbhvkQsnzdKWGFGzg9jH9skyXybraqCF3uqyorQ4",
+      "ticket": 2.0,
+      "sola": 2743.67948705
+    },
+    {
+      "address": "BQpG75ey2ZF3QAciEhvKKLB6ox4WcJxRDiJMyYF6PBGV",
+      "ticket": 2.0,
+      "sola": 2731.424390243
+    },
+    {
+      "address": "AGnnbFX4KhtCxkE6B1iBy7txdxXZt54yhJdFkeFig7Fi",
+      "ticket": 2,
+      "sola": 2729
+    },
+    {
+      "address": "HPFBCRCVDirLj3jFDtj7dAxPi2mATMz7kVptjVknUdan",
+      "ticket": 2.0,
+      "sola": 2724.792712948
+    },
+    {
+      "address": "FtkHP7FtbxjKSBQduJywzdZTDHcUMNaU5VQP1F9dvAZT",
+      "ticket": 2.0,
+      "sola": 2715.156005422
+    },
+    {
+      "address": "H3DByERRvPC9R3hjxXViNiR3Ban1stPbQ1eeGLFAxaVp",
+      "ticket": 2.0,
+      "sola": 2712.748770881
+    },
+    {
+      "address": "SRx8Xq4GFtK8kLCa98wbYQKWJ9yHxrYo1dboxPrn3cm",
+      "ticket": 2.0,
+      "sola": 2710.54720921
+    },
+    {
+      "address": "HLRjSMHAC34KgXEYTqkF5z7W9WXkvvFN4z8aFfoapC3e",
+      "ticket": 2.0,
+      "sola": 2707.181475646
+    },
+    {
+      "address": "2BJcPY6diheVtd2wcS1s8BNFK8hq5wdnGuQUTVFv13JB",
+      "ticket": 2.0,
+      "sola": 2684.612999315
+    },
+    {
+      "address": "BeiAwm5PRjR2eqfC6wi9jkLNi72eTJoP1jekNXzogJGC",
+      "ticket": 2.0,
+      "sola": 2673.916072249
+    },
+    {
+      "address": "CdS2psuwQ61vJVSkyHzyxUWzBxChZEH1PGPbPZqUYbmZ",
+      "ticket": 2.0,
+      "sola": 2659.696707207
+    },
+    {
+      "address": "HXtbNSn4JzNTdRCMf2nSGqSguAoorjJ8fTRyM8dVpSeG",
+      "ticket": 2.0,
+      "sola": 2655.44709607
+    },
+    {
+      "address": "Brv3SWdLt2uuYpXTmA5e97XHWzd8XTA4odTb5TKQYr2E",
+      "ticket": 2.0,
+      "sola": 2651.970118502
+    },
+    {
+      "address": "98W2DWp9Bp85zAgkvyZm2nbLhdykR3wcWWZamm6TMTaT",
+      "ticket": 2.0,
+      "sola": 2650.588889645
+    },
+    {
+      "address": "AskXmyUuf1GJ7gNfWAup5qq2AaYAbrtFzip9x4LquxXY",
+      "ticket": 2,
+      "sola": 2650
+    },
+    {
+      "address": "9RDak32YLWqLcei21fE5JnfgN6QK2BUst5E61KZ5KFsS",
+      "ticket": 2,
+      "sola": 2632
+    },
+    {
+      "address": "2eTBe7zUu9R5NvWhPK9aC8TC2MuvNF5nC5dDoWtCfuzc",
+      "ticket": 2.0,
+      "sola": 2617.78111452
+    },
+    {
+      "address": "3gK5zg1VF9gZsfVW67gYVTsWLeNReiaLypjEFDgkHCtK",
+      "ticket": 2.0,
+      "sola": 2617.28982278
+    },
+    {
+      "address": "5y9RfAq18YtosvZah1kgjr9m2sVBx9PmQmczVNhJfJ8J",
+      "ticket": 2.0,
+      "sola": 2614.909958296
+    },
+    {
+      "address": "5SPtBhGs29pAbYWT8b8tce6QUoqCiGoGK8ZcSjZrJjmG",
+      "ticket": 2.0,
+      "sola": 2614.834874615
+    },
+    {
+      "address": "6KFE2xwnaeN2fuzZPxbeFJYPSYJdm2ZytFPb9ZF72aN3",
+      "ticket": 2.0,
+      "sola": 2587.575944401
+    },
+    {
+      "address": "4WKAXmzT2z7mZfZCoHe4Qz5wJLTeymxRLJQPVxQg87H5",
+      "ticket": 2.0,
+      "sola": 2580.839839461
+    },
+    {
+      "address": "CDcxUeGyxo4Bm9m3NE7vAAtf7M9pmTkSt3S1fdjsohuH",
+      "ticket": 2,
+      "sola": 2565
+    },
+    {
+      "address": "7ZEXttDiRNfa6anWGthTHAoTBwYLZ5G4S3rjxPPG6of1",
+      "ticket": 2.0,
+      "sola": 2559.48154565
+    },
+    {
+      "address": "9YfjArhb1Mtju1UKfYttavXreQeYi5161Y65495wy62g",
+      "ticket": 2.0,
+      "sola": 2556.130696328
+    },
+    {
+      "address": "HxFSsqWTJDpZVxX2958Lz8DkwM12XeTGukwh3Pq45CDt",
+      "ticket": 2.0,
+      "sola": 2555.561299175
+    },
+    {
+      "address": "J6e1NJVeD5PVwnELCaYpzZhVYABUHvqoZDUmcUsVTA6t",
+      "ticket": 2.0,
+      "sola": 2540.584411069
+    },
+    {
+      "address": "CKPuX7sG79pwtHu4hsPNtZSypXUKikapChyRSeh1idT5",
+      "ticket": 2.0,
+      "sola": 2533.264148659
+    },
+    {
+      "address": "J6oPc5B2wei211akqrAACbtYt97wESAp8EnH5CoDmCSQ",
+      "ticket": 2.0,
+      "sola": 2529.265481018
+    },
+    {
+      "address": "8kcBesuNJLe1jk4AMuGwjzY7WqQAMJHjkHHUG15mg4LS",
+      "ticket": 2.0,
+      "sola": 2522.999020438
+    },
+    {
+      "address": "5sqEfLcYsxfafUPy1yxitPhXJMPcZNv8pGDv5rtQCwSi",
+      "ticket": 2.0,
+      "sola": 2502.237435565
+    },
+    {
+      "address": "6Gat6ucWHoPNjXEV5do6CwstCMeCuYEztpcZ8ZcCFRG2",
+      "ticket": 2.0,
+      "sola": 2501.972447381
+    },
+    {
+      "address": "GtL2fAFNmEF9VUgjpASsNERmbds6k7QKNgLfTrzsqYdu",
+      "ticket": 2.0,
+      "sola": 2501.682840717
+    },
+    {
+      "address": "F6D9JwdHeafGwhUgz2PMTWGniW94aeo2ZNpyzRmTBwVx",
+      "ticket": 2,
+      "sola": 2501
+    },
+    {
+      "address": "Bi7o7ASiXpNbtJhkM5Dkv6PpXXts4shN7GnLE5wPQcrC",
+      "ticket": 2,
+      "sola": 2500
+    },
+    {
+      "address": "7ygZQBJYnhtvsUWYS84hMDiemud2fD6tATTeoSKQGRPS",
+      "ticket": 2,
+      "sola": 2500
+    },
+    {
+      "address": "2NjesdN1ARNqs3ToJRMmDfJ1cNAEs3T7ZH1nNCbCsAM1",
+      "ticket": 2,
+      "sola": 2499
+    },
+    {
+      "address": "grJJXF6ysvRLEaQgQK9rEyZXNNxVCMDYr7aALQ9Ux2K",
+      "ticket": 2,
+      "sola": 2494
+    },
+    {
+      "address": "2sosP3wiyB7ziHFNHBZq3VedEaEJh8PF6LYkqG51mxtM",
+      "ticket": 2.0,
+      "sola": 2492.521406427
+    },
+    {
+      "address": "8h9Wjxt2jeFGiPveJgEnCvcrQk7gG1RwekNf3YqH939p",
+      "ticket": 2,
+      "sola": 2492
+    },
+    {
+      "address": "FhaxxTqcuvj9ri7ggb81EoAqMrmVsF65RFvYtseAyHvF",
+      "ticket": 2.0,
+      "sola": 2491.731979938
+    },
+    {
+      "address": "28ykFF4wT82nh6ehyAx4qNVExnQBTy2UJRUjrhVKHEwK",
+      "ticket": 2.0,
+      "sola": 2487.172685679
+    },
+    {
+      "address": "3sCGXb4pyivkA23m4h3RiUzemirjowcsDQ6nLB7zXMNX",
+      "ticket": 2,
+      "sola": 2486
+    },
+    {
+      "address": "8YmcEeDkLW9dgUGtcvUjs5CA5GiHw4jyWGB1ZhbVUUj9",
+      "ticket": 2,
+      "sola": 2484
+    },
+    {
+      "address": "F1aumYZiPWkgAdXUd4UzCnSeTXw7xfZwp6gEX6GUMexb",
+      "ticket": 2.0,
+      "sola": 2479.570734336
+    },
+    {
+      "address": "83LKJecvJX9tfo71Ubwg1aJ7fWUYF8UmxFuRxmBHgtKN",
+      "ticket": 2.0,
+      "sola": 2473.924357077
+    },
+    {
+      "address": "398WDdnh4vLGCBnfHPP7XckiBUyBfDgTtzdgbdv7MPH5",
+      "ticket": 2.0,
+      "sola": 2462.44302975
+    },
+    {
+      "address": "9TYEHHmPYXeMssyVKnMM3is8rnWP67dXt6Wwdq2SDvnU",
+      "ticket": 2.0,
+      "sola": 2461.305140282
+    },
+    {
+      "address": "DoJQDFUAdqu8B3H6ReJjtEVgBHwHPMWjmSXLDWum3MNn",
+      "ticket": 2.0,
+      "sola": 2459.55104512
+    },
+    {
+      "address": "7h4Qvq3bxcnw754KUHUmDLnn2pcLBNz6kknvdYXejxL8",
+      "ticket": 2.0,
+      "sola": 2456.329594761
+    },
+    {
+      "address": "6drYTSzvcCUV4oHMRkwnyYp8YVHoxquEkmTd9bjGRVsJ",
+      "ticket": 2.0,
+      "sola": 2445.152174187
+    },
+    {
+      "address": "CawEgUiGDTJgD22yxQvAbFn9UyAL69bxZJviUYw3Fxb2",
+      "ticket": 2.0,
+      "sola": 2433.691161712
+    },
+    {
+      "address": "6FVQRx4PvmvxgKwwLUnXLun3hLw3puCocAkPQri3EMXy",
+      "ticket": 2.0,
+      "sola": 2428.589568228
+    },
+    {
+      "address": "DJdHTsAmeCuWA9eWqRyqFQDwAU5jniMkkDHymnpiDMNS",
+      "ticket": 2.0,
+      "sola": 2418.572689909
+    },
+    {
+      "address": "G6xSYNHUTcwU2coNerQMHL6i344LUHeYKqZTXoR6Pjam",
+      "ticket": 2.0,
+      "sola": 2416.475174173
+    },
+    {
+      "address": "2EhFSyvc5ff5doC2PsVyzPKz1mL69kXMhn2ZhevwvR7w",
+      "ticket": 2.0,
+      "sola": 2414.25221028
+    },
+    {
+      "address": "HqF52Ab3easRkU7J6om8NrNwF9ebr2b3fcP25p2UVg4h",
+      "ticket": 2,
+      "sola": 2413
+    },
+    {
+      "address": "9zoL77XGaEbjqft4Jdj1uxbJAxXwk1pai5LHNAif3nGj",
+      "ticket": 2.0,
+      "sola": 2409.502528205
+    },
+    {
+      "address": "Ci5Hv5MmDU3VJ9Hdp1U3DaL3UokSq4K2aNDWCrAeN8yW",
+      "ticket": 2.0,
+      "sola": 2390.045892671
+    },
+    {
+      "address": "BC6WodDxRxAAxtAgi7pm63A2k6omojLSXJkK6GTTmLZ2",
+      "ticket": 2.0,
+      "sola": 2383.846253554
+    },
+    {
+      "address": "54CtCzyZFVSfEGgDuKSVRKVxT3Mwf2vBW2vvGwKiN3cA",
+      "ticket": 2,
+      "sola": 2378
+    },
+    {
+      "address": "CvSyzN6RAu6RDWNEsFK19tHEFYASXTLaHjb7AMLfkai3",
+      "ticket": 2.0,
+      "sola": 2364.016498338
+    },
+    {
+      "address": "ByofRUMf6tXsvAzftqujbgzQqTUkFx4EMkDTWYNVnU5C",
+      "ticket": 2,
+      "sola": 2359
+    },
+    {
+      "address": "E1CFMkStdHuBhmp69fkjcUDKWsY8kx31P9sfTs8ffBxx",
+      "ticket": 2.0,
+      "sola": 2358.237025948
+    },
+    {
+      "address": "FNZTs4v1phpE8LsdiMke69TkNzXxa6KLMWe687gVAoke",
+      "ticket": 2.0,
+      "sola": 2357.951138158
+    },
+    {
+      "address": "5oTukEGrotQStHUQyii1FywqyyBf1hPpUbeNvKkBqLe8",
+      "ticket": 2.0,
+      "sola": 2349.994231378
+    },
+    {
+      "address": "3u5L9ps6E7s4sdgCrgdtwrbRz9mcEXc65JbzaQzjPuy2",
+      "ticket": 2,
+      "sola": 2340
+    },
+    {
+      "address": "8H2cVm9kLK1CXFY9jDqjFL5TPWrFjN4mnJW4iSpURpLt",
+      "ticket": 2,
+      "sola": 2337
+    },
+    {
+      "address": "6KUkxXjDnoZChFDd3h1xWJwsqZQjmeauueqscjUjHr2H",
+      "ticket": 2.0,
+      "sola": 2336.917169213
+    },
+    {
+      "address": "DbtYmPHwKz9Ld2HxDRRYqi61Ty6EwVguu58cyuBySmKR",
+      "ticket": 2,
+      "sola": 2333
+    },
+    {
+      "address": "3RuVfZ4Sc6HVtXBbUZQSABMHZuTxiDpL7g2gKp4ae3WA",
+      "ticket": 2.0,
+      "sola": 2321.768305883
+    },
+    {
+      "address": "CKiPmthKsRuSxYN49j4XXqUNjvtWBcAZTvPiMDBq2XJq",
+      "ticket": 2.0,
+      "sola": 2309.77299287
+    },
+    {
+      "address": "Asz4E799DSK7XytVrceeYFv1MQrzL88vrgpL1fs5yaVe",
+      "ticket": 2.0,
+      "sola": 2304.815783938
+    },
+    {
+      "address": "DYyBNMsqdVQMKyC4HEEQKNboRnjJm6vwqwkxbjFD5Dvp",
+      "ticket": 2.0,
+      "sola": 2300.041076224
+    },
+    {
+      "address": "AzrTzxdmvv4WcaVxBfmMviMxaniiPiZRFXpUuSLjt9jX",
+      "ticket": 2.0,
+      "sola": 2294.028275927
+    },
+    {
+      "address": "AfCgkek9gSKs27jJDNvJiAWg9n7s5tbK8SonYjV1cuoM",
+      "ticket": 2.0,
+      "sola": 2282.588866402
+    },
+    {
+      "address": "3STu621WNiAAndDQ5uJ5UhNoZ8aGVKfn8PwM9fikNAyi",
+      "ticket": 2.0,
+      "sola": 2278.175680779
+    },
+    {
+      "address": "7S9e4iZMVutqZCYpHGK25WYqChReJaypJHHp3WF98Xod",
+      "ticket": 2,
+      "sola": 2278
+    },
+    {
+      "address": "BEtUqnf6giK6ZznqWhH6ecEJxp63t6h2SoNpY2zJdF6m",
+      "ticket": 2.0,
+      "sola": 2270.623058785
+    },
+    {
+      "address": "E7WfsaDDRk3WWrwpHsBqZv3B3ue8JRZLuv7nb6gTCnUu",
+      "ticket": 2,
+      "sola": 2268
+    },
+    {
+      "address": "BSXPmG2u5GtWyBnT2C3VcVNC2osvqKVJuBGGWbto6RXM",
+      "ticket": 2.0,
+      "sola": 2263.503801628
+    },
+    {
+      "address": "A5pYZHoysn94TWeZbKxbB1pzSfsm6x91ZRH54PfpVxTX",
+      "ticket": 2.0,
+      "sola": 2262.105659285
+    },
+    {
+      "address": "4AYLGFoERS3CqRGcHVyqxvCRon8oTGP2zoqVsiKVzzs7",
+      "ticket": 2.0,
+      "sola": 2255.069139954
+    },
+    {
+      "address": "7qgpLD56GmCYridVMXZqbTn87EuW5CEDkWgPmrUwi6hM",
+      "ticket": 2.0,
+      "sola": 2250.611281256
+    },
+    {
+      "address": "G4ZomXGSEEa4TcpGLH6ck8C1nRBjGD3ieNbfx7Wgc332",
+      "ticket": 2,
+      "sola": 2250
+    },
+    {
+      "address": "7zoH3krZziEVmn6nWRAfp2pseSKKvRjWJbGacAvC5seL",
+      "ticket": 2,
+      "sola": 2247
+    },
+    {
+      "address": "FsyXxueXekSUzSEDSTp2dc5CHirtAnuwdPBLCvmjsQEu",
+      "ticket": 2.0,
+      "sola": 2244.844009079
+    },
+    {
+      "address": "VqoZdh3ddREC5VL19KVLCoX7PXE7oBmmoS4VFCGf7Ba",
+      "ticket": 2.0,
+      "sola": 2235.991196755
+    },
+    {
+      "address": "HozkSjX1Emc3LUMx4gJstBAjGiZUkXbukyRX7ZHwpjRd",
+      "ticket": 2,
+      "sola": 2230
+    },
+    {
+      "address": "wFsU7Y2urnwo4bPEtXfvpFXt2UGWEr1dk4wfpnXtk4x",
+      "ticket": 2.0,
+      "sola": 2229.00899104
+    },
+    {
+      "address": "7FFzEn9fE8q62exZPSSVXFrBsk7RZA3FzRr4gVmGJks4",
+      "ticket": 2.0,
+      "sola": 2219.922922129
+    },
+    {
+      "address": "5kmuaexbd6pFBrnW3m7Vzgmns4XqSfdP8nNecb5wgDwx",
+      "ticket": 2.0,
+      "sola": 2215.237726618
+    },
+    {
+      "address": "FSLJF4nRNFC44MCADfNNxThswSaX9zNpvV6F3ZN9vcaR",
+      "ticket": 2.0,
+      "sola": 2215.02231157
+    },
+    {
+      "address": "7aZzZ56WkWrcK9mPVxDKFyjax28NU9eJtbXwc7nnxpW1",
+      "ticket": 2,
+      "sola": 2206
+    },
+    {
+      "address": "H57TYxX3tMXnacKxUPk24GgMbwPNuCdzJ6NskGPEwevH",
+      "ticket": 2.0,
+      "sola": 2205.766421557
+    },
+    {
+      "address": "kacCdGycdLa2mM5CWfS5H4G1nFiVeW92Tptrs8qmBLc",
+      "ticket": 2.0,
+      "sola": 2201.829506299
+    },
+    {
+      "address": "JADtjTWXLBCpYBMtgWAheyGQNXUvqcmbbzz3E3NAuRHS",
+      "ticket": 2.0,
+      "sola": 2201.238151867
+    },
+    {
+      "address": "GwEHP4QjWHRdhKWvmx5nsACiAZzSofaAYbsLUANr6D4y",
+      "ticket": 2.0,
+      "sola": 2193.654782126
+    },
+    {
+      "address": "Bx3ioqPsBjCXEAkmZyYviw7RJPRDEjJWCmkUf4GBP6gq",
+      "ticket": 2.0,
+      "sola": 2186.148361887
+    },
+    {
+      "address": "2SRBtsBKUP6ReNM4Xj7VnLczhKK9vjnjpLBiBASavvd5",
+      "ticket": 2.0,
+      "sola": 2177.078784211
+    },
+    {
+      "address": "D2nMvtDqFcC2H4LESkdvcYQfGdkwuLyfrrpm3bjWy61f",
+      "ticket": 2.0,
+      "sola": 2176.911686353
+    },
+    {
+      "address": "Gv7T5ukobmd7rZ6EsfrQMTGJx3RPgFvEjoVLXHgiC6s3",
+      "ticket": 2.0,
+      "sola": 2161.652598679
+    },
+    {
+      "address": "9cN7BoBHuFFkcmbQ2JxEePiVTgGwYRwFxTYxchE8EEPo",
+      "ticket": 2,
+      "sola": 2143
+    },
+    {
+      "address": "HcUxTJsQ9Vag8McKRRK8oMC6WjRL4L2iJiHKvK45LiD6",
+      "ticket": 2,
+      "sola": 2139
+    },
+    {
+      "address": "AfUtBg7u5HwsNwqNWxrA5WjC7KAranzXd8brnMSnxuYk",
+      "ticket": 2,
+      "sola": 2138
+    },
+    {
+      "address": "97AUa8HQp8aQnfFpef3buYXTbxuJgYJArqdrK3epA5yJ",
+      "ticket": 2.0,
+      "sola": 2130.341308221
+    },
+    {
+      "address": "8PDZrdgHhPR1tFRDVUdGJ8QPJwxfhjH2mRetpKumEBxY",
+      "ticket": 2,
+      "sola": 2130
+    },
+    {
+      "address": "nvt1wQbacKSFxXzdwGUtRAb6Gvz1feA5TXZgc9yzs7Q",
+      "ticket": 2.0,
+      "sola": 2124.633725632
+    },
+    {
+      "address": "AaksHrUc5MzX1zXSNGQeLh8SqFewCW474UufEYhC1p4K",
+      "ticket": 2.0,
+      "sola": 2119.745228883
+    },
+    {
+      "address": "9zdwf9LzUezBCq2JJTKcehPLYndmPXBCJooJgAJniRk1",
+      "ticket": 2.0,
+      "sola": 2118.426512637
+    },
+    {
+      "address": "3HodTp3sXdyNBe8jT7Wa8fQJzzVVebuohKcqG9eaiAr9",
+      "ticket": 2,
+      "sola": 2118
+    },
+    {
+      "address": "H4n6DBekoAYomj7ZGUWPf7naovEZRpyUZiCnXQeQD5hw",
+      "ticket": 2.0,
+      "sola": 2112.210508077
+    },
+    {
+      "address": "Am9ifQjsrs5p3Mw2WkhefcMyz3UAzk7zTA62YCTSGj86",
+      "ticket": 2.0,
+      "sola": 2109.047816668
+    },
+    {
+      "address": "GSjmw54fBLoS91J5CyFVkRTMzKuxrt6eRj85dexYKBRh",
+      "ticket": 2,
+      "sola": 2107
+    },
+    {
+      "address": "5sKrSfHguUQG1CdWyfRvfRpwuFzJjTvJrk9Uq4ATWKan",
+      "ticket": 2.0,
+      "sola": 2106.778845688
+    },
+    {
+      "address": "APGid5tkyKbgFKj6mAErM9869zivhPsiG2U6FDfCpkFC",
+      "ticket": 2.0,
+      "sola": 2106.355604065
+    },
+    {
+      "address": "4nsj4MNkDCXzPuoKacfaUG6dY6ZhvRqVGwEkH6bc3Raw",
+      "ticket": 2.0,
+      "sola": 2103.134043862
+    },
+    {
+      "address": "5LMYdTykDrUqcv8YL11nj7C52sXC5a2gQTsFpFuRTXCu",
+      "ticket": 2.0,
+      "sola": 2085.930437443
+    },
+    {
+      "address": "2vZem9nFN8oF27GXR2Tr9s6NGJLSikBA2CXgneopo5BC",
+      "ticket": 2,
+      "sola": 2085
+    },
+    {
+      "address": "AFEK8yH1grzYPu7ixr7r2qXBQCJUJRHHEhZvnbxviD1R",
+      "ticket": 2,
+      "sola": 2075
+    },
+    {
+      "address": "9C2yM9cx4YMxGQwWNjhrv1jhcVBQNDaieZpxiefGDbip",
+      "ticket": 2.0,
+      "sola": 2072.472604582
+    },
+    {
+      "address": "DuJc8Q2Beqou8FXcktZwvrtyrennj6yPTznTc367R8D9",
+      "ticket": 2,
+      "sola": 2066
+    },
+    {
+      "address": "9vFjU2fgiPtyG9k7XjDVEzzVBVBZQ7N5z9CkpUYy5WdZ",
+      "ticket": 2.0,
+      "sola": 2063.771294277
+    },
+    {
+      "address": "CV91hmivX5Wjmy4xDtNuUGTsihG67RAxLyCiPmJ7CR34",
+      "ticket": 2,
+      "sola": 2063
+    },
+    {
+      "address": "Dma1v5tuJAqqVQaFCgJzoPsEsNqP6gDgx4xmACQCX3NL",
+      "ticket": 2.0,
+      "sola": 2062.86819722
+    },
+    {
+      "address": "FQwwmSDV2pqr7U6dmSts1nLh8T2zVuXXcLzkUwyqGN2n",
+      "ticket": 2.0,
+      "sola": 2060.809569803
+    },
+    {
+      "address": "76znzP6gTb73bmGii4JawygZpWaWjTbx7zD2XqGaYuoh",
+      "ticket": 2,
+      "sola": 2055
+    },
+    {
+      "address": "Bh4oG8iXvLwpXmN4MaGQEXroSsSv6jghs4uEJ7dAqFSs",
+      "ticket": 2.0,
+      "sola": 2054.286282855
+    },
+    {
+      "address": "3C1Achema741a27BPHvcoWTCNgvRyYFFFi2MFKoytWr3",
+      "ticket": 2.0,
+      "sola": 2046.545365843
+    },
+    {
+      "address": "5PTzEQDgyEVLrPrP3jUcC49vezu5LgrTc71pM8Bmo1Rh",
+      "ticket": 2,
+      "sola": 2045
+    },
+    {
+      "address": "EspEMw6ZdRyRrNWseK3La99YSJbNeDSvSjcQ9XS2MQ7q",
+      "ticket": 2,
+      "sola": 2040
+    },
+    {
+      "address": "E7FWdrEs4QM9k4fUmva94X5N2pWAsRxqTS9fcVp1DuJW",
+      "ticket": 2,
+      "sola": 2037
+    },
+    {
+      "address": "CvKqJvaPJzedhEzsKz3MvW8PzhFxuWBqEMbbj5EKCLqb",
+      "ticket": 2.0,
+      "sola": 2031.53602677
+    },
+    {
+      "address": "Gqxr2Ab2kFJXnG475tMrErroxPKxYQmbMskGGPeXKjAV",
+      "ticket": 2,
+      "sola": 2030
+    },
+    {
+      "address": "5dmvR7MX9GYCsoUYySVp47VqBnxJdtScPTghcKXPM842",
+      "ticket": 2,
+      "sola": 2030
+    },
+    {
+      "address": "JCE3uVrVQ62hPncZ1FXiM4WNpygaQnBZ3QcBxaNRTC9t",
+      "ticket": 2,
+      "sola": 2027
+    },
+    {
+      "address": "HWdsqbKXuXjiQaXmohZB8mpLK3Xgb4wtA8kMqL5nFQA7",
+      "ticket": 2.0,
+      "sola": 2026.855263811
+    },
+    {
+      "address": "hgWTVMpc3zS1Lv9PWV91HcAF3BWecNp4QwzVCGT8gYX",
+      "ticket": 2,
+      "sola": 2026
+    },
+    {
+      "address": "6HcanZ1stJ1hrNXEAv5EfvJ47zFpUP8LEpFjggzYf3rk",
+      "ticket": 2.0,
+      "sola": 2025.074205489
+    },
+    {
+      "address": "DnoSKsazUZELK7oDVQRn81beNYUpRy2XNz47MVzTeQZ1",
+      "ticket": 2.0,
+      "sola": 2021.27647867
+    },
+    {
+      "address": "CoWB1pu8v2nPQj4N5zaLQkAqmQUfxozQr9qmKLnmLsit",
+      "ticket": 2.0,
+      "sola": 2017.180181838
+    },
+    {
+      "address": "DkEbYimVWP7a4m4AynqxyGYVpnpjUhBdj9JXCunPuxv1",
+      "ticket": 2.0,
+      "sola": 2015.67435985
+    },
+    {
+      "address": "7zQ9cdf67EGLY1bm1mmY5YjL16WRUMbt7o3MqnRNJ8Dr",
+      "ticket": 2,
+      "sola": 2013
+    },
+    {
+      "address": "AZV3dZt1vPpH98EieY8P9ZdGykFos8Nio8r1QLq2SA6E",
+      "ticket": 2.0,
+      "sola": 2010.541188184
+    },
+    {
+      "address": "5hEJbuEgHQ6oFPzsctiX75gJcLvAYCtxHpWaTS6EcAwE",
+      "ticket": 2.0,
+      "sola": 2008.832948936
+    },
+    {
+      "address": "FWAtFBVrH83e4X7iVkiyCrKd8TefjWXFsCrdUCBYcsBn",
+      "ticket": 2.0,
+      "sola": 2008.752049686
+    },
+    {
+      "address": "DjdL7ZbS2jRHZ25T2NWGfoe2LN9DyVbWzhyUm9XMkNVv",
+      "ticket": 2.0,
+      "sola": 2008.22
+    },
+    {
+      "address": "CnRVduQHKDQonqrAbejX5hhwyCq1SY162jdsyjKi5ywo",
+      "ticket": 2.0,
+      "sola": 2007.424643287
+    },
+    {
+      "address": "DdjjWwb5XwfAbrwk8NNDbMe615MdaxzmHMkuX6YQDWgg",
+      "ticket": 2.0,
+      "sola": 2006.187753989
+    },
+    {
+      "address": "BkQGWUW2KpRr6doK1YYaM9zxwE2nvoMjSPVVUtp49UTK",
+      "ticket": 2.0,
+      "sola": 2004.698959826
+    },
+    {
+      "address": "3oUPUwYG1vaisVPzxwkNTfEC3JKSstS89EkgLAUqG1Lq",
+      "ticket": 2.0,
+      "sola": 2003.303026393
+    },
+    {
+      "address": "XqEtGZoCYgzmMXgbD56nMXC1P8BusMLphfovkjkchHs",
+      "ticket": 2,
+      "sola": 2003
+    },
+    {
+      "address": "6FwTcbKH56yewQTouoatdF5c7ezEUvY9JroenKJYceqn",
+      "ticket": 2.0,
+      "sola": 2001.984029427
+    },
+    {
+      "address": "9tXgKJH1W1ozVVgibgh5q6sMi6F7frYDXDC2rSiMSc8z",
+      "ticket": 2.0,
+      "sola": 2001.858004492
+    },
+    {
+      "address": "EJUjman9oeCSqU9cgNTGhbuCSD9hygpJvuxCbujgn1B4",
+      "ticket": 2.0,
+      "sola": 2001.77968384
+    },
+    {
+      "address": "7dCBbvBVzadkByd55hWgz2YZL4gCT8UwJmxPVnCRMYnJ",
+      "ticket": 2.0,
+      "sola": 2001.727574377
+    },
+    {
+      "address": "E1sShUeSN1VskwcshC9TjFXuCFkHhVvd2v6cmbC28WsL",
+      "ticket": 2.0,
+      "sola": 2000.014705133
+    },
+    {
+      "address": "EBdZvPCsz2gVygr5145KhaYRHXbtiMM3USjPorDCf2nW",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "4f6mwmjXWWsgQK7MPecZ4HfiNfBhtNnVXaeRq9W93wwn",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "8MwqvhnbiiA82aNU6BJPfDfTjbUzeVhZJtATg4KMf5C",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "AautYyrvkjmDHKFYFKKbV1upw83ovTQvKtnHUpmNLUdH",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "NQn8GyfTCCMtBkZX92xrBZKogn75ynpZCbjmFoPdyY9",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "5CqkgYZQDR6aQnArPsAG4JBSsLDg9kxQyz72BzM8QSgq",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "GvthM6tut3CjG16QaAD9TKozRmfez8CL3cJuEFrwB538",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "DCjV8cHsMLUEZstdJuge2mNNhhMLwwz6EMbeLy5mFRnk",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "9HrpTGRJCHibhLy4m19oRfxZ88QiENuMXLVzPTBmtT3n",
+      "ticket": 2,
+      "sola": 2000
+    },
+    {
+      "address": "DgwkS8q87wBSsCx7DUuPZoXH5woHZuUwhxdkHWUNG5Eb",
+      "ticket": 1.0,
+      "sola": 1995.304225406
+    },
+    {
+      "address": "EPxTP81DggEeQHCTCaLSj2soHeWEWhU73HWkBHifBWLM",
+      "ticket": 1.0,
+      "sola": 1995.155738868
+    },
+    {
+      "address": "EvaPDcNs9Bh7SjHjWY8TSmTeMKW1yGuPw39GKLQvgx7a",
+      "ticket": 1,
+      "sola": 1995
+    },
+    {
+      "address": "4njD2bZ2MofmXkgR9SnieKUH22ahnKHkyzVmQfegSppN",
+      "ticket": 1,
+      "sola": 1989
+    },
+    {
+      "address": "F2gew5msdS5jmMAbDxsTzqnDCi1Q4UCzUqLSFvkDMoTy",
+      "ticket": 1.0,
+      "sola": 1980.750170639
+    },
+    {
+      "address": "9mHTwJsRfx93pbzAnJdRGwRzVeCnk4miVNHjmHoiNeQr",
+      "ticket": 1,
+      "sola": 1977
+    },
+    {
+      "address": "7c9jFzhLv2uZJitus2GiJFz9W8DPU8xUxpwbDecSGXL8",
+      "ticket": 1.0,
+      "sola": 1969.278340246
+    },
+    {
+      "address": "4pdu8BkREvFitFYQrs5VtLepAU8wFGePFZjH7VDaAUg3",
+      "ticket": 1.0,
+      "sola": 1963.440183144
+    },
+    {
+      "address": "9QoPR87HLA4TeYwSaQ5UpzpdeZPbW673BpMxKuDgqfwZ",
+      "ticket": 1,
+      "sola": 1960
+    },
+    {
+      "address": "AXbMqyrnM75S5QpqpGVNQPbnWyd98SSyrRn5FEFXFaXW",
+      "ticket": 1.0,
+      "sola": 1957.728541921
+    },
+    {
+      "address": "9YDBbY1VHsZWEJJrCwhwG3MuyULUnpHeu3GWPBEC63mB",
+      "ticket": 1.0,
+      "sola": 1952.382844035
+    },
+    {
+      "address": "7BnddBrcM9j5ESRFuFKLyrZpdRtwhfiv5hQAbPVspaJu",
+      "ticket": 1.0,
+      "sola": 1940.456853967
+    },
+    {
+      "address": "7jm3wo3kt39bg1gLz1N8SazBLjprNvoRjbh7RE4PJSXa",
+      "ticket": 1,
+      "sola": 1938
+    },
+    {
+      "address": "GoqTTjeET9hJJRxc3G48tHCpJEGg4uNnx3otGzeT2fzB",
+      "ticket": 1.0,
+      "sola": 1931.927634051
+    },
+    {
+      "address": "4BTzQmrgRj9XpC6mwZud3kos9arvFK2jKjT5QSPs4fY7",
+      "ticket": 1.0,
+      "sola": 1922.979138714
+    },
+    {
+      "address": "FqQnMyqyaTh7DcDk3Tm34Y641djkDnBDgj2doT2Ztg39",
+      "ticket": 1.0,
+      "sola": 1920.604951653
+    },
+    {
+      "address": "FSZv4af59tazCpExWDwK6acy4cTbLbVXNzo8ihJ6ucdV",
+      "ticket": 1.0,
+      "sola": 1915.528918668
+    },
+    {
+      "address": "F86xRsrSPPbUTEgkCt7p69hrN9T9dszkErbon7N3nCa3",
+      "ticket": 1,
+      "sola": 1903
+    },
+    {
+      "address": "ApCdu67uwnApfLyN4S3Biu728F7XRDNHPmUXpkmvpPn4",
+      "ticket": 1.0,
+      "sola": 1879.269
+    },
+    {
+      "address": "2Yjb7woa1yiTyoJKgoBetX1v8BTGt8Zhhd8tpUnAJLmR",
+      "ticket": 1.0,
+      "sola": 1873.368066249
+    },
+    {
+      "address": "ERHDiBwvpDoyFwNjnEexiYdu3AmqZZLbdJqT4VuWz2UV",
+      "ticket": 1,
+      "sola": 1873
+    },
+    {
+      "address": "GckpPHstyVppZysDSbDu3nLAcfXY77poYCXhiDHeMtCL",
+      "ticket": 1.0,
+      "sola": 1872.891102057
+    },
+    {
+      "address": "DKZyqzwsetLsxEFeTHEZSamkkTA86HGyjNjkyXWMQ3xs",
+      "ticket": 1.0,
+      "sola": 1867.216768894
+    },
+    {
+      "address": "8CpqGhAJUGidjFoyyVxT9heFqMRLVbRnaDspjyUMuahe",
+      "ticket": 1.0,
+      "sola": 1858.215686744
+    },
+    {
+      "address": "3ZLGKevqJJqXCnC9PiKNJ3XiMxoKnWGagTdMxGjwLpcU",
+      "ticket": 1.0,
+      "sola": 1855.913095069
+    },
+    {
+      "address": "6bZyspAhDSdb4Bqs8i8978ndGXhKSL6E1aQ2D6yosFVz",
+      "ticket": 1.0,
+      "sola": 1854.099428746
+    },
+    {
+      "address": "6xge2x1fY3C8KTMw3MXqqrxAdPDxLGDFZbMC2kNezy8u",
+      "ticket": 1,
+      "sola": 1848
+    },
+    {
+      "address": "EboTboegZTtYbs5z2AzPczvoDu1F8C6Hdy5BJdk1Q7tb",
+      "ticket": 1.0,
+      "sola": 1847.224225417
+    },
+    {
+      "address": "F4JECuZrvbuV8QMseqxcDhos44vdaJCdsrRVVECyuu8D",
+      "ticket": 1.0,
+      "sola": 1843.706584261
+    },
+    {
+      "address": "FxnAxpQxwgCjRWazy1oZqn26Tf7BQGtz5zr878AtL43p",
+      "ticket": 1.0,
+      "sola": 1843.25397049
+    },
+    {
+      "address": "EjoRYdyEZwwu3XXx1PZGDMj3v9sTCr92QXEeJe2sj5QF",
+      "ticket": 1.0,
+      "sola": 1842.879646485
+    },
+    {
+      "address": "FF2NJFFgagYfHMwjUdajtqTSYDPMrqoxgyEoSAXrk63s",
+      "ticket": 1.0,
+      "sola": 1838.938842107
+    },
+    {
+      "address": "6aHVLgfPwLe8eVAuPhq4qtT5jcJ7Uz4URKtFYXTanMpP",
+      "ticket": 1,
+      "sola": 1837
+    },
+    {
+      "address": "BeGMPUtwKiUwByvMvY22nXQ2KGEi1SWbHn48tZYPGTcG",
+      "ticket": 1.0,
+      "sola": 1836.46929019
+    },
+    {
+      "address": "AZDqnS7fSfK9XGfyjC6WNk66pZRXkSTfpJLspgrqpQad",
+      "ticket": 1.0,
+      "sola": 1836.270467058
+    },
+    {
+      "address": "FpEMNhjY3kkDcCGmPop5g5CV8sbKJuCEXzXUNFYpLQHa",
+      "ticket": 1,
+      "sola": 1836
+    },
+    {
+      "address": "33YUeUNYzd4mshT2j1TorreY3PNNo9cGaQ3Yki78gNia",
+      "ticket": 1.0,
+      "sola": 1832.22471649
+    },
+    {
+      "address": "7AXwHhkmqLmitnYuwPP56aRW9NmLiWj2cdkz9E5zHUuT",
+      "ticket": 1.0,
+      "sola": 1832.057835705
+    },
+    {
+      "address": "HNcLu1K2xRqxYkcvFaaeLViVMwMwNrmq4j2kAj9zK6CT",
+      "ticket": 1,
+      "sola": 1830
+    },
+    {
+      "address": "ALqyaWtSdNLSqPsJMBSgXWqd4URQcX1ztqZEfdWovNde",
+      "ticket": 1.0,
+      "sola": 1819.956824222
+    },
+    {
+      "address": "6K6e8CzVRH4tNTZFA2SzSBFueSGpn9Csnv89UdrDpAwP",
+      "ticket": 1.0,
+      "sola": 1819.85814582
+    },
+    {
+      "address": "2ChfSKs7TTUTQu7vUXmUvJxFDApJ8zf24FBWNQPJRmMy",
+      "ticket": 1,
+      "sola": 1783
+    },
+    {
+      "address": "BEJUqZPcFTxFpe8uuJ5Syp5oKZKgruCdDXnqKhVSsTJV",
+      "ticket": 1.0,
+      "sola": 1760.582069636
+    },
+    {
+      "address": "2FAFqtkgyf2zdmrjHZBXnVyUtoPQdJXvf5F2iwaZQSWp",
+      "ticket": 1.0,
+      "sola": 1756.279964013
+    },
+    {
+      "address": "7JniGbJTunLLZX7DRQ6fbXXvik269nzeQ2DKhJ7Sj3V5",
+      "ticket": 1.0,
+      "sola": 1753.665288464
+    },
+    {
+      "address": "9kaGBPg2epXEamJf3RYa3xF9DsXrrYnAidv5UZzrYjvn",
+      "ticket": 1.0,
+      "sola": 1749.547953121
+    },
+    {
+      "address": "HMwRHamLSVsfaU6WepLWBh4eU67TzartRMSmHCUWyhBN",
+      "ticket": 1.0,
+      "sola": 1741.152734349
+    },
+    {
+      "address": "8EZqCSJZK3h6qFV3R5zQoWjDE3nbiew3YDdL69t5ZULe",
+      "ticket": 1.0,
+      "sola": 1739.259386962
+    },
+    {
+      "address": "Dgy2H3eLtq3uZiyta747tV84EP3Qm3nYazyz3QhTs56Y",
+      "ticket": 1,
+      "sola": 1739
+    },
+    {
+      "address": "AWfbfZvQAA3qRWLvyNTgRcDSDAgjkopNH9qdukGcro4j",
+      "ticket": 1.0,
+      "sola": 1737.28511663
+    },
+    {
+      "address": "DAnA5Eq8C6fQBPRSyVe3KdvJKx4d1ue4vhqEnBPcxyRU",
+      "ticket": 1.0,
+      "sola": 1736.700227066
+    },
+    {
+      "address": "4WcRcCYEv3gbuR2cRm8D4A1eo4bEkE6x8sTgdru2MrbE",
+      "ticket": 1.0,
+      "sola": 1731.254587596
+    },
+    {
+      "address": "3t9RJsgyuZ2d7KJ9KYx75ZYf4SmynJEZSMFqQqvb7vvP",
+      "ticket": 1.0,
+      "sola": 1718.315617966
+    },
+    {
+      "address": "96dLAmawSSg2eB7bMjubDG5PZcPy1eonvt8PeZN9aZby",
+      "ticket": 1,
+      "sola": 1713
+    },
+    {
+      "address": "A3avALdiaVd7XGLJdJ9Y55iebgjKxnWGEVVzoqRScvT6",
+      "ticket": 1.0,
+      "sola": 1711.490817209
+    },
+    {
+      "address": "13E6QqyFTgCrSwTzPxNp75hob8kCWhDTdxDL5LhpGW5q",
+      "ticket": 1.0,
+      "sola": 1705.933683956
+    },
+    {
+      "address": "A2Y6yYXoYfxPAWQEWWdnp1ZSpczRBWm8hp5pRgCZN7CF",
+      "ticket": 1.0,
+      "sola": 1699.080387705
+    },
+    {
+      "address": "9YDm894sncGMHY8VGMgxAZ35cmqcbEA6aCpsWdrjPxHP",
+      "ticket": 1,
+      "sola": 1699
+    },
+    {
+      "address": "9HQsmkdy7g3skGCm2betczyD9WAexJizXTPf9Xgg4r7r",
+      "ticket": 1.0,
+      "sola": 1687.249487317
+    },
+    {
+      "address": "7Z4fXHSVnTCFG3tVHousCtmBdacbAq9CkzdTCk3f5PD3",
+      "ticket": 1,
+      "sola": 1687
+    },
+    {
+      "address": "ExyGpevBkStX27j8qQnxANtnkKXPWgjT6hMgfsTp7QTi",
+      "ticket": 1.0,
+      "sola": 1683.365626934
+    },
+    {
+      "address": "EbSVZR769uFGFCFAVnJw5EcsCQVJMRRLbaQuJuPnH3xa",
+      "ticket": 1.0,
+      "sola": 1669.254849776
+    },
+    {
+      "address": "8n7pLgmr5aQAv7RJhtk19GVJMkxi4gXxMBpkqzYkh9vu",
+      "ticket": 1.0,
+      "sola": 1662.866802265
+    },
+    {
+      "address": "CgvcQHSh4BD2yJDPpmVmYDeRuMhZRarHgGCKuoCSfL83",
+      "ticket": 1.0,
+      "sola": 1662.386654837
+    },
+    {
+      "address": "GHujLB9xNpJ1mQsT744N9QNDuBoXm1k7Xk3hBzSoQYnc",
+      "ticket": 1.0,
+      "sola": 1657.970015857
+    },
+    {
+      "address": "49Km1JboDoDsMP8iaECnZkYxdLEgFyKCYntvx9V221Bf",
+      "ticket": 1,
+      "sola": 1657
+    },
+    {
+      "address": "3eGjMpRZSccQDurkZgy2qYfGgZJL3VKPi67Ri7abwz6t",
+      "ticket": 1,
+      "sola": 1653
+    },
+    {
+      "address": "G1eerGmnTvmBTN5kJuFWPJXxc3E5hdt6CBv1LgnLzeJb",
+      "ticket": 1.0,
+      "sola": 1642.097133997
+    },
+    {
+      "address": "6aKYZZe7hudn7NKKmaZRU72uAywtEJxhr8ftBdMZsxJD",
+      "ticket": 1.0,
+      "sola": 1640.425028817
+    },
+    {
+      "address": "79GhF4doKj1YC4xMsawX8R78tJLxjz9dMgeE5jP8ixiC",
+      "ticket": 1.0,
+      "sola": 1635.502904019
+    },
+    {
+      "address": "H5CcjPdJdjQ1gVhCAVy4Ntju7XgNkZCJbFDB9suwsDST",
+      "ticket": 1.0,
+      "sola": 1634.1588753
+    },
+    {
+      "address": "BCJrfdt2DupQn783JAvtxwoZTxayvbRBiHuPoqxo1cL3",
+      "ticket": 1.0,
+      "sola": 1630.365452164
+    },
+    {
+      "address": "AHNHKg8W6Zu8DwCKsL7tivmcjEYq6ye8JioSafegYGL3",
+      "ticket": 1.0,
+      "sola": 1619.284506587
+    },
+    {
+      "address": "3LUAEGAwiqETjeANprQV366cRztADuQjxCCaKXWo4gcK",
+      "ticket": 1.0,
+      "sola": 1618.774952011
+    },
+    {
+      "address": "HxGcDDuXABxZFCMC15QTPbw3X3u2GxAtSD981ppF3LfQ",
+      "ticket": 1.0,
+      "sola": 1608.190175931
+    },
+    {
+      "address": "H6xXVYLwKK2GCcHnEfmTTxbgvHk3V1qHSgUfWwRLe5F1",
+      "ticket": 1.0,
+      "sola": 1603.033308346
+    },
+    {
+      "address": "9xgrqcpkQnZneiznQyuh3mgFJgKj7Eg8Y9eK6m1VExdC",
+      "ticket": 1.0,
+      "sola": 1602.56326002
+    },
+    {
+      "address": "3nt618cGdafZr4hjn24amw7QNRzbSK6uby6bvuMEEtFM",
+      "ticket": 1,
+      "sola": 1602
+    },
+    {
+      "address": "BPzYCBaJWhVPpgJ36QucYfHQue2CT1ukVmpQoYXPyteK",
+      "ticket": 1,
+      "sola": 1600
+    },
+    {
+      "address": "AxyykJWss1pWGigrWzrCcbRW9ASqy942tvN9NDFQ7Ruj",
+      "ticket": 1,
+      "sola": 1600
+    },
+    {
+      "address": "ETZSdvJAG9u4bKxCSSErYdiFuB2t5N9DPDkedKEJ86WV",
+      "ticket": 1.0,
+      "sola": 1598.660715713
+    },
+    {
+      "address": "8sndot7KhpTzoovxY38gnAkCFrNKcuBwZw7TxSKK7AQJ",
+      "ticket": 1.0,
+      "sola": 1594.274736367
+    },
+    {
+      "address": "EhEvmRv7CX1mP57fywz7GvhdMw5zoDWLaJor7ui7qz66",
+      "ticket": 1.0,
+      "sola": 1572.771963213
+    },
+    {
+      "address": "G9psmJ8oRYKFAY5L147imLnQvt958GMgmuB4YJi4uvxG",
+      "ticket": 1.0,
+      "sola": 1572.579491612
+    },
+    {
+      "address": "3fWoeNeQPfh7VofaWjMHUV79mT6gUNW3AxwDqq2cXWD3",
+      "ticket": 1.0,
+      "sola": 1568.656948415
+    },
+    {
+      "address": "3TMMYEEMoWx7x93qesBTBgs6W2cJ9C6x7geMSyQDhFSJ",
+      "ticket": 1.0,
+      "sola": 1560.980336371
+    },
+    {
+      "address": "4yhVS8VzkJHZrMNWwMEhqSHZ2c3jnSeo5ivGMEzzWKv2",
+      "ticket": 1.0,
+      "sola": 1559.828392346
+    },
+    {
+      "address": "9CwSNRSSpNcuuQN8PeFMG5rZzQJyvVo8wnCuM4oFMFVH",
+      "ticket": 1.0,
+      "sola": 1558.746537305
+    },
+    {
+      "address": "DeXk87A8pvv3iJsSb4L2DaLHMt6VtAzUTanmteC68LyF",
+      "ticket": 1,
+      "sola": 1550
+    },
+    {
+      "address": "H8jp183anQmYHq9MfTVG3vyzyD5vUA1JhoMZakdDEDSM",
+      "ticket": 1.0,
+      "sola": 1548.189296722
+    },
+    {
+      "address": "2rEFtFjPgtZDmhg222AMtLBgDTe8dWVWLbbAm9EB2Qf4",
+      "ticket": 1,
+      "sola": 1548
+    },
+    {
+      "address": "Ds1zA634o6f6kG4VhA3ePtrVFDQGCEQvVvHDGwP8bo7h",
+      "ticket": 1.0,
+      "sola": 1535.269499302
+    },
+    {
+      "address": "2GCVDXijN3PLEEJWZ24KgJFZXhTDsbF7JaRPV6nDYC9c",
+      "ticket": 1.0,
+      "sola": 1533.600867725
+    },
+    {
+      "address": "BCPWt9dKXBvp41hN6iKuFc6FzzqNqmKManwe4jDWhsmN",
+      "ticket": 1.0,
+      "sola": 1528.937964875
+    },
+    {
+      "address": "GB3EvCmdCYne4KNxDjresqpc2svzw1sm9tgjKMBrp8o1",
+      "ticket": 1,
+      "sola": 1527
+    },
+    {
+      "address": "ErDDMAWEAzToTDmPPTzbf9ock7zZ54YZ1GCUsHxVf88E",
+      "ticket": 1.0,
+      "sola": 1525.704277395
+    },
+    {
+      "address": "B6nBbHucudsB96FNfr7RNMNnoWQb6AELsULQediFMQ4q",
+      "ticket": 1.0,
+      "sola": 1523.081489151
+    },
+    {
+      "address": "2YT6DeanJbBfiWKwhAoqWYyPpdyGx6MEgVHXh3KtdkNg",
+      "ticket": 1.0,
+      "sola": 1520.550494797
+    },
+    {
+      "address": "4PhVmr7m52PwTckHrbXL8vpBVEZGdAV8xP9XRSmZdoCm",
+      "ticket": 1.0,
+      "sola": 1517.502984714
+    },
+    {
+      "address": "FcNXXWQxVSKCLzmcJVgwk6mEcUvVQC3QS48jHqp5aZt7",
+      "ticket": 1.0,
+      "sola": 1517.033389352
+    },
+    {
+      "address": "HiEWr9zi9jadbkRPzASm5gRRqHY9QTKuNvoQGqGKLmZF",
+      "ticket": 1.0,
+      "sola": 1514.562524766
+    },
+    {
+      "address": "Bdt32LzteUV61NjLBhdqddx2EmYGbyXDr2ddRzPYZjJi",
+      "ticket": 1,
+      "sola": 1513
+    },
+    {
+      "address": "FDShA76XjxqsHoFSHZBRs1u9PmF4T6T7eqzbs22gGWeA",
+      "ticket": 1.0,
+      "sola": 1510.401116249
+    },
+    {
+      "address": "3MPTn1jk5r3UXkGshMLekTpjehyDuZXeqrJE6GhZuzsn",
+      "ticket": 1.0,
+      "sola": 1507.401513756
+    },
+    {
+      "address": "7TteDoWFe15FMMe6wDEEmSbr38fXVe3mgs8P9HnteKAG",
+      "ticket": 1.0,
+      "sola": 1505.365981712
+    },
+    {
+      "address": "6Y6uteMHrhRyu6GTYMof7VhhtvyJUV5ZndSWuCDymJmV",
+      "ticket": 1.0,
+      "sola": 1503.767068976
+    },
+    {
+      "address": "8nHhBjUsQVDhPbrCpmq6Xh4hsVRZjUuMQw76MUVWwskP",
+      "ticket": 1.0,
+      "sola": 1500.811134422
+    },
+    {
+      "address": "C3sXVSC3dCRXTG2e7dsvazJ4UV3sUXGAfK9xWXu7Dq4Z",
+      "ticket": 1.0,
+      "sola": 1500.599513777
+    },
+    {
+      "address": "8x3ZkTGrKxm8EqWMtaG6YNsYSoEvy6EVmyPLCSJpK7Ct",
+      "ticket": 1.0,
+      "sola": 1500.067328428
+    },
+    {
+      "address": "7okPU574JZ1ohJc1jCvt7A4kGRrPv7CuPmeuGqf9Z6FN",
+      "ticket": 1,
+      "sola": 1500
+    },
+    {
+      "address": "65zPmpReYpT9oSmTngJ1k7nc3513CMXbXKrFcbvXmGUp",
+      "ticket": 1,
+      "sola": 1500
+    },
+    {
+      "address": "39DWRhwbJnFyTZVyo9Ce3o8pBCNvYSebgsUjYPrPhxyF",
+      "ticket": 1,
+      "sola": 1500
+    },
+    {
+      "address": "FFjd7eGr2e6zLM9fPf1QrnWx2VRJx5omzeExRWz7mq1u",
+      "ticket": 1,
+      "sola": 1500
+    },
+    {
+      "address": "2rjJNmhEMDUFyPUZVqAwH2DFCRq7co7WGNmKx9PzagQ4",
+      "ticket": 1.0,
+      "sola": 1498.786276523
+    },
+    {
+      "address": "FAUCwyRbrebzywWW5kN4it5nvWNjeNGYWSMiCM1V1e6b",
+      "ticket": 1.0,
+      "sola": 1496.774685931
+    },
+    {
+      "address": "7tA8oETgMdgPvvTUZXB37r3E44h7KspBnkuzsptjYY4E",
+      "ticket": 1,
+      "sola": 1496
+    },
+    {
+      "address": "BAWY3FZ14p2GWedKSzDeNb9E3deAmPvjbSdsNHzct7Ha",
+      "ticket": 1.0,
+      "sola": 1495.580648817
+    },
+    {
+      "address": "Ahck7P1sLe5cbo8ggy9VHSchHzT65qDYnpFcxrxCphJB",
+      "ticket": 1.0,
+      "sola": 1492.44
+    },
+    {
+      "address": "8uukZ4mLq5Ph1Zam3hUjmT5LumhBMqBihcnse1y777LU",
+      "ticket": 1,
+      "sola": 1491
+    },
+    {
+      "address": "CAdeqJkKEMx9bTNxrTc47pBWngt3BRXS9mW1ehqHHD3W",
+      "ticket": 1.0,
+      "sola": 1489.020835188
+    },
+    {
+      "address": "QLXivcXeibSYFQRsAbryuWrB34igouHDVpRMWv85817",
+      "ticket": 1.0,
+      "sola": 1478.819409934
+    },
+    {
+      "address": "8npbB1urmMGmrwx2RVNhT6qUKsi7N5xcNWHbMquUhNJt",
+      "ticket": 1,
+      "sola": 1471
+    },
+    {
+      "address": "9jq4b1qUmxgCFLmeUjTDL53aNg94CB7QS9DGVqWhiMuQ",
+      "ticket": 1.0,
+      "sola": 1468.837604805
+    },
+    {
+      "address": "6hPNR85toRMZrY9veNUNogTMjHDG3CEEvcjBWsCUMCSx",
+      "ticket": 1.0,
+      "sola": 1467.210296223
+    },
+    {
+      "address": "616jHh3nuoNHqvBB1QzXLUgufhwG6gDLzsDL1HYyrgyn",
+      "ticket": 1.0,
+      "sola": 1464.609317128
+    },
+    {
+      "address": "2L6CV377UcdJPjj5UB8GBkox5jCnS8tNxis7Qo14QVdz",
+      "ticket": 1.0,
+      "sola": 1463.902195056
+    },
+    {
+      "address": "6ryHqgzSsewEMefAmsVqgAQk3hR75AA4ESPfpe2xzLKF",
+      "ticket": 1.0,
+      "sola": 1459.705953142
+    },
+    {
+      "address": "CjS4ZXsf4FXfY7ZyZFgpqTkT8xY9af34UNYiC6oD1i77",
+      "ticket": 1.0,
+      "sola": 1458.954108614
+    },
+    {
+      "address": "FwDHv3NdFP7VqMPL24c4axaMwdappqEWqh28ngwzmLAf",
+      "ticket": 1.0,
+      "sola": 1457.644002948
+    },
+    {
+      "address": "4ocA4RjAoYZfog2K778CGAtU1CdZd6SXaUDc3hNMdMX4",
+      "ticket": 1.0,
+      "sola": 1457.279796975
+    },
+    {
+      "address": "6kAkUzVBPS21BNwcNzvw5RiczQx7HAqbA6D11fqUvgUD",
+      "ticket": 1.0,
+      "sola": 1455.735238842
+    },
+    {
+      "address": "6XPJmB2BDyNbqxGjHCcuvxY5cNu2TtQhGuL6ErwyvD4T",
+      "ticket": 1.0,
+      "sola": 1451.56236273
+    },
+    {
+      "address": "EY6a1tchWL442BeGKSbg6KBeyiDT4MdYzRtyetqs7JrH",
+      "ticket": 1,
+      "sola": 1450
+    },
+    {
+      "address": "29hPGc2Ua6ZheQdxK7MAER6xMSezTMki52QBnBN2B5ry",
+      "ticket": 1.0,
+      "sola": 1449.214440709
+    },
+    {
+      "address": "J6wrd7rh68dRU5iokNk3jGU8XgHc3PBjwZ1ASCaC1raK",
+      "ticket": 1.0,
+      "sola": 1448.064591176
+    },
+    {
+      "address": "8q8uNfzGstfGnsomMVc92EdWvQTdAu83jRU7MNLQukqs",
+      "ticket": 1.0,
+      "sola": 1439.902046316
+    },
+    {
+      "address": "AVWY8GvDdn28RMcNnwibDqEbk2oCKq7f5amHPFTJ3CCE",
+      "ticket": 1.0,
+      "sola": 1437.659835973
+    },
+    {
+      "address": "7qWdSmeGCYHKybXpDouxbwVhxAdxRnc7h8e4gUZJsR1C",
+      "ticket": 1,
+      "sola": 1435
+    },
+    {
+      "address": "wAVkpaakjZUo77ipChMAPQtc4JY46t4xN14cm8AnwXg",
+      "ticket": 1,
+      "sola": 1427
+    },
+    {
+      "address": "F3Miq9tQYKq6MTztYLHmx4ijL5avAdPyKK4bPzKnix94",
+      "ticket": 1,
+      "sola": 1422
+    },
+    {
+      "address": "AVCmq7Thob3RHYTLL3NnW2nGzdS35rC5rKuKtu4Gghri",
+      "ticket": 1,
+      "sola": 1419
+    },
+    {
+      "address": "2h7jwagPFuuyRBwzqyeujWWzC91b4svJfqVcSeoBPbkS",
+      "ticket": 1.0,
+      "sola": 1415.816718924
+    },
+    {
+      "address": "EgpToS55Kux3C6camhoHycmT2mATdhoCAyTCjab35K6a",
+      "ticket": 1,
+      "sola": 1413
+    },
+    {
+      "address": "3Pbb3UbrUxqKfsWmpdC8ndeGE3sDnHd7ByjhqNjg2wgU",
+      "ticket": 1.0,
+      "sola": 1412.370224822
+    },
+    {
+      "address": "EcwcB74G6DBVWPfMbG3gPEtfzF8HG1b1j6SjFwqaT6t3",
+      "ticket": 1.0,
+      "sola": 1412.300377301
+    },
+    {
+      "address": "ApyL4NFqTMdchTRHYk68ULZLBQuygoFm3pRJNQzE8Nk7",
+      "ticket": 1.0,
+      "sola": 1410.677156642
+    },
+    {
+      "address": "AQT7PT9kPhrrrSNWtSiFW4MVt9hA1eN8CCaCYAZcW1ok",
+      "ticket": 1.0,
+      "sola": 1410.653136242
+    },
+    {
+      "address": "Ebf16aKH3L6hioovFXHUpDm9M85at1kH4feT1yw5ygDY",
+      "ticket": 1.0,
+      "sola": 1410.287326117
+    },
+    {
+      "address": "DgYwxGmJLB7QQBnX2DXC2nR8vvcEdoZ8cj7gYRKYHyJy",
+      "ticket": 1.0,
+      "sola": 1408.941561665
+    },
+    {
+      "address": "3HpYxJ5w3xjGn9aeXnFUt9FGBixX3kwvtb4dyxFmkKvQ",
+      "ticket": 1.0,
+      "sola": 1405.834930155
+    },
+    {
+      "address": "SjQiLcumFCDEgGqLHAxcDrj99jEKMkqZW9VF2VNoEtt",
+      "ticket": 1.0,
+      "sola": 1404.495062418
+    },
+    {
+      "address": "9fULzUZ2uobTSw3wfixBG2JnAVqmJBxHeCiGniyhmsPc",
+      "ticket": 1,
+      "sola": 1400
+    },
+    {
+      "address": "4yc37gF6DeKqA6RCDAemssLCCjgQZVY59ZjDFSy26Nxi",
+      "ticket": 1,
+      "sola": 1400
+    },
+    {
+      "address": "5iJkvaMGNBMu3714gsdTSxqpQApv3kxwgqCou32HjKWd",
+      "ticket": 1.0,
+      "sola": 1396.427675501
+    },
+    {
+      "address": "3eKJk6Mc9171me1d9fTU1D3nBwf5B7Z9AqeUDkk3A3KT",
+      "ticket": 1.0,
+      "sola": 1387.8538199
+    },
+    {
+      "address": "2yW9367Tdjw7bbH64FvCWQoTpSSLF9hwLTynDMNG5u6N",
+      "ticket": 1.0,
+      "sola": 1387.332809786
+    },
+    {
+      "address": "EpPFBsbErFnEUoRPech4z6dNSgg8yCwSiCTPQhiyk8v4",
+      "ticket": 1.0,
+      "sola": 1386.437344107
+    },
+    {
+      "address": "3shg5oR4kXiAz36ifn3Vw3od8z3B8kJ2Sn7ytxartMFu",
+      "ticket": 1,
+      "sola": 1385
+    },
+    {
+      "address": "9kk9JrWxUxhmocBwvQg2NkvrMGsPAAhAyD1tAvSM7dyg",
+      "ticket": 1,
+      "sola": 1385
+    },
+    {
+      "address": "7zhrZJKRo4u7W7FvSxi22PcxvzE1Kve2S9pEjXaJasqT",
+      "ticket": 1.0,
+      "sola": 1380.303919768
+    },
+    {
+      "address": "85q1Veek2byLd7x8s71yzsCC6oMXJiGn3kCFjrcPfZ2x",
+      "ticket": 1.0,
+      "sola": 1378.452979753
+    },
+    {
+      "address": "33rX21rWagUrk6tTHGFZGf374F97DrS82z9ap2UnNbsM",
+      "ticket": 1,
+      "sola": 1378
+    },
+    {
+      "address": "CiJakCtB4D2CVvQhoRSKjUrzEwygZLhoJQaepPC4uKgk",
+      "ticket": 1.0,
+      "sola": 1374.458039886
+    },
+    {
+      "address": "GwreKMmRe76KvfZ7NHHJd4R6WUWKrAeazxjPdvCvadxk",
+      "ticket": 1.0,
+      "sola": 1374.304776922
+    },
+    {
+      "address": "Ff3mqhBh9DocpaceoxguRw39o9kdD5UU1j2xhALkrqor",
+      "ticket": 1.0,
+      "sola": 1373.213310622
+    },
+    {
+      "address": "38MMdgyBsxioCxszMGP3Hr3BUGs2SZauA6Rj4KQAdJet",
+      "ticket": 1.0,
+      "sola": 1372.989803079
+    },
+    {
+      "address": "DLKrUWNZ82xueKTumrh8zLhrRDEs5cur55sxspvsoz37",
+      "ticket": 1.0,
+      "sola": 1372.211406779
+    },
+    {
+      "address": "DUdPqaYiBAgNpDucKGgwHhBRWtSeTkjLsy5aKPJcXyHB",
+      "ticket": 1.0,
+      "sola": 1369.983893359
+    },
+    {
+      "address": "9cXiVSRJdXCQAMtVKut9VDNiRprwA12HeMuPCGuNR93n",
+      "ticket": 1.0,
+      "sola": 1366.138313504
+    },
+    {
+      "address": "7kjFkJ13QbF4dtSe7x8P3izxcAc5NiAXfGJhphFRorZ",
+      "ticket": 1.0,
+      "sola": 1364.826068144
+    },
+    {
+      "address": "GvaiUdGF58SVb5yKaojabDWzcH8VqE8ZbN1rxJfBZWG1",
+      "ticket": 1.0,
+      "sola": 1353.712428413
+    },
+    {
+      "address": "8CndeVJrxBdkxXGswid7PW912DZos2CLF1ui6pMZ9wen",
+      "ticket": 1.0,
+      "sola": 1352.002086985
+    },
+    {
+      "address": "4JU5TckNYef1u1W2p7g23aqV4C1wd78JWSgmD65yxT66",
+      "ticket": 1.0,
+      "sola": 1347.872192774
+    },
+    {
+      "address": "Deymy2m4thJDX7MVhhLPpCDxs17eAmjskHQBeSrXdPxU",
+      "ticket": 1.0,
+      "sola": 1342.017740304
+    },
+    {
+      "address": "Gu1sQALyuaG9JXeq4wycyQ41g65oGHGs8t7d3YaFd4yA",
+      "ticket": 1.0,
+      "sola": 1340.910013535
+    },
+    {
+      "address": "GuxCyARLKZ8mcueEuepkpVrqaQm59qXxr9kAJueGiq4C",
+      "ticket": 1,
+      "sola": 1337
+    },
+    {
+      "address": "A3qoNd9iDM9pLy5nzuZShNj7ap57p8E16q4fkHRozJKb",
+      "ticket": 1.0,
+      "sola": 1333.590353405
+    },
+    {
+      "address": "4LLjKdn2gbaSujHJVaKbNa2ZKzvvtE3bZE7ZMW3Rzs8i",
+      "ticket": 1.0,
+      "sola": 1331.261443952
+    },
+    {
+      "address": "Bp7f7Qs6UHShFaFk6ziZbSHkzqPg5gvgQq6Urko8zFb8",
+      "ticket": 1.0,
+      "sola": 1330.960980165
+    },
+    {
+      "address": "GwLFAdCTuwVYie1zBStd9zJTyfjFxgDeVVP6fJmoyBVm",
+      "ticket": 1,
+      "sola": 1322
+    },
+    {
+      "address": "7ozP28vzpm3rvKsdqodxoLPUSekPN1LY81zPXyZr3yrz",
+      "ticket": 1.0,
+      "sola": 1318.105520157
+    },
+    {
+      "address": "AU5MecRYc41rvknpdQogR3xFWiUwfqBnhTMtGzYzeC5h",
+      "ticket": 1,
+      "sola": 1317
+    },
+    {
+      "address": "DG1QkhBvAtJxqfJE4MSBP6JrLV1L79HHutcEudcpn2vv",
+      "ticket": 1,
+      "sola": 1312
+    },
+    {
+      "address": "4BS91xLDFdjG8y2aBU5Tr9mWGD73K8RhnrcnWe59XfKh",
+      "ticket": 1,
+      "sola": 1311
+    },
+    {
+      "address": "CRLsnQGa3DTNz9p75gAq66ceXJueebMbCVf3ND8XAwdb",
+      "ticket": 1,
+      "sola": 1311
+    },
+    {
+      "address": "J5jXexbz7MGAnL8jtruge2xUWKBnukTRSB4bzyvH7KFL",
+      "ticket": 1.0,
+      "sola": 1308.504658543
+    },
+    {
+      "address": "6wDWRzg6Pkee32P8AbnmzNa7jgHfLyFHPwZuoV9SxLB5",
+      "ticket": 1,
+      "sola": 1307
+    },
+    {
+      "address": "J15bXqThc8ev1ETB4qCLWVsXNiqqrhAvaXuqeqYm9L3n",
+      "ticket": 1.0,
+      "sola": 1306.887941659
+    },
+    {
+      "address": "2UyvYmqZQW7eii8yVVTwqRP4VHacX56Wp6mcWK7PmV3o",
+      "ticket": 1.0,
+      "sola": 1305.258899229
+    },
+    {
+      "address": "CoveTRxU8ckQdxrRFUpEnsxyzbmxBqToenm883w5xBYV",
+      "ticket": 1.0,
+      "sola": 1304.591372462
+    },
+    {
+      "address": "BDbxFjuMS1rjbmr7ofPbeCWmTkQBi5ksFBHZeXLi7g12",
+      "ticket": 1.0,
+      "sola": 1304.479910461
+    },
+    {
+      "address": "BcB5t4BVGzgP39yVZML9nQ7sAFpdEy1bAdVwMNo7YFvR",
+      "ticket": 1.0,
+      "sola": 1303.380361185
+    },
+    {
+      "address": "CG4z9qdE8tsUubA7VzHYeXzAcBKsDUJEFLLSwn9mDQgw",
+      "ticket": 1.0,
+      "sola": 1297.856401722
+    },
+    {
+      "address": "3FnrcDvH3eZSCjZLUbCMGHKu61RgxVBQ6iw4XLaY5eM9",
+      "ticket": 1.0,
+      "sola": 1295.681534108
+    },
+    {
+      "address": "5yz2WXKoRn3G99CPMme4qDu6mqescW6Kvo9QrioU8VRt",
+      "ticket": 1.0,
+      "sola": 1282.987406526
+    },
+    {
+      "address": "EzUBhXAc3V9KQe96Rc9G8iJpeECATTDiSqxuF8i4XRPw",
+      "ticket": 1.0,
+      "sola": 1281.508782751
+    },
+    {
+      "address": "S6n5SvMjWDQBhh3fpMgk4LVES1MYYp6RZf7G7hQuRzB",
+      "ticket": 1.0,
+      "sola": 1274.764294397
+    },
+    {
+      "address": "99V7NzJYhzywwX5xN74xFsgWTbKva4PhpsmD5APEoJhY",
+      "ticket": 1.0,
+      "sola": 1270.165618485
+    },
+    {
+      "address": "DaTLCDNzK1qjGaDBb45Tb42hCFbnruHow9btNBTZrVqW",
+      "ticket": 1,
+      "sola": 1270
+    },
+    {
+      "address": "6hnUxYHVXLcrvW3LQ7cpe5H3tX5j4MoXSG4MC167zKRt",
+      "ticket": 1.0,
+      "sola": 1264.931024819
+    },
+    {
+      "address": "fen5bjQ6tk79FtZcAcZ2J25ggY6q5c6vR7qPk3vw9D9",
+      "ticket": 1.0,
+      "sola": 1264.88380995
+    },
+    {
+      "address": "7tDtYWann1Fkq54mDN5ZtpJWvh4MN42ZTk61JzsCEZR3",
+      "ticket": 1.0,
+      "sola": 1259.113745261
+    },
+    {
+      "address": "8NcV2zv7ukkaF6qFMtYu5UG2ac1Hik8KFd26jVLNSeee",
+      "ticket": 1.0,
+      "sola": 1259.053176826
+    },
+    {
+      "address": "HCR9NfhMamPu8ou8JKeLe14qRcp7kdurXXmomEGKyYnz",
+      "ticket": 1,
+      "sola": 1257
+    },
+    {
+      "address": "6oZxQCyLQdZScrTRPszohKaC2ufMwabsab2L1Zjkddqg",
+      "ticket": 1,
+      "sola": 1255
+    },
+    {
+      "address": "EmgeaDKYRh8AtbkKDPE1R2bgRKPkSXxz3pZJnfBtZjRj",
+      "ticket": 1.0,
+      "sola": 1254.709496868
+    },
+    {
+      "address": "7fz7hEicNoEPnJHZ5gBSrLxgm6xgYH5sUxgyyz96Q7h6",
+      "ticket": 1.0,
+      "sola": 1253.640645085
+    },
+    {
+      "address": "6f774pnhFqt7cz4qo3URMuwETZRxgTXh9qrPfpgDSMKf",
+      "ticket": 1,
+      "sola": 1253
+    },
+    {
+      "address": "CAq3MbBEKpb348KSeAgWXFRUDBBbdYPWV6qzaTeqp6gM",
+      "ticket": 1,
+      "sola": 1250
+    },
+    {
+      "address": "CfeSCRH2MiNoMFLr6uGnxrUvWaGvqz4DGYqnE3sVGYBh",
+      "ticket": 1.0,
+      "sola": 1249.426539735
+    },
+    {
+      "address": "CyBixFJr5Px3Kf7zG9dPryREDss6rABhgEAEewkbbUYQ",
+      "ticket": 1.0,
+      "sola": 1245.586434271
+    },
+    {
+      "address": "552jpwGDiMKjBGqYsBSwC7Duch4bdpA4yw3GiYDf51JB",
+      "ticket": 1.0,
+      "sola": 1231.930891742
+    },
+    {
+      "address": "FZNURLG3Si8yKrFZ78r3VWSBfKA1VthpaYcQifBJJyF1",
+      "ticket": 1.0,
+      "sola": 1230.970175585
+    },
+    {
+      "address": "CcJHgFSrDTseHaU8NRGYgK5wn6CPDsvsTGUzq2qF5ZWv",
+      "ticket": 1.0,
+      "sola": 1230.567342668
+    },
+    {
+      "address": "hE3k43WksUD2TRSjhnqB1gURgZvJ3CZBC8Q11Qfh6Cv",
+      "ticket": 1.0,
+      "sola": 1226.821958173
+    },
+    {
+      "address": "9sxrYFPh1nH1WLMbXVeV46TXsyuN7HDYawvd9Z8qAPGn",
+      "ticket": 1.0,
+      "sola": 1223.627927797
+    },
+    {
+      "address": "FygWYsDcBL9W3gEm7tBFL2nKRLTxKaMfqr5DgBPC5Kyn",
+      "ticket": 1.0,
+      "sola": 1219.544816927
+    },
+    {
+      "address": "B2w1pksPis92jrYK3ZAxgm1fPPnXevoMux5KUZabpzKf",
+      "ticket": 1.0,
+      "sola": 1205.216760989
+    },
+    {
+      "address": "3rMSym9Q6eVzjoXJdDKDGeWoYZTjhpvfkgRWr3hxBMgu",
+      "ticket": 1,
+      "sola": 1205
+    },
+    {
+      "address": "DWM76d3BJbDu3r12MVdCwmfKkpKViRcYhVxZeDpYVuSq",
+      "ticket": 1.0,
+      "sola": 1201.298200097
+    },
+    {
+      "address": "GFu2RU6Sc8CxTRER6zE9uAUjmgrZ4E5UmFZa33oABEYV",
+      "ticket": 1.0,
+      "sola": 1200.548304037
+    },
+    {
+      "address": "BS9ibFrpUrSKh9YUoA49QFrvMKUtiVxxt1BvgVhBx8MU",
+      "ticket": 1,
+      "sola": 1200
+    },
+    {
+      "address": "9ypLEW7H6iLEcvBRi9quamwzz2gbJrWCDRCkg2iEmV6e",
+      "ticket": 1.0,
+      "sola": 1198.708451937
+    },
+    {
+      "address": "BQkmFLACDgYy3DmRqxaf9v3zZ2iKKTqKqMavgWkfmgqQ",
+      "ticket": 1.0,
+      "sola": 1197.590467021
+    },
+    {
+      "address": "HFWfaDKMFXze99UwMRpxJaZZC6Fqq8Qw6BmJREg71nQo",
+      "ticket": 1.0,
+      "sola": 1195.138138278
+    },
+    {
+      "address": "GGBNpETbp5MUhTzrcCs6vdiZtnM962HMx6RL5kcgX6rC",
+      "ticket": 1.0,
+      "sola": 1195.037228599
+    },
+    {
+      "address": "Gd6bim7zCDYVA24nMpXqpC98GUKPA5A9tCcwrVFkJQPz",
+      "ticket": 1.0,
+      "sola": 1194.080486429
+    },
+    {
+      "address": "GetNu1ARkm85MncF6UGF2ZxUDSKYDtm66ZYGujwFmsLr",
+      "ticket": 1.0,
+      "sola": 1190.282489394
+    },
+    {
+      "address": "9QUc3H5xvdMBx1WruR1cAUA4nq7PVuiCzYxd7XmhB5Qm",
+      "ticket": 1,
+      "sola": 1190
+    },
+    {
+      "address": "CsWULX2dRQz5LdJhe5UEbVzGPmJCinMzDniLFvvdBa8p",
+      "ticket": 1.0,
+      "sola": 1181.803505517
+    },
+    {
+      "address": "8TCZd68Jvi768hoiYPUXXMwxQ3wSv9SbNBGG2devt8J8",
+      "ticket": 1.0,
+      "sola": 1179.262019058
+    },
+    {
+      "address": "C1BAN4CKFLtDAUiJXZwR2Zwy5KF2P3LBenZTkEfDq99k",
+      "ticket": 1.0,
+      "sola": 1177.906046195
+    },
+    {
+      "address": "9tFmjWqDYn7uuMX9fsUmRhvRk3quCC2asQGeekupLP19",
+      "ticket": 1.0,
+      "sola": 1172.058386205
+    },
+    {
+      "address": "EH4gweLyGGv8StonQmmFSiNUoiU13WNFWtT5KpevHYcP",
+      "ticket": 1.0,
+      "sola": 1170.54549227
+    },
+    {
+      "address": "H4RJSz56mStvhcnSyUqSBxaHvaQfbcReXiXz1YKC4fkg",
+      "ticket": 1.0,
+      "sola": 1170.434487314
+    },
+    {
+      "address": "8DRdjBMVYBSEWTLtpebf64AXnAfzGhogcupffh4b4zA7",
+      "ticket": 1,
+      "sola": 1170
+    },
+    {
+      "address": "BqDhm1sq7ANiV9BmGaNbTfNx8pkeqFGC23a2adBuqwJF",
+      "ticket": 1.0,
+      "sola": 1163.098316595
+    },
+    {
+      "address": "7o6MCBa9zg8j8vP4ztkrJvQcZZY5ZuFrHo6DYbNoUsQD",
+      "ticket": 1.0,
+      "sola": 1161.29695822
+    },
+    {
+      "address": "D5RnoADRjgVZ19qD7763FRpYZPAGzSeVMbkHW4RGdAyz",
+      "ticket": 1.0,
+      "sola": 1160.019021846
+    },
+    {
+      "address": "4C7qLnnEVbghhimiT4S1uKduxzLBn5V9UozbR7zYPyGA",
+      "ticket": 1.0,
+      "sola": 1159.835045655
+    },
+    {
+      "address": "Dh5vfBWJ6vX5bLVh8ehzB2xQi23j3VTQHCRWrSntsuq2",
+      "ticket": 1,
+      "sola": 1157
+    },
+    {
+      "address": "8fx4rLaQCRSQxnS8EF9Jq1EvuHbHn2484tZmvZkog4P8",
+      "ticket": 1.0,
+      "sola": 1156.957185328
+    },
+    {
+      "address": "GmEKr5bVqwrxthduwCC1Yp1J7U4tuY1xRbtipkuVgGmq",
+      "ticket": 1.0,
+      "sola": 1153.541387521
+    },
+    {
+      "address": "66jT1D31D6XvSZT62yYpYxWQiFVqW4WC3y1QrkU6WygP",
+      "ticket": 1.0,
+      "sola": 1152.097734765
+    },
+    {
+      "address": "9hGkHdA6CxgJkcGLWSnfeLpBYBBGN1br4TRZniKUfWXx",
+      "ticket": 1.0,
+      "sola": 1150.114275007
+    },
+    {
+      "address": "FoZjYoFrbtfHmGW2M498fLnkxMMvwRdtJTHUh7PqMFs5",
+      "ticket": 1.0,
+      "sola": 1150.006777503
+    },
+    {
+      "address": "HWe8HAYmRyt5eUnzqt2CgjRivh2ayM1pfdU4mrxV915Z",
+      "ticket": 1.0,
+      "sola": 1148.027549555
+    },
+    {
+      "address": "CgN1RtdBqAd4vAK9jFZrwmuSsuxuBp6d9ozqrz7Vr81X",
+      "ticket": 1.0,
+      "sola": 1148.007727047
+    },
+    {
+      "address": "5pRqn4p4dWZj8phhP1Pq5VYCASnLRxyQkqJaATyUaDyn",
+      "ticket": 1,
+      "sola": 1147
+    },
+    {
+      "address": "EQ43b1C1NngRMQmJaTfbeX6gKLPoy4hGxrz2vuLiqSmq",
+      "ticket": 1.0,
+      "sola": 1145.5
+    },
+    {
+      "address": "9bddnZDC3Ug8vzCUgmzSuYj6HhVktopZYRiXB5G2LvnR",
+      "ticket": 1,
+      "sola": 1145
+    },
+    {
+      "address": "J2VaQdksKDipGP5H1N1pmN4CCGNk4fozAJxadB4yexta",
+      "ticket": 1.0,
+      "sola": 1140.596574707
+    },
+    {
+      "address": "EervD7LkvRResUEsPmefTwiQFZt2knJGXPFanoowNtzy",
+      "ticket": 1.0,
+      "sola": 1137.854580346
+    },
+    {
+      "address": "4jCjhZGb5Kcj34tL8A4nsunLRuS2aC7o2ydkT2MJh1ki",
+      "ticket": 1.0,
+      "sola": 1136.733751892
+    },
+    {
+      "address": "AoeyiexDCYkESa9QGUxb2yjNpwNm1yEFLz4JdAJDS1zf",
+      "ticket": 1.0,
+      "sola": 1136.219009198
+    },
+    {
+      "address": "6PDnsfcNPUdUxCwLCTvP46Pa1dFtJgVkXtHtsRV3m52t",
+      "ticket": 1.0,
+      "sola": 1134.281117093
+    },
+    {
+      "address": "D7gfe19Kpt4eVQQTTR4dQb16fM5kxbGBxVvM14AHNAhb",
+      "ticket": 1.0,
+      "sola": 1132.232366593
+    },
+    {
+      "address": "AHSYSTDyr7hYjAEKFcWALToQiA3YysPZfqyHsDFREQj9",
+      "ticket": 1.0,
+      "sola": 1129.842008784
+    },
+    {
+      "address": "611ABh4JEygbztjejWGmkVgrYG2ehrR9zEPxT6kQkHYx",
+      "ticket": 1.0,
+      "sola": 1127.244740098
+    },
+    {
+      "address": "Ddh3c6SYAJoPsUK9Qa6EDJvRFv9XhfxuqVvNmatAFfJz",
+      "ticket": 1.0,
+      "sola": 1118.965279217
+    },
+    {
+      "address": "5HwB8DrCGvwmuWHSfeboXBCuK1RLKB4R4FLfAjKuySxp",
+      "ticket": 1.0,
+      "sola": 1118.817568087
+    },
+    {
+      "address": "DYVigSUzeoE3XVqvnEGWwz3V12gHiLxDgqYgDHwzVnHg",
+      "ticket": 1.0,
+      "sola": 1117.807086658
+    },
+    {
+      "address": "HoxeEaNJidGFc9x2zvup7XHQ2mt81RhxBSvh4kh5C2WU",
+      "ticket": 1.0,
+      "sola": 1114.720672149
+    },
+    {
+      "address": "F9yaxg3FTyUfjwRFTnewb4SbJHdtEBuUGdskgZpF7j8Z",
+      "ticket": 1,
+      "sola": 1114
+    },
+    {
+      "address": "BYqLKHjZw1zrgdhjjt4obtdadi23iDoj3fhiWHnbE7jX",
+      "ticket": 1.0,
+      "sola": 1113.410025944
+    },
+    {
+      "address": "FdpdfY1jpSVUYqGnJ4a2yUwBzQY9cZ95UJepWXVtEvAL",
+      "ticket": 1.0,
+      "sola": 1111.470319167
+    },
+    {
+      "address": "81sFn1cPU2aeKoMhJUSwu5oRfyxGAZhtzJDQKzLsjMAm",
+      "ticket": 1.0,
+      "sola": 1111.30913054
+    },
+    {
+      "address": "6SjHbHQ2UZ3eyzLsajd8vmnju7838R8kmZqUhUH6HfkL",
+      "ticket": 1.0,
+      "sola": 1108.971182178
+    },
+    {
+      "address": "AfFZwMDNBuYUEn6nXg9fhAKFT88bGP8CjfggA7BcRuGQ",
+      "ticket": 1.0,
+      "sola": 1105.778335623
+    },
+    {
+      "address": "Eo4CbS1VW8SSvW6D14pCuyUcJKrN1Voz7Py2dftCos8Q",
+      "ticket": 1.0,
+      "sola": 1105.44968378
+    },
+    {
+      "address": "AqtZ1cV3mBHLNZS8WJHEhhsUxhzRXyVgh9smhqspAHDg",
+      "ticket": 1.0,
+      "sola": 1105.168373492
+    },
+    {
+      "address": "9hjqYmFRFBY36FZQtNoFPujM1EUoamj9KF3WHbH6PLnn",
+      "ticket": 1,
+      "sola": 1105
+    },
+    {
+      "address": "C5XeQRcerdUzyTRuFUrAxHnaY4QpS1nftmPgv6VkE5aq",
+      "ticket": 1,
+      "sola": 1104
+    },
+    {
+      "address": "CLvE9vftCHYFtP8AzMUnuGwVyTRJ75JLVfvvnsB4HFXc",
+      "ticket": 1.0,
+      "sola": 1103.120055396
+    },
+    {
+      "address": "3kjtrYKNra7YmhyL9SQESaaMt64Ff4X385RMkN8pN4E7",
+      "ticket": 1,
+      "sola": 1100
+    },
+    {
+      "address": "HS5uEnVbNPUziUJSYFqJFfnTAm4sEGPbgafgTsro2QmL",
+      "ticket": 1,
+      "sola": 1100
+    },
+    {
+      "address": "64yd5SawDD6QxoiuvYj39xxLjCibSwiBhqBL5wrFHiVx",
+      "ticket": 1.0,
+      "sola": 1099.737002498
+    },
+    {
+      "address": "FYxoe4i41wmXMfH3LgMeizSemmdVyuYdRRrsy6396xLq",
+      "ticket": 1.0,
+      "sola": 1097.145904225
+    },
+    {
+      "address": "Etjv2LcdkFENUqzdN5YS5SkQWdcr2qpd1CA4wShYpe4V",
+      "ticket": 1.0,
+      "sola": 1096.579274843
+    },
+    {
+      "address": "ADiWY5SjwBdT32WoNMh1MA9AYbVu96QTvFrqRGZBZRmU",
+      "ticket": 1.0,
+      "sola": 1096.318650393
+    },
+    {
+      "address": "94nnpQ8uRmjBVyBvVuh53rdxcyxm76JafRyLEA5tm2nB",
+      "ticket": 1.0,
+      "sola": 1090.213019595
+    },
+    {
+      "address": "Eqh6WJoL2dhpdfsGvEvTd9QNMAzkbUpi6tASBXBw5zHU",
+      "ticket": 1.0,
+      "sola": 1089.645425785
+    },
+    {
+      "address": "DvvDqWjezfwUsWJoSEE9SdfE5vd6n8sSCirAFv6YBmuw",
+      "ticket": 1.0,
+      "sola": 1088.550398211
+    },
+    {
+      "address": "HbbkSeE5sB4wZULqmRnAjfSruSzrzFGuhnxRW8y2Snv2",
+      "ticket": 1.0,
+      "sola": 1088.179513562
+    },
+    {
+      "address": "AHNNnLTTXecumJ6DNevsnMsQrdayywr6wXQYTMWh9nfD",
+      "ticket": 1,
+      "sola": 1086
+    },
+    {
+      "address": "5Uq9Q4j3W8WhTZuofTifSzoZTaj4yfQcuN3D5BLYrZ2r",
+      "ticket": 1.0,
+      "sola": 1085.940017342
+    },
+    {
+      "address": "4Nc1vCyvbuh4PsSL7PWg1AYhzp5ecpFtKsbcn63hdq7y",
+      "ticket": 1.0,
+      "sola": 1085.577172006
+    },
+    {
+      "address": "EWvH7tsjR5SjWzMPaiD5pusZdbB2BCu9zhQ29dU4NMd4",
+      "ticket": 1.0,
+      "sola": 1085.397105221
+    },
+    {
+      "address": "CUY6QesjAKyKXe8zHKwUJGtPKprPQnxV4gfBfP4A4Abe",
+      "ticket": 1.0,
+      "sola": 1085.124024816
+    },
+    {
+      "address": "Fy67x8fxtsH5mcK6BFzK49FBbxNqhUpEoRoFp5AWspXP",
+      "ticket": 1.0,
+      "sola": 1083.544433836
+    },
+    {
+      "address": "GjDyxxUsokndukQNEyduudM4aZ3Z33ZP3sDvSGeBxzEi",
+      "ticket": 1.0,
+      "sola": 1083.017348627
+    },
+    {
+      "address": "GC67Ry4Hy8EvUfpaZNgBf8dkLb71gGjNSeioZRQV6eup",
+      "ticket": 1,
+      "sola": 1082
+    },
+    {
+      "address": "F1X9d1T42giq7VKM8hPR6Ken4hEE3skKCVFpEohss8zV",
+      "ticket": 1.0,
+      "sola": 1079.601910697
+    },
+    {
+      "address": "25iisDYKkRkDBW276kPfhZ7sQqPnQkkUwDUZJXmwFihK",
+      "ticket": 1.0,
+      "sola": 1076.32977914
+    },
+    {
+      "address": "HJZAnkphdgWzW9qzwBWuUQd9BtXJf7XB4DksE1pS2pNZ",
+      "ticket": 1.0,
+      "sola": 1075.811520817
+    },
+    {
+      "address": "4J9tpwXWxCx5Ex4p66pK9roNrWwoNnmGGG2yCkV4wPhB",
+      "ticket": 1.0,
+      "sola": 1073.053409099
+    },
+    {
+      "address": "53zZaccmPMbhmEdCi5vaAboCFBbkiwV81WSd97HpigLV",
+      "ticket": 1.0,
+      "sola": 1072.93709344
+    },
+    {
+      "address": "A5o4mFiMLL1nJWpo6PzcCKa7a1XtPNQVeWooduX6CD4C",
+      "ticket": 1.0,
+      "sola": 1071.205488714
+    },
+    {
+      "address": "2xtyabDTqeLM8PoD4Qjh9M85SHPtmaAwKETYrRsw8mX3",
+      "ticket": 1.0,
+      "sola": 1069.525463925
+    },
+    {
+      "address": "49iWT7qQrqMiQii6wwwKdpHXhgGVYVtfsBDyBKVNjV4U",
+      "ticket": 1,
+      "sola": 1066
+    },
+    {
+      "address": "DpoxgFt4QKJ9TSpywEwyxmgT1rbK6vn9wfMxSeLY9sFP",
+      "ticket": 1,
+      "sola": 1065
+    },
+    {
+      "address": "FDrfi3dm1G4qdpitzyShspAdpsEvtCvzoCGWrP1xPmFv",
+      "ticket": 1,
+      "sola": 1062
+    },
+    {
+      "address": "25nmT8SiKxjZEzv3nffPLrvxZBByJecgyuFG9VSndujA",
+      "ticket": 1,
+      "sola": 1057
+    },
+    {
+      "address": "9PiVXz43pkBvGeDVKN94oSaaM8pWK3zZSqGthCuNBd56",
+      "ticket": 1.0,
+      "sola": 1055.557245986
+    },
+    {
+      "address": "F4pMKr5yEXgHaNBkeAsXpzUxHeXduw2Sw4nF47VN5nzU",
+      "ticket": 1.0,
+      "sola": 1054.756809201
+    },
+    {
+      "address": "5mBpCwNcEJDDhyMf1QWcQYvKgGGWN3drDisn7c8w6LiV",
+      "ticket": 1,
+      "sola": 1050
+    },
+    {
+      "address": "53rK6xZvSTCNo2McXoY5WYzo17kssNkmd5C22TcDguwv",
+      "ticket": 1.0,
+      "sola": 1049.592943815
+    },
+    {
+      "address": "CQHSXfDKE8pAkD1cZfzDP7pSF5AHKJcW1hxenDPK87es",
+      "ticket": 1,
+      "sola": 1047
+    },
+    {
+      "address": "DULoVCVE7AUb1RCxzf77AkF4axh4QkALNDTkpv8RHxLC",
+      "ticket": 1.0,
+      "sola": 1046.595381174
+    },
+    {
+      "address": "6oRofQpdzfSvgMmuKLreKFrfJ5U9bUu1C9RZtkKt87bX",
+      "ticket": 1.0,
+      "sola": 1044.880702738
+    },
+    {
+      "address": "2NWEdE3Q71uoXRuBcX8G25wriKqRZ95qNvSZ5e3NMVfq",
+      "ticket": 1.0,
+      "sola": 1042.643554133
+    },
+    {
+      "address": "5dnk3AW4BKWkBRGo5CygB8pMKtFWFrX9AXf52MNRbb4D",
+      "ticket": 1.0,
+      "sola": 1041.120035738
+    },
+    {
+      "address": "GMdAh8L98RtY5x2z1hXszADLsxFzGbiwJaGiQvyTZzZd",
+      "ticket": 1.0,
+      "sola": 1041.070518648
+    },
+    {
+      "address": "3nSPRjczaSXKVfaDHJqTvNkCv2Vt7iviFQJVrqgwHE9U",
+      "ticket": 1.0,
+      "sola": 1041.045714462
+    },
+    {
+      "address": "6KBUxJFVW25EsYL975JdubonSNUhy6636mvhXi7DqUWs",
+      "ticket": 1,
+      "sola": 1040
+    },
+    {
+      "address": "73mxbY3s5twAdUtomQkiAxyRSZHBgLXsvG4smRAc3RWj",
+      "ticket": 1.0,
+      "sola": 1039.282352663
+    },
+    {
+      "address": "Bg6TAdMoSMNrA2gRqxsnSxjLBtMqKAMi4wBtiysTs1gn",
+      "ticket": 1.0,
+      "sola": 1039.22500022
+    },
+    {
+      "address": "EEmUyocgfVKtmDoKBaek8hrueWb3VrQPwReJTk8uegxP",
+      "ticket": 1,
+      "sola": 1039
+    },
+    {
+      "address": "Gh88XC5gJP4Dm3c2SKgusZcg11LMLDrjMz8T5hFv1pVc",
+      "ticket": 1.0,
+      "sola": 1037.922302387
+    },
+    {
+      "address": "9DipWKMwN44QxZFWVp4qP9wjLCkW8iieswxJbM5QT61n",
+      "ticket": 1.0,
+      "sola": 1035.33224323
+    },
+    {
+      "address": "3jhj89zfKfiyU85oDJiC6zxTGFjdfTL7itAsfgRtnaUm",
+      "ticket": 1.0,
+      "sola": 1034.495957902
+    },
+    {
+      "address": "A2SUCfUWt5b7Xgsa6PwzPfxYAXFC3rG42wpxpgugRySa",
+      "ticket": 1,
+      "sola": 1033
+    },
+    {
+      "address": "EKAsLXt4TfomkBADDC6Y3rmwvmezh5khwdRVcA9mcCTZ",
+      "ticket": 1.0,
+      "sola": 1032.54067906
+    },
+    {
+      "address": "TZJc1ERSPfwHQmiDRMakcWVX3zN5jwH4wAwy78fUTXS",
+      "ticket": 1,
+      "sola": 1032
+    },
+    {
+      "address": "DAy2R2pyCLDR4QNhhNTrar8XiL1xLZ6r4aGWUjmi482X",
+      "ticket": 1.0,
+      "sola": 1031.969452771
+    },
+    {
+      "address": "BAN1mw4JgNBgn2vNJVsfXfSGX8jYcGMnDcDifvXxDyDA",
+      "ticket": 1.0,
+      "sola": 1031.26637598
+    },
+    {
+      "address": "wGHDBhPqhHssJndXLpNUXigPEJcdExQ6EZbsHwXnq6C",
+      "ticket": 1,
+      "sola": 1030
+    },
+    {
+      "address": "FUThhXTg4LZUJ4XTk2UMitvar7qGJbE33D4qAfYvCjZv",
+      "ticket": 1,
+      "sola": 1028
+    },
+    {
+      "address": "5HpzYpJM8FfKv8zVyvRaYUj6GDSKVXP8hxw1SNkX1HjE",
+      "ticket": 1.0,
+      "sola": 1027.907266253
+    },
+    {
+      "address": "85KBPUkgJ9YDkgcsrHpeR6c4dUbgUYc8DkJb8VCQp2fP",
+      "ticket": 1.0,
+      "sola": 1020.888067705
+    },
+    {
+      "address": "HeRCDtHqri7wXxcpS9DmXcmfUXVqvjYCVXr2jY7kp1fg",
+      "ticket": 1.0,
+      "sola": 1020.393851976
+    },
+    {
+      "address": "6uTVxLer8eR3GgtDNJ2kotbc9JGVJsPrYV2XLZQagtsc",
+      "ticket": 1.0,
+      "sola": 1019.113598157
+    },
+    {
+      "address": "HHbdqtzMFPxhQ57Fp3zigWsKYK6RLyYK2M6a25A7Peac",
+      "ticket": 1.0,
+      "sola": 1018.457383032
+    },
+    {
+      "address": "FcsUtJ9qXc9K7wc9AuTsQZVFdVdYWhGkh75rYd6GFBRB",
+      "ticket": 1.0,
+      "sola": 1017.974185343
+    },
+    {
+      "address": "F5G3bT4q6EdXPXs2HXg4Fazq3Uqhhv7B9aWdnm6fZcRY",
+      "ticket": 1.0,
+      "sola": 1017.226117328
+    },
+    {
+      "address": "GYx2t8rGFmUr4mMz1DAFhVWM5dgcQNPBRh8DUAN7KZYz",
+      "ticket": 1.0,
+      "sola": 1015.637392884
+    },
+    {
+      "address": "JAEAbCED6SChwJrxdksJDe4r1Z1B6vX7LKDQsvU8KXzL",
+      "ticket": 1.0,
+      "sola": 1015.562519161
+    },
+    {
+      "address": "DhXnaknH5ZXNk1CqysTUeViATHWMSE2JFQBCbVn5Xj22",
+      "ticket": 1.0,
+      "sola": 1015.478683382
+    },
+    {
+      "address": "HV9CAC5FJyrBB9njx6dpZSgjdFzHuzcTi4YUQcDDXSx6",
+      "ticket": 1.0,
+      "sola": 1014.50984498
+    },
+    {
+      "address": "HBBfTEe33Wu6Yy1eocmF4BWsgC7tfvDitna3YNs9EEYf",
+      "ticket": 1.0,
+      "sola": 1014.068154373
+    },
+    {
+      "address": "H4EwLsNaEWAFtFUJs4zg9g1uFYakdjmeY4FHohU3e5nK",
+      "ticket": 1.0,
+      "sola": 1014.029367818
+    },
+    {
+      "address": "48Q28c3YBQnMgthPV4seGEZmyhxdpXaZ9ADZ49NSFPzY",
+      "ticket": 1.0,
+      "sola": 1013.986650141
+    },
+    {
+      "address": "6mXhiSaDiLpVR8wUpV6AeXgidhQrRrstQqddcw5sGvgX",
+      "ticket": 1.0,
+      "sola": 1013.544840584
+    },
+    {
+      "address": "BWD6LLbKSimBn43H8RKTKM5fQuggkfxHjtXctgzyqjRK",
+      "ticket": 1.0,
+      "sola": 1012.929137302
+    },
+    {
+      "address": "AujjyqDKpWegRrJfdJVnRU3cW3UpvqHuCKu4Nu9Y2Lj7",
+      "ticket": 1.0,
+      "sola": 1012.813641448
+    },
+    {
+      "address": "5u9ZPEmvP5TnKFYPxjshNhDe1zcYE1DVBKiw1jFZzq54",
+      "ticket": 1.0,
+      "sola": 1012.259738246
+    },
+    {
+      "address": "9YQ1db2Au2r51RSs6wDDFiu2qrExSjKcyBKcsypaNqdb",
+      "ticket": 1.0,
+      "sola": 1012.082082851
+    },
+    {
+      "address": "AruEkpWfCZnq1VrwZmonazbhiGFdiK7zcnFMrDZWu4mC",
+      "ticket": 1,
+      "sola": 1012
+    },
+    {
+      "address": "4nDb9Hjp3RuVifs4VV4gqhHjV8Ag6VQTFPqE6H5tf3Q6",
+      "ticket": 1.0,
+      "sola": 1011.20335291
+    },
+    {
+      "address": "CNtrVXFHbiQCoEeoCAfMkS6cJCsa2cbu4sSYXRYc7NDW",
+      "ticket": 1,
+      "sola": 1011
+    },
+    {
+      "address": "AETqgYv4ZbxWKAjndoucagnzjwVdPCMQXQf4SmdEemwe",
+      "ticket": 1.0,
+      "sola": 1010.943900326
+    },
+    {
+      "address": "3to8FwCHuM7J7uXMcrNen3h2gUVshxKyYgBcsZe2P72s",
+      "ticket": 1.0,
+      "sola": 1010.552647599
+    },
+    {
+      "address": "HGXqrYBT8y1F2oepJnzqtwrWKsV65fEDsvZiSWZpTkCj",
+      "ticket": 1,
+      "sola": 1010
+    },
+    {
+      "address": "5eoUBmbhvjfd29g1wWtsMRp8LqiPjJQKEdfUqK1kdEou",
+      "ticket": 1,
+      "sola": 1010
+    },
+    {
+      "address": "5344MpvVGmF12mDoTTCcivDguzRjstU6gw2ZP6fhC8TE",
+      "ticket": 1,
+      "sola": 1010
+    },
+    {
+      "address": "9gvZTeGkQCEY9snpPrFZ6wEiQxULGywTtYuq4UduwvGQ",
+      "ticket": 1,
+      "sola": 1010
+    },
+    {
+      "address": "1E6gbreoFi11G5XFCmCKs7GmPgCEEhRko6q22Jf4kuU",
+      "ticket": 1.0,
+      "sola": 1009.99492314
+    },
+    {
+      "address": "2GcLuLe2jXXkfwCSrUZN2qJT29RQAVdGN4iZaZX4mjeR",
+      "ticket": 1.0,
+      "sola": 1009.498481258
+    },
+    {
+      "address": "FN9qP2VSFhyJ1mUrMJCV9vYFPDNeTU5sgu5jTi7QLzmp",
+      "ticket": 1.0,
+      "sola": 1008.972508743
+    },
+    {
+      "address": "Eyiptw8fR8kPwCtf1kgPgNBDQRnZBURbq21Lmm1DKZk6",
+      "ticket": 1.0,
+      "sola": 1008.382357924
+    },
+    {
+      "address": "EsCog5adqvB45UWBkKEwNTzxchPcj7vfwRERTmG1kWW7",
+      "ticket": 1,
+      "sola": 1008
+    },
+    {
+      "address": "BSbr7XEbwkjnXyYJwAFiLsFeKGHF6QMY9hQXvCQA6itj",
+      "ticket": 1,
+      "sola": 1008
+    },
+    {
+      "address": "JA54dMVxVSR5zEb1rB488Qv9Gh2QEk5pYMHmQYKR4Pf2",
+      "ticket": 1.0,
+      "sola": 1007.472889733
+    },
+    {
+      "address": "4Tj83wAeUg12u3UtUuhrzBnaiEcjXWpgZfhZywns5WhY",
+      "ticket": 1,
+      "sola": 1007
+    },
+    {
+      "address": "9q69vUZH581Ey4QBCqaFbKVWaeZLSseuUNKV1oAKwj9f",
+      "ticket": 1.0,
+      "sola": 1006.219032758
+    },
+    {
+      "address": "5Va5byqrBqX5F1iVox5AESZgomjqmTdYzqDZeGK644N6",
+      "ticket": 1.0,
+      "sola": 1006.109305103
+    },
+    {
+      "address": "Cjpo5RBu5MmyduxNn6kd5Lkh4aUQsZmY9ebSqD4VV5jG",
+      "ticket": 1,
+      "sola": 1006
+    },
+    {
+      "address": "2ihBjjZvsUU6XPLXPYJtHKx1hiMa78dn86DtDRBUp8Jc",
+      "ticket": 1.0,
+      "sola": 1005.775772704
+    },
+    {
+      "address": "DJTs8M3Gz66mRZ2f3JhL8NSUu9E647BLcLaG6o3EG5F1",
+      "ticket": 1.0,
+      "sola": 1005.341981967
+    },
+    {
+      "address": "D1ms2dCgaLDmY5CpDEoKzake87qvs8Trmmh8XbLiWhQ4",
+      "ticket": 1.0,
+      "sola": 1005.080893076
+    },
+    {
+      "address": "3vTaRJcnWfdixBzp4uiRuDwoG8Q7oXhrZUDBGNhpG8QF",
+      "ticket": 1,
+      "sola": 1005
+    },
+    {
+      "address": "AE3NEQGqjL8pWr9jM8QSdXWjVGyGJvaXJp9HuGDhtXuq",
+      "ticket": 1,
+      "sola": 1005
+    },
+    {
+      "address": "3DYiYCaBmk7dps9UEAtDfTNjrFhNS3yRyV9YBErtRmhs",
+      "ticket": 1,
+      "sola": 1005
+    },
+    {
+      "address": "Bek9goKFC2vA9Eq4vHbE7DfZqKH2zrQwLFh5Y6o5E5a2",
+      "ticket": 1.0,
+      "sola": 1004.408629536
+    },
+    {
+      "address": "41dR1VSPhrn4TUzf2jYUHgdAcVAV7DnPLcLccuMm8Tc9",
+      "ticket": 1.0,
+      "sola": 1003.837054102
+    },
+    {
+      "address": "ErX6G4kQR7AuMeFWC3KYS6P1iwBVEn4rrLZXFav7AYPa",
+      "ticket": 1.0,
+      "sola": 1003.726961363
+    },
+    {
+      "address": "3wspYVFYF7Wqu8qzwMJc1ggH4P8PDQMDTRL6rJXzhnXv",
+      "ticket": 1.0,
+      "sola": 1002.511910256
+    },
+    {
+      "address": "J2sLu4xZqq7Mqe9ZhSVow7td3C1tHAzfXVYwVvo4o99P",
+      "ticket": 1,
+      "sola": 1002
+    },
+    {
+      "address": "3Rmpww2ErbTX3Knu2cFPzVevWLyCLRkLjK8cKHne3EP4",
+      "ticket": 1,
+      "sola": 1002
+    },
+    {
+      "address": "6chDx7HWBd2jxAEUEaKxid67hJQ54VBprpK8VcR3spvd",
+      "ticket": 1.0,
+      "sola": 1001.700777896
+    },
+    {
+      "address": "4p8Y4rvzXTeiwTrVwPeEudpcNRUUn4GUERxghGEZgBbb",
+      "ticket": 1.0,
+      "sola": 1001.004891152
+    },
+    {
+      "address": "21grnCYwcZBjAjPS8xWx9xFGejyNwAoM14Z8iWUoW7BG",
+      "ticket": 1,
+      "sola": 1001
+    },
+    {
+      "address": "F4g34Qrfbnjc3on5GpXxPPbvZMVcXc3JzaCaGMDQivB8",
+      "ticket": 1,
+      "sola": 1001
+    },
+    {
+      "address": "GMyLvnUH51JMTsbD4oLZPbvmH8hyhYCT4Gu1H3HJ8BHB",
+      "ticket": 1,
+      "sola": 1001
+    },
+    {
+      "address": "A1StPupFMA2gw7JB1pDoBPgWkfVtwUe3RKoRZo9bHvzs",
+      "ticket": 1,
+      "sola": 1001
+    },
+    {
+      "address": "ACt7bA7U66wxvbw7Y1RRyhuuG7BNe21kDMRtM5Q7cpLY",
+      "ticket": 1.0,
+      "sola": 1000.747636729
+    },
+    {
+      "address": "A4udMmNErRPLVxj2srDbDXSUz2dWyF8gijVMQRjWME4J",
+      "ticket": 1.0,
+      "sola": 1000.600222439
+    },
+    {
+      "address": "54ZB9aNeRbqfMhNJDcz21ezKN4v5k2xFp8DW2PDNaCgF",
+      "ticket": 1.0,
+      "sola": 1000.597523679
+    },
+    {
+      "address": "GDdzbGrks9Zr7CdUD7nsyi9465RRao7Lv4VGW9wtNBaS",
+      "ticket": 1.0,
+      "sola": 1000.498289211
+    },
+    {
+      "address": "6ZzDC3RYzYVXd5tZuds6yUsKySspvDdUqJYsPkwKdCwZ",
+      "ticket": 1.0,
+      "sola": 1000.48675394
+    },
+    {
+      "address": "EfiaFA6zfbeHYnvit4FE8KH3pMenRnEf6g13xb2a7WC4",
+      "ticket": 1.0,
+      "sola": 1000.433703715
+    },
+    {
+      "address": "MiWbkfjcb6q2TEMrd1n2EdXj7AAKYwUpgmSjcgqus5N",
+      "ticket": 1.0,
+      "sola": 1000.229285868
+    },
+    {
+      "address": "GxD6gvT5Pg8Pem8GXUHimB5thU7joKCcQJPEZpijJEks",
+      "ticket": 1.0,
+      "sola": 1000.029912709
+    }
+  ]
+}
